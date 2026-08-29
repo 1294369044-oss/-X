@@ -1,0 +1,30 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import NewsCard from "../../components/NewsCard.astro";
+import { getNews } from "../../lib/news";
+import { sectionDefinitions, categoryPath } from "../../lib/taxonomy";
+
+export function getStaticPaths() {
+  return sectionDefinitions.map(definition => ({ params: { slug: definition.slug }, props: { definition } }));
+}
+
+const { definition } = Astro.props;
+const news = (await getNews()).filter(item => item.section === definition.name);
+---
+<BaseLayout title={`${definition.name}｜澜讯`} description={definition.description}>
+  <div class="container listing-page">
+    <header class="listing-heading">
+      <span class="section-kicker">主栏目</span>
+      <h1>{definition.name}</h1>
+      <p>{definition.description}</p>
+    </header>
+    <nav class="subcategory-links large-subcategory-links" aria-label={`${definition.name}子栏目`}>
+      <a class="active" href={`/section/${definition.slug}/`}>全部</a>
+      {definition.categories.map(category => <a href={categoryPath(category.name)}>{category.name}</a>)}
+    </nav>
+    <div class="news-grid listing-grid">
+      {news.map(item => <NewsCard item={item} />)}
+    </div>
+    {news.length === 0 && <p class="empty-state">该栏目暂时没有内容。</p>}
+  </div>
+</BaseLayout>

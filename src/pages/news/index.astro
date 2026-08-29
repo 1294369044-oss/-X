@@ -1,0 +1,99 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import NewsCard from "../../components/NewsCard.astro";
+import { getNews } from "../../lib/news";
+import { sectionDefinitions, legacyCategoryMap } from "../../lib/taxonomy";
+
+const news = await getNews();
+const updatedAt = new Intl.DateTimeFormat("zh-CN", {
+  month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit",
+  timeZone: "Asia/Shanghai", hour12: false,
+}).format(new Date());
+---
+<BaseLayout title="全部最新｜澜讯">
+  <div class="container listing-page">
+    <header class="listing-heading">
+      <span class="section-kicker">全部最新</span>
+      <h1>按时间查看全部内容</h1>
+      <p>更新时间：{updatedAt} · 保留主栏目、子栏目和原始来源。</p>
+    </header>
+    <div class="two-level-filters" aria-label="按主栏目和子栏目筛选">
+      <div class="primary-filters">
+        <button class="active" data-section-filter="全部">全部</button>
+        {sectionDefinitions.map(section => <button data-section-filter={section.name}>{section.name}</button>)}
+      </div>
+      <div class="secondary-filters" data-subfilters="全部">
+        <button class="active" data-category-filter="全部">全部</button>
+      </div>
+      {sectionDefinitions.map(section => (
+        <div class="secondary-filters" data-subfilters={section.name} hidden>
+          <button class="active" data-category-filter="全部">全部</button>
+          {section.categories.map(category => <button data-category-filter={category.name}>{category.name}</button>)}
+        </div>
+      ))}
+    </div>
+    <label class="search listing-search"><span>搜索</span><input id="news-search" type="search" placeholder="输入关键词" autocomplete="off" /></label>
+    <div class="news-grid listing-grid" id="news-grid">
+      {news.map(item => <NewsCard item={item} />)}
+    </div>
+    <p class="empty-state" id="empty-state" hidden>没有找到符合条件的内容。</p>
+  </div>
+  <script is:inline define:vars={{ legacyCategoryMap }}>
+    const cards = [...document.querySelectorAll(".news-card")];
+    const sectionButtons = [...document.querySelectorAll("[data-section-filter]")];
+    const categoryButtons = [...document.querySelectorAll("[data-category-filter]")];
+    const subfilters = [...document.querySelectorAll("[data-subfilters]")];
+    const search = document.querySelector("#news-search");
+    const empty = document.querySelector("#empty-state");
+    const params = new URLSearchParams(location.search);
+    let section = params.get("section") ?? "全部";
+    let category = params.get("subcategory") ?? "全部";
+    const legacy = params.get("category");
+    if (legacy && legacyCategoryMap[legacy]) category = legacyCategoryMap[legacy];
+    if (!sectionButtons.some(button => button.dataset.sectionFilter === section)) section = "全部";
+
+    function showSubfilters() {
+      subfilters.forEach(group => { group.hidden = group.dataset.subfilters !== section; });
+      const visible = subfilters.find(group => group.dataset.subfilters === section);
+      if (visible && ![...visible.querySelectorAll("button")].some(button => button.dataset.categoryFilter === category)) category = "全部";
+      if (section === "全部") category = "全部";
+      categoryButtons.forEach(button => button.classList.toggle("active", button.dataset.categoryFilter === category && button.closest("[data-subfilters]")?.dataset.subfilters === section));
+    }
+
+    function refresh() {
+      const query = search?.value.trim().toLocaleLowerCase("zh-CN") ?? "";
+      let visible = 0;
+      cards.forEach(card => {
+        const matchesSection = section === "全部" || card.dataset.section === section;
+        const matchesCategory = category === "全部" || card.dataset.category === category;
+        const matchesText = !query || (card.dataset.search ?? "").toLocaleLowerCase("zh-CN").includes(query);
+        card.hidden = !(matchesSection && matchesCategory && matchesText);
+        if (!card.hidden) visible++;
+      });
+      sectionButtons.forEach(button => button.classList.toggle("active", button.dataset.sectionFilter === section));
+      if (empty) empty.hidden = visible !== 0;
+      showSubfilters();
+    }
+
+    sectionButtons.forEach(button => button.addEventListener("click", () => {
+      section = button.dataset.sectionFilter ?? "全部";
+      category = "全部";
+      const url = new URL(location.href);
+      section === "全部" ? url.searchParams.delete("section") : url.searchParams.set("section", section);
+      url.searchParams.delete("subcategory");
+      url.searchParams.delete("category");
+      history.replaceState({}, "", url);
+      refresh();
+    }));
+    categoryButtons.forEach(button => button.addEventListener("click", () => {
+      if (button.closest("[data-subfilters]")?.dataset.subfilters !== section) return;
+      category = button.dataset.categoryFilter ?? "全部";
+      const url = new URL(location.href);
+      category === "全部" ? url.searchParams.delete("subcategory") : url.searchParams.set("subcategory", category);
+      history.replaceState({}, "", url);
+      refresh();
+    }));
+    search?.addEventListener("input", refresh);
+    refresh();
+  </script>
+</BaseLayout>

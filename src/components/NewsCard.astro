@@ -7,8 +7,8 @@ const time = new Intl.DateTimeFormat("zh-CN", {
   timeZone: "Asia/Shanghai", hour12: false,
 }).format(new Date(item.publishedAt));
 ---
-<article class:list={["news-card", { compact }]} data-category={item.category} data-search={`${item.title} ${item.summary} ${item.source}`}>
-  <div class="card-meta"><span>{item.category}</span><time datetime={item.publishedAt}>{time}</time></div>
+<article class:list={["news-card", { compact }]} data-section={item.section} data-category={item.category} data-search={`${item.title} ${item.summary} ${item.source} ${item.section} ${item.category}`}>
+  <div class="card-meta"><span title={item.section}>{item.category}</span><time datetime={item.publishedAt}>{time}</time></div>
   <h3><a href={`/news/${item.slug}/`}>{item.title}</a></h3>
   {!compact && <p>{item.summary}</p>}
   <div class="card-source">来源：{item.source}</div>

@@ -1,6 +1,8 @@
 ---
 import "../styles/global.css";
+import "../styles/navigation.css";
 import generatedNews from "../data/generated-news.json";
+import { sectionDefinitions, categoryPath } from "../lib/taxonomy";
 
 interface Props {
   title?: string;
@@ -47,18 +49,22 @@ const today = new Intl.DateTimeFormat("zh-CN", {
         </a>
         <p>看清正在发生的事</p>
       </div>
-      <nav class="nav-wrap" aria-label="主导航">
+      <button class="menu-toggle" id="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav">
+        <span aria-hidden="true">☰</span><span>菜单</span>
+      </button>
+      <nav class="nav-wrap" id="main-nav" aria-label="主导航">
         <div class="nav container">
-          <a href="/">首页</a>
-          <a href="/?category=要闻">要闻</a>
-          <a href="/?category=国际">国际</a>
-          <a href="/?category=科技">科技</a>
-          <a href="/?category=游戏">游戏</a>
-          <a href="/?category=视频">视频</a>
-          <a href="/?category=财经">财经</a>
-          <a href="/?category=文化">文化</a>
-          <a href="/?category=生活">生活</a>
-          <a href="/about/">关于</a>
+          <a class="nav-home" href="/">首页</a>
+          {sectionDefinitions.map(section => (
+            <details class="nav-group">
+              <summary><span>{section.name}</span><span class="nav-chevron" aria-hidden="true">⌄</span></summary>
+              <div class="nav-menu">
+                <a class="nav-overview" href={`/section/${section.slug}/`}>栏目总览</a>
+                {section.categories.map(category => <a href={categoryPath(category.name)}>{category.name}</a>)}
+              </div>
+            </details>
+          ))}
+          <a class="nav-about" href="/about/">关于</a>
         </div>
       </nav>
     </header>
@@ -70,4 +76,18 @@ const today = new Intl.DateTimeFormat("zh-CN", {
       </div>
     </footer>
   </body>
+  <script>
+    const toggle = document.querySelector<HTMLButtonElement>("#menu-toggle");
+    const nav = document.querySelector<HTMLElement>("#main-nav");
+    toggle?.addEventListener("click", () => {
+      const open = nav?.classList.toggle("is-open") ?? false;
+      toggle.setAttribute("aria-expanded", String(open));
+    });
+    nav?.querySelectorAll("a").forEach(link => link.addEventListener("click", () => {
+      if (window.matchMedia("(max-width: 850px)").matches) {
+        nav.classList.remove("is-open");
+        toggle?.setAttribute("aria-expanded", "false");
+      }
+    }));
+  </script>
 </html>

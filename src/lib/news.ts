@@ -4,7 +4,7 @@ import generatedNews from "../data/generated-news.json";
 function isNewsItem(value: unknown): value is NewsItem {
   if (!value || typeof value !== "object") return false;
   const item = value as Record<string, unknown>;
-  return ["slug", "title", "summary", "category", "source", "sourceUrl", "publishedAt"].every(
+  return ["slug", "title", "summary", "section", "category", "source", "sourceUrl", "publishedAt"].every(
     key => typeof item[key] === "string"
   ) && Array.isArray(item.content) && item.content.every(p => typeof p === "string");
 }

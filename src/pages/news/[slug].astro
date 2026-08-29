@@ -17,9 +17,9 @@ const published = new Intl.DateTimeFormat("zh-CN", {
 ---
 <BaseLayout title={`${item.title}｜澜讯`} description={item.summary}>
   <article class="article container">
-    <nav class="breadcrumb" aria-label="面包屑"><a href="/">首页</a><span>/</span><span>{item.category}</span></nav>
+    <nav class="breadcrumb" aria-label="面包屑"><a href="/">首页</a><span>/</span><span>{item.section}</span><span>/</span><span>{item.category}</span></nav>
     <header>
-      <span class="section-kicker">{item.category}</span>
+      <span class="section-kicker">{item.section} · {item.category}</span>
       <h1>{item.title}</h1>
       <p class="article-deck">{item.summary}</p>
       <div class="article-meta"><span>来源：{item.source}</span><time datetime={item.publishedAt}>{published}</time></div>

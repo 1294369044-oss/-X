@@ -1,0 +1,34 @@
+---
+import NewsCard from "./NewsCard.astro";
+import type { NewsItem } from "../data/news";
+import type { SectionDefinition } from "../lib/taxonomy";
+import { categoryPath } from "../lib/taxonomy";
+
+interface Props {
+  definition: SectionDefinition;
+  items: NewsItem[];
+}
+
+const { definition, items } = Astro.props;
+const recent = items.filter(item => item.section === definition.name).slice(0, 8);
+---
+<section class="section-block" aria-labelledby={`section-${definition.slug}`}>
+  <div class="section-block-heading">
+    <div>
+      <span class="section-kicker">主栏目</span>
+      <h2 id={`section-${definition.slug}`}><a href={`/section/${definition.slug}/`}>{definition.name}</a></h2>
+      <p>{definition.description}</p>
+    </div>
+    <a class="section-more" href={`/section/${definition.slug}/`}>查看栏目 →</a>
+  </div>
+  <nav class="subcategory-links" aria-label={`${definition.name}子栏目`}>
+    {definition.categories.map(category => <a href={categoryPath(category.name)}>{category.name}</a>)}
+  </nav>
+  {recent.length > 0 ? (
+    <div class="news-grid section-news-grid">
+      {recent.map(item => <NewsCard item={item} />)}
+    </div>
+  ) : (
+    <p class="empty-state">该栏目暂时没有可展示的内容。</p>
+  )}
+</section>

@@ -1,6 +1,266 @@
 {
-  "generatedAt": "2026-08-29T06:10:34.687Z",
+  "generatedAt": "2026-08-29T10:04:29.250Z",
   "items": [
+    {
+      "slug": "feed-6993e7b5f3d7f9be",
+      "title": "三角洲新刀皮 演示视频",
+      "summary": "小黑盒游戏新闻，请打开原文查看完整内容。",
+      "content": [
+        "小黑盒游戏新闻，请打开原文查看完整内容。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189339532",
+      "publishedAt": "2026-08-29T10:04:23.000Z"
+    },
+    {
+      "slug": "feed-32fec4f9f1e124ee",
+      "title": "显卡涨到买不起，老黄给老显卡来了波史诗级画质续命",
+      "summary": "最近想换显卡的大伙儿，估计钱包已经有点遭不住了。内存涨价的风已经完全在显卡当**开了。有多夸张呢？目前 RTX 5070Ti 已经从 618 的 6200 元均价来到了万元左右，涨幅接近 60%。就连今年“刚刚发售”的 RTX 3060 12GB 价格都冲",
+      "content": [
+        "最近想换显卡的大伙儿，估计钱包已经有点遭不住了。内存涨价的风已经完全在显卡当**开了。有多夸张呢？目前 RTX 5070Ti 已经从 618 的 6200 元均价来到了万元左右，涨幅接近 60%。就连今年“刚刚发售”的 RTX 3060 12GB 价格都冲"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189346218",
+      "publishedAt": "2026-08-29T10:04:23.000Z"
+    },
+    {
+      "slug": "feed-3a90c2cc09a37d11",
+      "title": "三角洲S11赛季新刀皮、砖皮泄露：带一点科幻元素的彩虹小刀",
+      "summary": "昨天三角洲官方发布了S11新赛季刀皮前瞻宣传海报，并表示9月4日，全新传说近战武器即将到来!不过今天来了个大的，新刀皮和新砖皮的视频已经被曝光了出来，看视频来说应该不是Ai生成的，Ai还没办法做到这种动作质感。以下内容均来源于网络，一切以游戏正式服上线为准",
+      "content": [
+        "昨天三角洲官方发布了S11新赛季刀皮前瞻宣传海报，并表示9月4日，全新传说近战武器即将到来!不过今天来了个大的，新刀皮和新砖皮的视频已经被曝光了出来，看视频来说应该不是Ai生成的，Ai还没办法做到这种动作质感。以下内容均来源于网络，一切以游戏正式服上线为准"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189345296",
+      "publishedAt": "2026-08-29T10:04:22.000Z"
+    },
+    {
+      "slug": "feed-dc912c12890254ac",
+      "title": "3 个月 30 刀的 supergrok 还挺香的， 自己操作难度 1～2 星",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 只要是美区的appleid都可以享受支付宝切换到旧金山，首页点击下方绿色的REI图标，用支付宝直接就可以按人民币购买充值到apple账户，然后下载grok，余额够30刀可以开7天免费试用开通之后，假装要downgrade套餐，grok给出3个月，每月10刀的挽留优惠30刀成功喜提3个月+7天的supergrok我是",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 只要是美区的appleid都可以享受支付宝切换到旧金山，首页点击下方绿色的REI图标，用支付宝直接就可以按人民币购买充值到apple账户，然后下载grok，余额够30刀可以开7天免费试用开通之后，假装要downgrade套餐，grok给出3个月，每月10刀的挽留优惠30刀成功喜提3个月+7天的supergrok我是"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-900428-1",
+      "publishedAt": "2026-08-29T10:03:20.000Z"
+    },
+    {
+      "slug": "feed-c49b151520454e4d",
+      "title": "关于dmit pro主机的v4与v6搭配",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 大家有没有办法一个域名同时解析ipv4和ipv6的时候在客户端连接的时候自动让电信走v4其他两个走v6呢",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 大家有没有办法一个域名同时解析ipv4和ipv6的时候在客户端连接的时候自动让电信走v4其他两个走v6呢"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-900426-1",
+      "publishedAt": "2026-08-29T10:02:24.000Z"
+    },
+    {
+      "slug": "feed-a8a38f4226a25821",
+      "title": "【收] 450收 NoBrand Super IPLC SHJP IND 5CM KFC 年付399",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 要出的老板私信或者带价都行。",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 要出的老板私信或者带价都行。"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-900424-1",
+      "publishedAt": "2026-08-29T10:01:15.000Z"
+    },
+    {
+      "slug": "feed-36155de294e81995",
+      "title": "有个冤种妹妹怎么办[cube_僵尸][cube_僵尸]",
+      "summary": "小黑盒游戏新闻，请打开原文查看完整内容。",
+      "content": [
+        "小黑盒游戏新闻，请打开原文查看完整内容。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189337771",
+      "publishedAt": "2026-08-29T09:59:35.000Z"
+    },
+    {
+      "slug": "feed-593431fbe49541f8",
+      "title": "上了辆gpt合租黑车，大家以后要注意这种情况",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 刚开的pro20车，没两天就开始降智了。主要是车头也不管rpm问题，调的特别高导致经常429。大伙以后合租的时候一定要问清楚rpm限制问题以及是否是降智的车",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 刚开的pro20车，没两天就开始降智了。主要是车头也不管rpm问题，调的特别高导致经常429。大伙以后合租的时候一定要问清楚rpm限制问题以及是否是降智的车"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-900418-1",
+      "publishedAt": "2026-08-29T09:59:22.000Z"
+    },
+    {
+      "slug": "feed-599e0f44e58fbcc0",
+      "title": "出Taipei101 两台小机， LAX1 15.5刀/年付 | LAX4 1.47刀/月",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 LAX1：2027年4月10日到期，15.5$/y，剩余65LAX4：2026年9月7日到期，1.47$/m，剩余3.5均官网push出，需要0.3$手续费，看着给吧。LAX1NQ和这个一样https://www.nodeseek.com/post-899836-1LAX4NQ和这个一样https://www.no",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 LAX1：2027年4月10日到期，15.5$/y，剩余65LAX4：2026年9月7日到期，1.47$/m，剩余3.5均官网push出，需要0.3$手续费，看着给吧。LAX1NQ和这个一样https://www.nodeseek.com/post-899836-1LAX4NQ和这个一样https://www.no"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-900416-1",
+      "publishedAt": "2026-08-29T09:58:25.000Z"
+    },
+    {
+      "slug": "feed-e0862463dddda13e",
+      "title": "我新买的 VPS，不到一天就被扫了 16223 次",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 我新买的VPS，不到一天就被扫了16223次（失败认证），当时只记得测试了，忘了安装fail2ban",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 我新买的VPS，不到一天就被扫了16223次（失败认证），当时只记得测试了，忘了安装fail2ban"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-900413-1",
+      "publishedAt": "2026-08-29T09:55:26.000Z"
+    },
+    {
+      "slug": "feed-b3a5c34465d0320b",
+      "title": "🚀【出】Nobrand 沪日 IPLC 专线 4 台机",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 🚀【出】Nobrand沪日IPLC专线4台特惠/绝版机合集📌线路亮点：上海-日本IPLC专线，超低延迟、晚高峰稳定不炸，适合游戏加速、核心代理及流媒体解锁。🔍在售机器详细配置1️⃣【绝版高性价】VME50IPLCSHJPIND4CMDUALVPS(4CM-2特殊款)核心亮点：400续费的特殊4CM-2双网卡版",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 🚀【出】Nobrand沪日IPLC专线4台特惠/绝版机合集📌线路亮点：上海-日本IPLC专线，超低延迟、晚高峰稳定不炸，适合游戏加速、核心代理及流媒体解锁。🔍在售机器详细配置1️⃣【绝版高性价】VME50IPLCSHJPIND4CMDUALVPS(4CM-2特殊款)核心亮点：400续费的特殊4CM-2双网卡版"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-900412-1",
+      "publishedAt": "2026-08-29T09:55:20.000Z"
+    },
+    {
+      "slug": "feed-8cc8060f916f6719",
+      "title": "【TQ】Matrixidc-8元小鸡-中美直连4837线路，晚6:00线路测评留档",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 IPv4回程IPv4大包回程教育网回程国际互联单线程测速有需要的老板，可以走我这个邀请连接进去：https://matrixidc.net/r/ZASSD4F注册就送20元体验金，最低配置首月仅需8元。",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 IPv4回程IPv4大包回程教育网回程国际互联单线程测速有需要的老板，可以走我这个邀请连接进去：https://matrixidc.net/r/ZASSD4F注册就送20元体验金，最低配置首月仅需8元。"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-900409-1",
+      "publishedAt": "2026-08-29T09:54:49.000Z"
+    },
+    {
+      "slug": "feed-73cbe2ce2ee6e35c",
+      "title": "2万均订、月入10万的爆款小说完结，结果作者准备去找个稳定工作",
+      "summary": "大家如果写出一本能月入10万，总稿费能过百万的小说，写完之后大家是会选择继续写小说呢，还是去选择找工作？而今天要说的这位月入十万的爆款作者，完结后直接说准备去找工作。就是这本《从魔法少女开始独断万古》，去年8月份开的书，到现在也刚好一年了，作者更新速度也不",
+      "content": [
+        "大家如果写出一本能月入10万，总稿费能过百万的小说，写完之后大家是会选择继续写小说呢，还是去选择找工作？而今天要说的这位月入十万的爆款作者，完结后直接说准备去找工作。就是这本《从魔法少女开始独断万古》，去年8月份开的书，到现在也刚好一年了，作者更新速度也不"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189327937",
+      "publishedAt": "2026-08-29T09:54:03.000Z"
+    },
+    {
+      "slug": "feed-a475f859774ec41c",
+      "title": "s11新刀皮演示",
+      "summary": "小黑盒游戏新闻，请打开原文查看完整内容。",
+      "content": [
+        "小黑盒游戏新闻，请打开原文查看完整内容。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189340856",
+      "publishedAt": "2026-08-29T09:41:18.000Z"
+    },
+    {
+      "slug": "feed-f8f0d1812864d143",
+      "title": "疑似ai生成[cube_欧润吉]",
+      "summary": "小黑盒游戏新闻，请打开原文查看完整内容。",
+      "content": [
+        "小黑盒游戏新闻，请打开原文查看完整内容。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189339336",
+      "publishedAt": "2026-08-29T09:08:16.000Z"
+    },
+    {
+      "slug": "feed-807acb6e3557a7d7",
+      "title": "【8/29】今日骨折游戏大全，全部一折及以下",
+      "summary": "又有几款游戏骨折了，各位感兴趣的喝油可以挑一挑。接下来给大家提供简洁的游戏清单：喜欢的喝油可以点个赞充个电哦，谢谢啦[cube_电牛][cube_电牛]",
+      "content": [
+        "又有几款游戏骨折了，各位感兴趣的喝油可以挑一挑。接下来给大家提供简洁的游戏清单：喜欢的喝油可以点个赞充个电哦，谢谢啦[cube_电牛][cube_电牛]"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189307092",
+      "publishedAt": "2026-08-29T07:05:51.000Z"
+    },
+    {
+      "slug": "feed-044a402b6b60aaca",
+      "title": "《小杨有约29#》：陈泽",
+      "summary": "小杨有约第二十九期！ 视频内容纯属娱乐，不要当真～ 你希望在节目里看到谁呢？ 欢迎关注！一键三连也拜托了！！",
+      "content": [
+        "小杨有约第二十九期！ 视频内容纯属娱乐，不要当真～ 你希望在节目里看到谁呢？ 欢迎关注！一键三连也拜托了！！"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 小杨Johnson · 386,426 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1s7tK6AECw",
+      "publishedAt": "2026-08-29T06:00:00.000Z"
+    },
+    {
+      "slug": "feed-7e644e921561140c",
+      "title": "这台价值69999元的ROG枪神10X主机，体验如何？",
+      "summary": "ROG这个品牌一直以来的精髓就是炫酷的设计，与不灭的信仰，今天我们就抱来一台任谁走过路过都会多瞧两眼的ROG全息主机—枪神10X, 不仅外观亮眼，内部还搭载到AMD R9 9950X3D2与RTX5080 夜神的性能配置。 那今天我们就来看看这台价值69999的品牌整机，实际用料与游戏体验究竟如何？如果你也对ROG大眼充满兴趣，千万别错过这期的节目！",
+      "content": [
+        "ROG这个品牌一直以来的精髓就是炫酷的设计，与不灭的信仰，今天我们就抱来一台任谁走过路过都会多瞧两眼的ROG全息主机—枪神10X, 不仅外观亮眼，内部还搭载到AMD R9 9950X3D2与RTX5080 夜神的性能配置。 那今天我们就来看看这台价值69999的品牌整机，实际用料与游戏体验究竟如何？如果你也对ROG大眼充满兴趣，千万别错过这期的节目！"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 二斤啦啦啦啦 · 140,382 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1AAtT6aE7q",
+      "publishedAt": "2026-08-29T06:00:00.000Z"
+    },
+    {
+      "slug": "feed-ad12ab3c56a9e72a",
+      "title": "《下一个是谁》恐怖特辑——无限循环的寺庙",
+      "summary": "《下一个是谁》恐怖特辑！！感谢燕云十六声的大力支持！！喜欢的话记得一键三连！！正片第四期正在全速剪辑中！！！",
+      "content": [
+        "《下一个是谁》恐怖特辑！！感谢燕云十六声的大力支持！！喜欢的话记得一键三连！！正片第四期正在全速剪辑中！！！"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 雨哥到处跑 · 458,945 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1GrtK62EfT",
+      "publishedAt": "2026-08-29T05:00:00.000Z"
+    },
+    {
+      "slug": "feed-b35525925743035f",
+      "title": "老叟戏顽童 白俄戏欧盟",
+      "summary": "本视频提及事件以及信息来源如下： 《白俄罗斯难民危机背后的立陶宛阴影》来自：新民晚报，2021-11-15 12:09发布 《“混合威胁不断上升”：拉脱维亚加强守卫与白俄边境》来自：参考消息，2023-08-16 12:17发布 《迷茫、愤怒、转变、出走：白俄罗斯抗议背后的年轻人》来自：澎湃新闻，2020-08-30 13:43发布 《拉脱维亚关闭与白俄罗斯唯一公路口岸》来自：每日经济新闻，2026-08-01 22:02发布 《全球连线｜直击波兰白俄罗斯边境难民危机》来自：新华网，2021-11-18",
+      "content": [
+        "本视频提及事件以及信息来源如下： 《白俄罗斯难民危机背后的立陶宛阴影》来自：新民晚报，2021-11-15 12:09发布 《“混合威胁不断上升”：拉脱维亚加强守卫与白俄边境》来自：参考消息，2023-08-16 12:17发布 《迷茫、愤怒、转变、出走：白俄罗斯抗议背后的年轻人》来自：澎湃新闻，2020-08-30 13:43发布 《拉脱维亚关闭与白俄罗斯唯一公路口岸》来自：每日经济新闻，2026-08-01 22:02发布 《全球连线｜直击波兰白俄罗斯边境难民危机》来自：新华网，2021-11-18"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 燕三嘤嘤嘤 · 660,132 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1VitP6GE9o",
+      "publishedAt": "2026-08-29T03:50:00.000Z"
+    },
     {
       "slug": "feed-cb6d7f2257b381a3",
       "title": "【独家】《凡人修仙传之慕兰之战》第13集【总第189集】",
@@ -8,8 +268,9 @@
       "content": [
         "每周六中午11:00，bilibili独家呈现"
       ],
-      "category": "视频",
-      "source": "哔哩哔哩热门 · 哔哩哔哩国创 · 2,652,416 播放",
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 哔哩哔哩国创 · 3,925,859 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV1AAtT6aE8m",
       "publishedAt": "2026-08-29T03:00:02.000Z"
     },
@@ -20,22 +281,25 @@
       "content": [
         "【明日方舟 × 女神异闻录３ Reload】SideStory「月行水上」限时活动即将开启 “您只需支付一项代价——为自己的选择负起相应的责任。” ———————————— 详细活动内容敬请关注《明日方舟》游戏内相关公告。"
       ],
-      "category": "视频",
-      "source": "哔哩哔哩热门 · 明日方舟 · 1,201,817 播放",
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 明日方舟 · 2,389,491 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV1zCtA6mEay",
       "publishedAt": "2026-08-29T03:00:00.000Z"
     },
     {
-      "slug": "feed-a7c3ce53681af730",
-      "title": "《古神: 风里希》科隆游戏展最新预告片 | 世界观前瞻",
-      "summary": "《古神：风里希》已开启预约，诚邀加入愿望单： Steam : https://store.steampowered.com/app/4346690/ 凡人在有限的岁月里，活出了神祇万年都不曾有过的东西——蜉蝣朝生暮死，也要振翅逐光。“你”从人的躯壳中起身，在探求自我的路上迈出了第一步。 《古神：风里希》是一款以中国创世神话为背景的 ARPG 游戏。你将以女娲抟土造出的第一个人类的身份，与后羿并肩射日，随轩辕帝共战蚩尤，每一次与巨神的交锋都是硬仗，每一次倒下都要从残躯中重新站起。永恒已死，一次生命足矣。",
+      "slug": "feed-cf680897628c8cc8",
+      "title": "飞天后销声匿迹，中国首位女航天员刘洋现状曝光，真实原因太感人",
+      "summary": "文、编辑|小娄 2012年，当刘洋第一次出现在神舟九号乘组名单中时，几乎一夜之间家喻户晓。 可这些年，随着一批批年轻航天员接连奔赴太空，很多人突然发现，那个曾经站在聚光灯中心的中国首位女航天员，似乎越来越少出现在飞行任务中了。 她到底去了哪里？ 直到2026年她再次公开露面，人们才发现，事情和想象中完全不同。",
       "content": [
-        "《古神：风里希》已开启预约，诚邀加入愿望单： Steam : https://store.steampowered.com/app/4346690/ 凡人在有限的岁月里，活出了神祇万年都不曾有过的东西——蜉蝣朝生暮死，也要振翅逐光。“你”从人的躯壳中起身，在探求自我的路上迈出了第一步。 《古神：风里希》是一款以中国创世神话为背景的 ARPG 游戏。你将以女娲抟土造出的第一个人类的身份，与后羿并肩射日，随轩辕帝共战蚩尤，每一次与巨神的交锋都是硬仗，每一次倒下都要从残躯中重新站起。永恒已死，一次生命足矣。"
+        "文、编辑|小娄 2012年，当刘洋第一次出现在神舟九号乘组名单中时，几乎一夜之间家喻户晓。 可这些年，随着一批批年轻航天员接连奔赴太空，很多人突然发现，那个曾经站在聚光灯中心的中国首位女航天员，似乎越来越少出现在飞行任务中了。 她到底去了哪里？ 直到2026年她再次公开露面，人们才发现，事情和想象中完全不同。"
       ],
-      "category": "视频",
-      "source": "哔哩哔哩热门 · 古神风里希 · 1,444,432 播放",
-      "sourceUrl": "https://www.bilibili.com/video/BV1xQtw6WELS",
-      "publishedAt": "2026-08-29T00:00:00.000Z"
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "msn.cn",
+      "sourceUrl": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E9%80%9A%E7%94%A8/%E9%A3%9E%E5%A4%A9%E5%90%8E%E9%94%80%E5%A3%B0%E5%8C%BF%E8%BF%B9-%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BD%8D%E5%A5%B3%E8%88%AA%E5%A4%A9%E5%91%98%E5%88%98%E6%B4%8B%E7%8E%B0%E7%8A%B6%E6%9B%9D%E5%85%89-%E7%9C%9F%E5%AE%9E%E5%8E%9F%E5%9B%A0%E5%A4%AA%E6%84%9F%E4%BA%BA/ar-AA2baeAz",
+      "publishedAt": "2026-08-29T02:01:06.000Z",
+      "featured": true
     },
     {
       "slug": "feed-b9f731f6954af93a",
@@ -44,10 +308,180 @@
       "content": [
         "IT之家注意到，此次行动针对的是位于美国俄亥俄州的外挂供应商 Elocarry，官方以《使命召唤》经典“Killcam”击杀回放的形式拍摄了整个过程，只不过视频中的“目标”并不是游戏里的敌人，而是现实中的外挂制作者。"
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
       "source": "tech.ifeng.com",
       "sourceUrl": "https://tech.ifeng.com/c/8vygjhnseSG",
-      "publishedAt": "2026-08-28T11:29:00.000Z"
+      "publishedAt": "2026-08-29T01:29:00.000Z"
+    },
+    {
+      "slug": "feed-bfafe4956b52a2f5",
+      "title": "“A+”背后的4万亿 外资机构唱多中国资产",
+      "summary": "8月28日，标普国际信用评级公司发布报告，决定维持中国主权信用评级“A+”、展望“稳定”。表面看，这次评级是“维持不变”，似乎不算惊喜。但若放在当前全球经济的坐标系里审视，这个“不变”本身的含金量，其实成色很足。首先，这不是孤证，而是趋于一致的国际判断。今年4月份，穆迪已率先将中国主权信用评级展望从“负面”上调至“稳定”，并维持A1评级。其次，这份评级来得并不轻松，是在全球经济的“逆风局”里给出的 ...",
+      "content": [
+        "8月28日，标普国际信用评级公司发布报告，决定维持中国主权信用评级“A+”、展望“稳定”。表面看，这次评级是“维持不变”，似乎不算惊喜。但若放在当前全球经济的坐标系里审视，这个“不变”本身的含金量，其实成色很足。首先，这不是孤证，而是趋于一致的国际判断。今年4月份，穆迪已率先将中国主权信用评级展望从“负面”上调至“稳定”，并维持A1评级。其次，这份评级来得并不轻松，是在全球经济的“逆风局”里给出的 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "wap.cj.sina.cn",
+      "sourceUrl": "https://wap.cj.sina.cn/pc/7x24/5066121",
+      "publishedAt": "2026-08-29T01:25:00.000Z"
+    },
+    {
+      "slug": "feed-79ea81e434d216c3",
+      "title": "当前中国经济怎么看丨“暖”：看民生答卷如何书写",
+      "summary": "2026年08月29日 08:23 作者 ...",
+      "content": [
+        "2026年08月29日 08:23 作者 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.sina.com.cn",
+      "sourceUrl": "https://news.sina.com.cn/zx/gj/2026-08-29/doc-inipyrwt9103446.shtml",
+      "publishedAt": "2026-08-29T01:22:00.000Z"
+    },
+    {
+      "slug": "feed-c2df6df63790afae",
+      "title": "大規模土石流の映像 中国で流れず",
+      "summary": "ローラ・ビッカー中国特派員（北京） その衝撃的な映像は、ほとんど見逃しようもなかった。ネパールと中国・チベットの間の国境検問所として、主要な拠点の一つとなっているギロン港を激流が襲った際の映像だ。水は、行く手を阻むものすべてを押し流した。数百人が命からがら逃げ惑う様子が撮影されていた。",
+      "content": [
+        "ローラ・ビッカー中国特派員（北京） その衝撃的な映像は、ほとんど見逃しようもなかった。ネパールと中国・チベットの間の国境検問所として、主要な拠点の一つとなっているギロン港を激流が襲った際の映像だ。水は、行く手を阻むものすべてを押し流した。数百人が命からがら逃げ惑う様子が撮影されていた。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.yahoo.co.jp",
+      "sourceUrl": "https://news.yahoo.co.jp/pickup/6593529",
+      "publishedAt": "2026-08-29T01:20:00.000Z"
+    },
+    {
+      "slug": "feed-a7c3ce53681af730",
+      "title": "《古神: 风里希》科隆游戏展最新预告片 | 世界观前瞻",
+      "summary": "《古神：风里希》已开启预约，诚邀加入愿望单： Steam : https://store.steampowered.com/app/4346690/ 凡人在有限的岁月里，活出了神祇万年都不曾有过的东西——蜉蝣朝生暮死，也要振翅逐光。“你”从人的躯壳中起身，在探求自我的路上迈出了第一步。 《古神：风里希》是一款以中国创世神话为背景的 ARPG 游戏。你将以女娲抟土造出的第一个人类的身份，与后羿并肩射日，随轩辕帝共战蚩尤，每一次与巨神的交锋都是硬仗，每一次倒下都要从残躯中重新站起。永恒已死，一次生命足矣。",
+      "content": [
+        "《古神：风里希》已开启预约，诚邀加入愿望单： Steam : https://store.steampowered.com/app/4346690/ 凡人在有限的岁月里，活出了神祇万年都不曾有过的东西——蜉蝣朝生暮死，也要振翅逐光。“你”从人的躯壳中起身，在探求自我的路上迈出了第一步。 《古神：风里希》是一款以中国创世神话为背景的 ARPG 游戏。你将以女娲抟土造出的第一个人类的身份，与后羿并肩射日，随轩辕帝共战蚩尤，每一次与巨神的交锋都是硬仗，每一次倒下都要从残躯中重新站起。永恒已死，一次生命足矣。"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 古神风里希 · 2,329,385 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1xQtw6WELS",
+      "publishedAt": "2026-08-29T00:00:00.000Z"
+    },
+    {
+      "slug": "feed-e43a3700c80a69c4",
+      "title": "ネパール・中国土石流、なお約3000人不明 死者600人超",
+      "summary": "当局によると、２６日に発生した土石流と洪水では、これまでにネパールで少なくとも６２６人、中国チベット自治区で７人が死亡した。行​方不明者は約３０００人に上り、ネパールで約２４２６人、チベット自治区の吉隆県​で少なくとも５５８人。うち外国人が約５４０人含まれ、その多くはイ⁠ンドからのヒンズー教巡礼者だという。",
+      "content": [
+        "当局によると、２６日に発生した土石流と洪水では、これまでにネパールで少なくとも６２６人、中国チベット自治区で７人が死亡した。行​方不明者は約３０００人に上り、ネパールで約２４２６人、チベット自治区の吉隆県​で少なくとも５５８人。うち外国人が約５４０人含まれ、その多くはイ⁠ンドからのヒンズー教巡礼者だという。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "jp.reuters.com",
+      "sourceUrl": "https://jp.reuters.com/world/us/DLIJCPS4MNKLNF2PTOHKGJTFVY-2026-08-29/",
+      "publishedAt": "2026-08-28T23:30:00.000Z"
+    },
+    {
+      "slug": "feed-552e0f6cd4c4f42a",
+      "title": "2026世界斯诺克武汉公开赛中国球员包揽冠亚军",
+      "summary": "8月28日晚，赵心童6:2战胜肖国栋，获得2026中国光谷世界斯诺克武汉公开赛一张决赛门票。在当天下午举行的另一场半决赛中，常冰玉以6:3击败奥沙利文。中国球员提前包揽本届武汉公开赛的冠亚军。 本届赛事的决赛将于29日开打，为19局10胜制。届时，“黑马 ...",
+      "content": [
+        "8月28日晚，赵心童6:2战胜肖国栋，获得2026中国光谷世界斯诺克武汉公开赛一张决赛门票。在当天下午举行的另一场半决赛中，常冰玉以6:3击败奥沙利文。中国球员提前包揽本届武汉公开赛的冠亚军。 本届赛事的决赛将于29日开打，为19局10胜制。届时，“黑马 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "hb.dzwww.com",
+      "sourceUrl": "https://hb.dzwww.com/p/peLPn8bsPG4.html",
+      "publishedAt": "2026-08-28T23:11:00.000Z"
+    },
+    {
+      "slug": "feed-afaedb3018f9f11e",
+      "title": "读懂中国经济的底气与潜能",
+      "summary": "8月28日，标普国际信用评级公司发布报告，维持中国主权信用评级“A+”、展望“稳定”。面对国内外错综复杂环境，中国经济这个“A+”评级，很有含金量，是国际市场和全球发展预期对中国宏观经济韧性、财政运行稳健性和风险防控有效性投下的信任票。上半年中国经济顶压前行， ...",
+      "content": [
+        "8月28日，标普国际信用评级公司发布报告，维持中国主权信用评级“A+”、展望“稳定”。面对国内外错综复杂环境，中国经济这个“A+”评级，很有含金量，是国际市场和全球发展预期对中国宏观经济韧性、财政运行稳健性和风险防控有效性投下的信任票。上半年中国经济顶压前行， ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.sina.com.cn",
+      "sourceUrl": "https://news.sina.com.cn/zx/gj/2026-08-29/doc-inipyfhx9278622.shtml",
+      "publishedAt": "2026-08-28T21:41:00.000Z"
+    },
+    {
+      "slug": "feed-72fb582768d8b43a",
+      "title": "ネパール・中国土石流 行方不明になった旅好きの仲良し一家 周辺 ...",
+      "summary": "ネパールと中国の国境付近で起きた大規模な土石流で、行方不明となっている大阪在住の日本人家族5人は、近所で旅行好きの仲良し家族として知られていた。 関係者などによると5人家族のうち、父親は支援学校の教員で母親は福祉関係のNPO法人の運営に携わっていた。また小学生の長女、長男がおり、次男は最近幼稚園に通い始めたという。",
+      "content": [
+        "ネパールと中国の国境付近で起きた大規模な土石流で、行方不明となっている大阪在住の日本人家族5人は、近所で旅行好きの仲良し家族として知られていた。 関係者などによると5人家族のうち、父親は支援学校の教員で母親は福祉関係のNPO法人の運営に携わっていた。また小学生の長女、長男がおり、次男は最近幼稚園に通い始めたという。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "sankei.com",
+      "sourceUrl": "https://www.sankei.com/article/20260829-UDBIBJGVZNLUDBQDYJ4XYX7POE/",
+      "publishedAt": "2026-08-28T19:32:00.000Z"
+    },
+    {
+      "slug": "feed-daf8f2999566ea97",
+      "title": "女装までして死体を遺棄した中国人留学生殺害犯、サイコパス検査 ...",
+      "summary": "慶尚北道慶山市で、同じ学校に通っていた中国出身の女子大学院生を殺害したとして身柄を拘束された中国人の非常勤講師が、サイコパス診断検査を拒否した。 【写真】女装したまま家を出る慶山の中国人留学生殺害犯の姿 ...",
+      "content": [
+        "慶尚北道慶山市で、同じ学校に通っていた中国出身の女子大学院生を殺害したとして身柄を拘束された中国人の非常勤講師が、サイコパス診断検査を拒否した。 【写真】女装したまま家を出る慶山の中国人留学生殺害犯の姿 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.yahoo.co.jp",
+      "sourceUrl": "https://news.yahoo.co.jp/articles/2bbafd1f879928c782365a90f6c3c10c7fbbc680",
+      "publishedAt": "2026-08-28T19:10:00.000Z"
+    },
+    {
+      "slug": "feed-89a4712190778258",
+      "title": "中国男篮赢球后，主帅郭士强回应，NBA官方发声，美国媒体点评了",
+      "summary": "2026年8月28日凌晨，多哈贾努布球馆，男篮世界杯亚洲区预选赛第二阶段首战，中国男篮客场83比57大胜卡塔尔队，净胜26分拿下开门红。 全队12人全部登场，11人得分，5人得分上双，全场仅6次失误。 投篮命中率48.44%，三分命中率36.36%，罚球命中率75%。 比分牌上的数字很漂亮，但赛后真正让外界集体关注的焦点，是一个不到20分钟就打出了统治级表现的21岁少年。 主教练郭士强赛后连笑都没 ...",
+      "content": [
+        "2026年8月28日凌晨，多哈贾努布球馆，男篮世界杯亚洲区预选赛第二阶段首战，中国男篮客场83比57大胜卡塔尔队，净胜26分拿下开门红。 全队12人全部登场，11人得分，5人得分上双，全场仅6次失误。 投篮命中率48.44%，三分命中率36.36%，罚球命中率75%。 比分牌上的数字很漂亮，但赛后真正让外界集体关注的焦点，是一个不到20分钟就打出了统治级表现的21岁少年。 主教练郭士强赛后连笑都没 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "sohu.com",
+      "sourceUrl": "https://www.sohu.com/a/1069316782_122429474",
+      "publishedAt": "2026-08-28T19:02:00.000Z"
+    },
+    {
+      "slug": "feed-3acda2abffb5118e",
+      "title": "[新闻直播间]中埃“文明之鹰-2026”空军联合训练 跨洲际远程投送 ...",
+      "summary": "中埃“文明之鹰-2026”空军联合训练：跨洲际远程投送，中国空军成体系参训。",
+      "content": [
+        "中埃“文明之鹰-2026”空军联合训练：跨洲际远程投送，中国空军成体系参训。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "tv.cctv.com",
+      "sourceUrl": "https://tv.cctv.com/2026/08/29/VIDEUpS1m6KMKGderd36NHTx260829.shtml",
+      "publishedAt": "2026-08-28T18:55:00.000Z"
+    },
+    {
+      "slug": "feed-14836ab7ca270be0",
+      "title": "动视上门向知名COD外挂作者送律师函 全程录像",
+      "summary": "今日早间，动视公布了《使命召唤》多人模式反外挂专项行动的最新进展，这次的操作力度颇受关注：发行方直接派出法务人员，前往知名外挂制作者Elocarry的住所，向其送达停止侵权的下架禁令，并且全程拍摄了整个过程。《使命召唤》官方账号在X平台发布了一段一分钟的视频，记录了法务人员携禁令文件抵达俄亥俄州Elocarry住所的过程。视频内容本身并没有太强的戏剧冲突——法务人员说明来意后递交了法律告知文件，E ...",
+      "content": [
+        "今日早间，动视公布了《使命召唤》多人模式反外挂专项行动的最新进展，这次的操作力度颇受关注：发行方直接派出法务人员，前往知名外挂制作者Elocarry的住所，向其送达停止侵权的下架禁令，并且全程拍摄了整个过程。《使命召唤》官方账号在X平台发布了一段一分钟的视频，记录了法务人员携禁令文件抵达俄亥俄州Elocarry住所的过程。视频内容本身并没有太强的戏剧冲突——法务人员说明来意后递交了法律告知文件，E ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "news.qq.com",
+      "sourceUrl": "https://news.qq.com/rain/a/20260829A08N2Z00",
+      "publishedAt": "2026-08-28T18:07:00.000Z"
+    },
+    {
+      "slug": "feed-b56b3205b52489e3",
+      "title": "《使命召唤：现代战争4》公开试玩已正式开放，新增战争地带模式",
+      "summary": "【本文由小黑盒作者@风景如画aaa于08月29日发布，转载请标明出处！】 第二个试玩周末现已向所有玩家开放，并增加战争地带模式 游戏主菜单页面 关于此游戏 北京时间8月29日凌晨一点准时开放 公开试玩将于8月29日至9月1日期间面向所有玩家开放*(北京时间8月29日凌晨1点～9月2日凌晨1点)，公开试玩为期4天。",
+      "content": [
+        "【本文由小黑盒作者@风景如画aaa于08月29日发布，转载请标明出处！】 第二个试玩周末现已向所有玩家开放，并增加战争地带模式 游戏主菜单页面 关于此游戏 北京时间8月29日凌晨一点准时开放 公开试玩将于8月29日至9月1日期间面向所有玩家开放*(北京时间8月29日凌晨1点～9月2日凌晨1点)，公开试玩为期4天。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "msn.cn",
+      "sourceUrl": "https://www.msn.cn/zh-cn/news/other/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%8E%B0%E4%BB%A3%E6%88%98%E4%BA%894-%E5%85%AC%E5%BC%80%E8%AF%95%E7%8E%A9%E5%B7%B2%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BE-%E6%96%B0%E5%A2%9E%E6%88%98%E4%BA%89%E5%9C%B0%E5%B8%A6%E6%A8%A1%E5%BC%8F/ar-AA2b9OIk",
+      "publishedAt": "2026-08-28T13:05:23.000Z"
     },
     {
       "slug": "feed-89889eb521c8d048",
@@ -56,10 +490,11 @@
       "content": [
         "暂无摘要，请前往原始来源查看完整内容。"
       ],
-      "category": "视频",
+      "category": "B站热门",
       "source": "哔哩哔哩热门 · 李炮炮儿 · 907,674 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV1iStA6CETt",
-      "publishedAt": "2026-08-28T09:30:00.000Z"
+      "publishedAt": "2026-08-28T09:30:00.000Z",
+      "section": "游戏娱乐"
     },
     {
       "slug": "feed-85f15918c27be844",
@@ -68,10 +503,11 @@
       "content": [
         "五个性格不同的少年，开着一辆房车，向着共同的目的地出发。原本以为这会是一场轻松愉快的旅行，没想到一路上状况不断：陌生的路线、突如其来的意外、意见不合时的争吵，以及计划之外的各种小插曲。五个人在互相嫌弃中慢慢磨合，也在彼此照顾中重新认识对方。最终能否顺利抵达目的地或许很重要，但这一路共同经历的狼狈、快乐与成长，才是这趟旅程真正留下来的东西。节目共五期，不定期更新。"
       ],
-      "category": "视频",
+      "category": "B站热门",
       "source": "哔哩哔哩热门 · 贤宝宝Baby · 761,547 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV1Jktc6rERm",
-      "publishedAt": "2026-08-28T09:00:00.000Z"
+      "publishedAt": "2026-08-28T09:00:00.000Z",
+      "section": "游戏娱乐"
     },
     {
       "slug": "feed-ef727d053fe3070f",
@@ -80,10 +516,11 @@
       "content": [
         "B站当前热门视频，请打开原页面查看完整内容。"
       ],
-      "category": "视频",
+      "category": "B站热门",
       "source": "哔哩哔哩热门 · 狂野的蜂 · 901,296 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV1actP6KEbb",
-      "publishedAt": "2026-08-28T08:54:39.000Z"
+      "publishedAt": "2026-08-28T08:54:39.000Z",
+      "section": "游戏娱乐"
     },
     {
       "slug": "feed-71a45775ce7af7c8",
@@ -92,7 +529,8 @@
       "content": [
         "免费开放！《使命召唤：现代战争4》Beta测试8月29日开启，全平台玩家可抢先体验全新多人内容，获取可继承正式版奖励。10月23日登陆Nintendo Switch2，支持体感操作。限时试玩，不容错过！ 近日，《使命召唤：现代战争4》Beta公开测试时间正式公布，本次公开试玩将于8月29日至9月1日面向全部玩家免费开放，抢先体验全新多人内容，参与测试还能获取可继承至正式版的游戏奖励。同时，《使命召 ..."
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
       "source": "news.17173.com",
       "sourceUrl": "https://news.17173.com/content/08282026/145939332.shtml",
       "publishedAt": "2026-08-28T07:59:00.000Z"
@@ -104,8 +542,9 @@
       "content": [
         "暂无摘要，请前往原始来源查看完整内容。"
       ],
-      "category": "视频",
-      "source": "哔哩哔哩热门 · 扯淡人生- · 2,175,147 播放",
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 扯淡人生- · 2,460,659 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV1Jrtc6GEVU",
       "publishedAt": "2026-08-28T06:37:52.000Z"
     },
@@ -116,10 +555,11 @@
       "content": [
         "暂无摘要，请前往原始来源查看完整内容。"
       ],
-      "category": "视频",
+      "category": "B站热门",
       "source": "哔哩哔哩热门 · Mr-Ferret · 1,305,034 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV1Bktc66EA7",
-      "publishedAt": "2026-08-28T06:30:44.000Z"
+      "publishedAt": "2026-08-28T06:30:44.000Z",
+      "section": "游戏娱乐"
     },
     {
       "slug": "feed-9b0bb1222ac202a8",
@@ -128,8 +568,9 @@
       "content": [
         "本投稿参与了bilibilionly同人扶持计划@我bilibilionly投了 槟榔比烟好的一点就是不好影响别人"
       ],
-      "category": "视频",
-      "source": "哔哩哔哩热门 · 咸威化 · 2,535,890 播放",
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 咸威化 · 3,181,699 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV1zG4d6dEka",
       "publishedAt": "2026-08-28T03:00:00.000Z"
     },
@@ -140,7 +581,8 @@
       "content": [
         "极限竞速：地平线6是极限竞速：地平线系列最新正统续作，由Playground Games开发、Xbox发行，已于2026年5月19日同步登陆PC及Xbox Series X|S平台。此前官方确认，该作的PlayStation 5版本计划于2026年内推出。 然而，据知名科技媒体资深编辑汤姆·沃伦在社交平台发布的消息，极限竞速：地平线6的PS5版本极有可能无法按原定时间在2026年内上市。 对于部分 ..."
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
       "source": "game.zol.com.cn",
       "sourceUrl": "https://game.zol.com.cn/1239/12390347.html",
       "publishedAt": "2026-08-28T00:40:00.000Z"
@@ -152,10 +594,24 @@
       "content": [
         "尴如尬🤓"
       ],
-      "category": "视频",
+      "category": "B站热门",
       "source": "哔哩哔哩热门 · 时空go蛙 · 2,190,758 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV1P6496fExM",
-      "publishedAt": "2026-08-27T23:00:00.000Z"
+      "publishedAt": "2026-08-27T23:00:00.000Z",
+      "section": "游戏娱乐"
+    },
+    {
+      "slug": "feed-16af3b8029a46699",
+      "title": "Raw Fury备受期待的《磁带妖怪 2002》将于2027年3月全球发售",
+      "summary": "斯德哥尔摩——2026年8月27日 —— Raw Fury在今年的gamescom科隆游戏展上带来了重磅消息！在今日举行的gamescom Xbox Showcase期间，瑞典独立游戏发行商Raw Fury公布了《磁带妖怪 2002》的最新情报。 Raw Fury正式宣布，备受期待的怪兽收集RPG《磁带妖怪》系列续作——《磁带妖怪 ...",
+      "content": [
+        "斯德哥尔摩——2026年8月27日 —— Raw Fury在今年的gamescom科隆游戏展上带来了重磅消息！在今日举行的gamescom Xbox Showcase期间，瑞典独立游戏发行商Raw Fury公布了《磁带妖怪 2002》的最新情报。 Raw Fury正式宣布，备受期待的怪兽收集RPG《磁带妖怪》系列续作——《磁带妖怪 ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "msn.cn",
+      "sourceUrl": "https://www.msn.cn/zh-cn/entertainment/%E9%80%9A%E7%94%A8/raw-fury%E5%A4%87%E5%8F%97%E6%9C%9F%E5%BE%85%E7%9A%84-%E7%A3%81%E5%B8%A6%E5%A6%96%E6%80%AA-2002-%E5%B0%86%E4%BA%8E2027%E5%B9%B43%E6%9C%88%E5%85%A8%E7%90%83%E5%8F%91%E5%94%AE/ar-AA2b4S3D",
+      "publishedAt": "2026-08-27T18:15:47.000Z"
     },
     {
       "slug": "feed-c8a0e978e20e6aa3",
@@ -164,10 +620,11 @@
       "content": [
         "斯德哥尔摩——2026年8月27日 —— Raw Fury在今年的gamescom科隆游戏展上带来了重磅消息!在今日举行的gamescom Xbox Showcase期间，瑞典独立游戏发行商Raw Fury公布了《磁带妖怪 2002》的最新情报。Raw Fury正式宣布，备受期待的怪兽收集RPG《磁带妖怪》系列续作——《磁带妖怪 2002》将于2027年3月正式发售。《磁带妖怪 2002》由Byt ..."
       ],
-      "category": "游戏",
+      "category": "游戏新闻",
       "source": "msn.cn",
       "sourceUrl": "https://www.msn.cn/zh-cn/gaming/%E9%80%9A%E7%94%A8/raw-fury%E5%A4%87%E5%8F%97%E6%9C%9F%E5%BE%85%E7%9A%84-%E7%A3%81%E5%B8%A6%E5%A6%96%E6%80%AA-2002-%E5%B0%86%E4%BA%8E2027%E5%B9%B43%E6%9C%88%E5%85%A8%E7%90%83%E5%8F%91%E5%94%AE/ar-AA2b5I8e",
-      "publishedAt": "2026-08-27T18:13:46.000Z"
+      "publishedAt": "2026-08-27T18:13:46.000Z",
+      "section": "游戏娱乐"
     },
     {
       "slug": "feed-244dab729286bdf6",
@@ -176,7 +633,8 @@
       "content": [
         "STAR WARS Zero Company has been released today from Bit Reactor / Electronic Arts, and it's very much Star Wars XCOM with a little extra sauce. Read the full article here: https://www.gamingonlinux.com/2026/08/star-wars-zero-company-is-out-now/"
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "Steam",
       "source": "Steam 全球热销榜第 1 名 · GamingOnLinux",
       "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1842212951300823",
       "publishedAt": "2026-08-27T17:07:42.000Z"
@@ -188,7 +646,8 @@
       "content": [
         "快科技 8 月 27 日消息，AMD 在前几天发布了 Adrenalin Edition 26.8.1 显卡驱动，新增对 Radeon RX 9050 4GB 版本的支持，同时加入《Resonance: A Plague Tale Legacy》《STAR WARS Zero Company》《使命召唤：现代战争 4》三款游戏的支持。"
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
       "source": "myzaker.com",
       "sourceUrl": "https://www.myzaker.com/article/6a912b9d8e9f0905be0df14c",
       "publishedAt": "2026-08-27T17:00:00.000Z"
@@ -200,7 +659,8 @@
       "content": [
         "Hello!Biggest patch yet! : )FANART POSTINGCreated a new channel just for fanart in the community discord. You are very welcome to post any fanart of How to Fish, we'd love to see it! (props to borgus18 for patch splash art)NEWWeapons and tools now get cleaned from cooking when dipped in waterItems dropped on the ground are now saved between sessions (up to 64 total items, prioritizing weapons, tools, quest items and creatures)CHANGESNerfed anglerfish slightly since it was too annoying with a lot..."
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "Steam",
       "source": "Steam 全球热销榜第 3 名 · Community Announcements",
       "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300687",
       "publishedAt": "2026-08-27T16:34:38.000Z"
@@ -212,8 +672,9 @@
       "content": [
         "Autonomous research system for measurable, computer-executable research."
       ],
-      "category": "科技",
-      "source": "GitHub · ★ 2,047 · Python",
+      "section": "科技网络",
+      "category": "GitHub开源",
+      "source": "GitHub · ★ 2,067 · Python",
       "sourceUrl": "https://github.com/sapientinc/PRAXIST",
       "publishedAt": "2026-08-27T14:20:58.000Z"
     },
@@ -224,7 +685,8 @@
       "content": [
         "IT之家8月27日消息，备受期待的中世纪墓园恶搞模拟经营游戏《守墓人2（GraveyardKeeper2）》宣布将于2026年9月23日正式发售。本作将同步登陆PlayStation 5、XBOX Series X|S、Nintendo Switch系列以及PC平台，广泛的游戏平台选择让更多玩家能够体验这款独特的游戏。 目前，《守墓人2》已经在Steam国区开启预购，定价85元，首发优惠折扣后仅需 ..."
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
       "source": "sohu.com",
       "sourceUrl": "https://www.sohu.com/a/1068509556_122004016",
       "publishedAt": "2026-08-27T13:43:00.000Z"
@@ -236,8 +698,9 @@
       "content": [
         "暂无简介"
       ],
-      "category": "科技",
-      "source": "GitHub · ★ 3,763 · TeX",
+      "section": "科技网络",
+      "category": "GitHub开源",
+      "source": "GitHub · ★ 3,804 · TeX",
       "sourceUrl": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
       "publishedAt": "2026-08-27T11:28:44.000Z"
     },
@@ -248,7 +711,8 @@
       "content": [
         "作为《使命召唤》系列的新作，《现代战争4》由Infinity Ward等多个工作室共同开发，预计将于2026年10月23日正式发售。公开试玩也将成为玩家提前感受新作枪械手感、地图设计以及整体节奏的重要机会。"
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
       "source": "gamersky.com",
       "sourceUrl": "https://www.gamersky.com/news/202608/2197484.shtml",
       "publishedAt": "2026-08-27T10:57:00.000Z"
@@ -260,7 +724,8 @@
       "content": [
         "各平台条款的核心逻辑一致：用户购买的是使用许可，而非游戏本身的所有权。许可通常为有限且不可转让，平台可在用户违规或服务调整时收回访问权限。虽然实体光盘同样附带类似许可声明，但因实物载体的存在，用户仍可进行转售或赠送（受首次销售原则保护），数字版则难以实现类似操作。"
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
       "source": "gamersky.com",
       "sourceUrl": "https://www.gamersky.com/news/202608/2197427.shtml",
       "publishedAt": "2026-08-27T10:21:00.000Z"
@@ -272,7 +737,8 @@
       "content": [
         "IT之家消息，中世纪墓园恶搞模拟经营游戏《守墓人 2（Graveyard Keeper 2）》宣布将于 2026 年 9 月 23 日发售，本作登陆 PlayStation 5、XBOX Series X|S、Nintendo Switch 系列、以及 PC 平台。 目前，本作已开启预购，以 Steam 国区为例，本作定价 85 元，首发 8 折后低至 ..."
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
       "source": "msn.com",
       "sourceUrl": "https://www.msn.com/zh-cn/gaming/%E9%80%9A%E7%94%A8/%E4%B8%AD%E4%B8%96%E7%BA%AA%E5%A2%93%E5%9B%AD%E6%81%B6%E6%90%9E%E6%A8%A1%E6%8B%9F%E6%B8%B8%E6%88%8F-%E5%AE%88%E5%A2%93%E4%BA%BA2-%E5%BC%80%E5%90%AF%E9%A2%84%E8%B4%AD-steam%E5%9B%BD%E5%8C%BA%E9%A6%96%E5%8F%9168%E5%85%83/ar-AA2b2GBL",
       "publishedAt": "2026-08-27T05:43:23.000Z"
@@ -284,7 +750,8 @@
       "content": [
         "Congratulations to Team Spirit, Grand Champions at The International 2026. After enduring a challenging year, Team Spirit regained their ultimate form just in time to take a five-game Grand Finals slugfest and claim the Aegis of Champions in Shanghai.Spirit's Group Stage started strong, with 2-0 victories over both Xtreme Gaming and Aurora Gaming. They followed with 2-1 win over Team Liquid that put Spirit just one series win away from qualifying for the main stage. They wouldn't get it. Instead..."
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "Steam",
       "source": "Steam 全球热销榜第 4 名 · Community Announcements",
       "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951298513",
       "publishedAt": "2026-08-27T01:07:42.000Z"
@@ -296,7 +763,8 @@
       "content": [
         "翱翔天际、追寻线索 ..."
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
       "source": "msn.cn",
       "sourceUrl": "https://www.msn.cn/zh-cn/news/other/%E6%B8%A9%E9%A6%A8%E6%8E%A2%E7%B4%A2%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F-%E5%8D%A2%E6%B9%96%E9%87%87%E9%A3%8E-%E7%8E%B0%E5%B7%B2%E5%8F%91%E5%94%AE/ar-AA2b3Xsr",
       "publishedAt": "2026-08-27T00:23:59.000Z"
@@ -308,10 +776,11 @@
       "content": [
         "【本文由小黑盒作者@贰参于08月27日发布】 才发现，小黑盒居然有了《使命召唤®：现代战争®III 2023》的cdk 游戏昨天刚steam结束折扣，今天小黑盒就直接延续上了 ————————————————————— 游戏：《使命召唤®：现代战争®III 2023》 ..."
       ],
-      "category": "游戏",
+      "category": "游戏新闻",
       "source": "msn.cn",
       "sourceUrl": "https://www.msn.cn/zh-cn/gaming/%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F/%E5%88%B8%E5%90%8E-67-%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4-%E7%8E%B0%E4%BB%A3%E6%88%98%E4%BA%89-iii-2023-%E5%B0%8F%E9%BB%91%E7%9B%92%E8%BF%8E%E6%9D%A5%E5%8F%B2%E4%BD%8E/ar-AA2b0Kti",
-      "publishedAt": "2026-08-26T19:50:08.000Z"
+      "publishedAt": "2026-08-26T19:50:08.000Z",
+      "section": "游戏娱乐"
     },
     {
       "slug": "feed-d626eebd4fd09d02",
@@ -320,10 +789,11 @@
       "content": [
         "Switch上第一次出现《使命召唤》 ..."
       ],
-      "category": "游戏",
+      "category": "游戏新闻",
       "source": "msn.cn",
       "sourceUrl": "https://www.msn.cn/zh-cn/news/other/switch-2%E6%9C%AC%E5%91%A8%E6%9C%AB%E5%85%8D%E8%B4%B9%E8%AF%95%E7%8E%A9-%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4-%E7%8E%B0%E4%BB%A3%E6%88%98%E4%BA%894/ar-AA2b0WAH",
-      "publishedAt": "2026-08-26T19:49:23.000Z"
+      "publishedAt": "2026-08-26T19:49:23.000Z",
+      "section": "游戏娱乐"
     },
     {
       "slug": "feed-6cddfc0ed0818ceb",
@@ -332,10 +802,24 @@
       "content": [
         "FIXED:-Octane passive once again restores him to full health, as intended.-Fixed rare instances where players were locked out of nearly all actions in Battle Royale mode.-Fixed an instance where Gibraltar could sprint faster than intended when combining Fast Shotties perk with the Corrupted Stock.-Fixed an issue where players would sometimes experience rubberbanding, jumpy behaviour and/or jittery movement after reconnecting."
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "Steam",
       "source": "Steam 全球热销榜第 5 名 · Community Announcements",
       "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297706",
       "publishedAt": "2026-08-26T17:38:31.000Z"
+    },
+    {
+      "slug": "feed-ccdb85c03d001945",
+      "title": "开学补作业现状",
+      "summary": "暂无摘要，请前往原始来源查看完整内容。",
+      "content": [
+        "暂无摘要，请前往原始来源查看完整内容。"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 坠兔收光zero · 3,221,409 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1rd8d6TEpi",
+      "publishedAt": "2026-08-26T13:26:12.000Z"
     },
     {
       "slug": "feed-a38c1b21e572d0b3",
@@ -344,10 +828,24 @@
       "content": [
         "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery."
       ],
-      "category": "科技",
-      "source": "GitHub · ★ 990 · TypeScript",
+      "section": "科技网络",
+      "category": "GitHub开源",
+      "source": "GitHub · ★ 1,010 · TypeScript",
       "sourceUrl": "https://github.com/wide-trace/open-higgsfield",
       "publishedAt": "2026-08-26T06:09:58.000Z"
+    },
+    {
+      "slug": "feed-e439e22f636b766f",
+      "title": "Tencent/WeMM-Embedding",
+      "summary": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+      "content": [
+        "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval."
+      ],
+      "section": "科技网络",
+      "category": "GitHub开源",
+      "source": "GitHub · ★ 873 · Python",
+      "sourceUrl": "https://github.com/Tencent/WeMM-Embedding",
+      "publishedAt": "2026-08-25T02:46:10.000Z"
     },
     {
       "slug": "feed-40b10a25db12f71c",
@@ -356,7 +854,8 @@
       "content": [
         "\\Added custom_hud_layout entity:custom_hud_layouts are the entry point for scripted maps to provide custom UI.Panel, Label, Image, and Button panel types are supported.Styling with css is supported.Events and client side scripting are not supported.Maintains state during tools mode reloads.Added cs_player_camera entity:Gives control of a player's view without moving their pawn.Can be configured to let the player look around from the scripted position.Added Instance.DelayAdded Instance.OnBombPlan..."
       ],
-      "category": "游戏",
+      "section": "游戏娱乐",
+      "category": "Steam",
       "source": "Steam 全球热销榜第 2 名 · Community Announcements",
       "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851",
       "publishedAt": "2026-08-24T23:39:20.000Z"
@@ -368,11 +867,11 @@
       "content": [
         "8月22日至25日，人民日报要闻第二版连续四天刊发署名为“钟才文”的重磅评论文章，从中国经济的内在韧性，到对世界经济的外部贡献，再到核心数据的深度解读，最后落脚于下半年工作的系统部署。四篇文章环环相扣，构成完整论述体系。"
       ],
-      "category": "要闻",
+      "category": "国内要闻",
       "source": "finance.people.com.cn",
       "sourceUrl": "https://finance.people.com.cn/n1/2026/0825/c1004-40785824.html",
       "publishedAt": "2026-08-24T17:00:00.000Z",
-      "featured": true
+      "section": "时事要闻"
     },
     {
       "slug": "feed-16cb753f52993c1c",
@@ -381,8 +880,9 @@
       "content": [
         "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim"
       ],
-      "category": "科技",
-      "source": "GitHub · ★ 984 · Astro",
+      "section": "科技网络",
+      "category": "GitHub开源",
+      "source": "GitHub · ★ 988 · Astro",
       "sourceUrl": "https://github.com/bryllim/workout-guide",
       "publishedAt": "2026-08-24T02:14:20.000Z"
     },
@@ -393,8 +893,9 @@
       "content": [
         "暂无简介"
       ],
-      "category": "科技",
-      "source": "GitHub · ★ 2,306 · Rust",
+      "section": "科技网络",
+      "category": "GitHub开源",
+      "source": "GitHub · ★ 2,311 · Rust",
       "sourceUrl": "https://github.com/tobi/walgit",
       "publishedAt": "2026-08-23T22:28:01.000Z"
     },
@@ -405,8 +906,9 @@
       "content": [
         "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS"
       ],
-      "category": "科技",
-      "source": "GitHub · ★ 3,412 · TypeScript",
+      "section": "科技网络",
+      "category": "GitHub开源",
+      "source": "GitHub · ★ 3,414 · TypeScript",
       "sourceUrl": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
       "publishedAt": "2026-08-23T20:53:01.000Z"
     },
@@ -417,8 +919,9 @@
       "content": [
         "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll."
       ],
-      "category": "科技",
-      "source": "GitHub · ★ 1,176 · JavaScript",
+      "section": "科技网络",
+      "category": "GitHub开源",
+      "source": "GitHub · ★ 1,183 · JavaScript",
       "sourceUrl": "https://github.com/nateherkai/scroll-craft",
       "publishedAt": "2026-08-22T15:25:08.000Z"
     },
@@ -429,8 +932,9 @@
       "content": [
         "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more. Built with Zig — zero dependencies, single-binary output, cros"
       ],
-      "category": "科技",
-      "source": "GitHub · ★ 1,676 · Zig",
+      "section": "科技网络",
+      "category": "GitHub开源",
+      "source": "GitHub · ★ 1,686 · Zig",
       "sourceUrl": "https://github.com/duty1g/x64dbg-mcp-server",
       "publishedAt": "2026-08-22T14:28:41.000Z"
     },
@@ -441,8 +945,9 @@
       "content": [
         "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency."
       ],
-      "category": "科技",
-      "source": "GitHub · ★ 1,233 · Python",
+      "section": "科技网络",
+      "category": "GitHub开源",
+      "source": "GitHub · ★ 1,247 · Python",
       "sourceUrl": "https://github.com/ApodexAI/FrontierAgent",
       "publishedAt": "2026-08-22T05:07:35.000Z"
     },
@@ -453,10 +958,11 @@
       "content": [
         "Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters."
       ],
-      "category": "科技",
+      "category": "AI与科技",
       "source": "GitHub · ★ 855 · Go",
       "sourceUrl": "https://github.com/N4darae/anti-mage",
-      "publishedAt": "2026-08-22T04:11:00.000Z"
+      "publishedAt": "2026-08-22T04:11:00.000Z",
+      "section": "科技网络"
     }
   ]
 }
