@@ -124,8 +124,10 @@ const freshItems = [...china, ...games, ...steam, ...bilibili, ...nodeseek, ...x
   .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
 
 let previousItems = [];
+let previousGeneratedAt = "";
 try {
   const previous = JSON.parse(await readFile(outputPath, "utf8"));
+  previousGeneratedAt = typeof previous.generatedAt === "string" ? previous.generatedAt : "";
   previousItems = Array.isArray(previous.items) ? previous.items.map(migrateExistingItem).filter(Boolean) : [];
 } catch {
   // 首次导入时没有历史生成文件，直接使用本次抓取结果。
@@ -140,7 +142,14 @@ for (const item of items) delete item.featured;
 const featured = items.find(item => item.section === "时事要闻" && item.category === "国内要闻") ?? items[0];
 featured.featured = true;
 
-await writeFile(outputPath, `${JSON.stringify({ generatedAt: generatedAt.toISOString(), items }, null, 2)}\n`, "utf8");
+function stableItems(value) {
+  return JSON.stringify(value.map(({ featured: _featured, ...item }) => item).sort((a, b) => a.slug.localeCompare(b.slug)));
+}
+
+const generatedAtValue = previousGeneratedAt && stableItems(previousItems) === stableItems(items)
+  ? previousGeneratedAt
+  : generatedAt.toISOString();
+await writeFile(outputPath, `${JSON.stringify({ generatedAt: generatedAtValue, items }, null, 2)}\n`, "utf8");
 console.log(
   `已生成 ${items.length} 条：要闻 ${china.length}，游戏资讯 ${games.length}，` +
   `Steam ${steam.length}，B站 ${bilibili.length}，小黑盒 ${xiaoheihe.length}，抖音 ${douyin.length}，` +
