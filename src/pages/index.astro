@@ -1,0 +1,78 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import NewsCard from "../components/NewsCard.astro";
+import { getNews } from "../lib/news";
+
+const news = await getNews();
+const featured = news.find(item => item.featured) ?? news[0];
+const latest = news;
+const categories = ["全部", "要闻", "国际", "科技", "财经", "文化", "生活"];
+---
+<BaseLayout>
+  <section class="ticker"><div class="container"><strong>即时</strong><span>新闻数据接口尚未启用，目前展示安全的版面演示内容。</span></div></section>
+
+  <div class="container page-shell">
+    {featured && (
+      <section class="lead-grid" aria-labelledby="top-story">
+        <article class="lead-story">
+          <div class="eyebrow">今日焦点 · {featured.category}</div>
+          <h1 id="top-story"><a href={`/news/${featured.slug}/`}>{featured.title}</a></h1>
+          <p>{featured.summary}</p>
+          <div class="lead-source">来源：{featured.source}</div>
+        </article>
+        <aside class="briefing">
+          <span class="section-kicker">编辑台</span>
+          <h2>不追逐噪音，只整理重要信息</h2>
+          <p>保留原文链接、明确发布时间，并将事实与摘要分开呈现。</p>
+          <dl><div><dt>数据状态</dt><dd>演示模式</dd></div><div><dt>计划更新</dt><dd>接入 VPS 后自动</dd></div></dl>
+        </aside>
+      </section>
+    )}
+
+    <section class="latest" aria-labelledby="latest-title">
+      <div class="section-heading">
+        <div><span class="section-kicker">最新发布</span><h2 id="latest-title">新闻列表</h2></div>
+        <label class="search"><span>搜索</span><input id="news-search" type="search" placeholder="输入关键词" autocomplete="off" /></label>
+      </div>
+      <div class="filters" aria-label="按分类筛选">
+        {categories.map((category, index) => <button class:list={{ active: index === 0 }} data-filter={category}>{category}</button>)}
+      </div>
+      <div class="news-grid" id="news-grid">
+        {latest.map(item => <NewsCard item={item} />)}
+      </div>
+      <p class="empty-state" id="empty-state" hidden>没有找到符合条件的新闻。</p>
+    </section>
+  </div>
+
+  <script>
+    const cards = [...document.querySelectorAll<HTMLElement>(".news-card")];
+    const buttons = [...document.querySelectorAll<HTMLButtonElement>("[data-filter]")];
+    const search = document.querySelector<HTMLInputElement>("#news-search");
+    const empty = document.querySelector<HTMLElement>("#empty-state");
+    let category = new URLSearchParams(location.search).get("category") ?? "全部";
+    if (!buttons.some(button => button.dataset.filter === category)) category = "全部";
+
+    function refresh() {
+      const query = search?.value.trim().toLocaleLowerCase("zh-CN") ?? "";
+      let visible = 0;
+      cards.forEach(card => {
+        const matchesCategory = category === "全部" || card.dataset.category === category;
+        const matchesText = !query || (card.dataset.search ?? "").toLocaleLowerCase("zh-CN").includes(query);
+        card.hidden = !(matchesCategory && matchesText);
+        if (!card.hidden) visible++;
+      });
+      buttons.forEach(button => button.classList.toggle("active", button.dataset.filter === category));
+      if (empty) empty.hidden = visible !== 0;
+    }
+
+    buttons.forEach(button => button.addEventListener("click", () => {
+      category = button.dataset.filter ?? "全部";
+      const url = new URL(location.href);
+      category === "全部" ? url.searchParams.delete("category") : url.searchParams.set("category", category);
+      history.replaceState({}, "", url);
+      refresh();
+    }));
+    search?.addEventListener("input", refresh);
+    refresh();
+  </script>
+</BaseLayout>
