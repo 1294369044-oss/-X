@@ -35,7 +35,7 @@ function sourceName(url, fallback) {
 
 function cleanText(value, fallback = "暂无摘要，请前往原始来源查看完整内容。") {
   const text = String(value ?? "").replace(/\s+/g, " ").trim();
-  return text || fallback;
+  return text && !/^[-—–]+$/.test(text) ? text : fallback;
 }
 
 function convert(items, category, requireRecent) {
@@ -63,8 +63,10 @@ function convert(items, category, requireRecent) {
 
 const china = convert(raw.china, "要闻", true);
 const games = convert(raw.games, "游戏", true);
+const steam = convert(raw.steam, "游戏", true);
+const bilibili = convert(raw.bilibili, "视频", true);
 const github = convert(raw.github, "科技", false);
-const items = [...china, ...games, ...github]
+const items = [...china, ...games, ...steam, ...bilibili, ...github]
   .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
 
 if (items.length === 0) throw new Error("过滤后没有可发布内容");
@@ -72,4 +74,7 @@ const featured = items.find(item => item.category === "要闻") ?? items[0];
 featured.featured = true;
 
 await writeFile(outputPath, `${JSON.stringify({ generatedAt: generatedAt.toISOString(), items }, null, 2)}\n`, "utf8");
-console.log(`已生成 ${items.length} 条：要闻 ${china.length}，游戏 ${games.length}，科技 ${github.length}`);
+console.log(
+  `已生成 ${items.length} 条：要闻 ${china.length}，游戏资讯 ${games.length}，` +
+  `Steam ${steam.length}，B站 ${bilibili.length}，科技 ${github.length}`
+);

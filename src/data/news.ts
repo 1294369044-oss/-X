@@ -1,4 +1,4 @@
-export type NewsCategory = "要闻" | "国际" | "科技" | "游戏" | "财经" | "文化" | "生活";
+export type NewsCategory = "要闻" | "国际" | "科技" | "游戏" | "视频" | "财经" | "文化" | "生活";
 
 export interface NewsItem {
   slug: string;
