@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import generatedNews from "../data/generated-news.json";
 
 interface Props {
   title?: string;
@@ -11,6 +12,7 @@ const {
   description = "中文新闻聚合与脉络整理，保留来源，拒绝信息噪音。",
 } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
+const hasGeneratedNews = generatedNews.items.length > 0;
 const today = new Intl.DateTimeFormat("zh-CN", {
   year: "numeric",
   month: "long",
@@ -36,7 +38,7 @@ const today = new Intl.DateTimeFormat("zh-CN", {
     <header class="site-header">
       <div class="utility container">
         <span>{today}</span>
-        <span class="demo-badge">当前为演示数据</span>
+        <span class="demo-badge">{hasGeneratedNews ? "自动聚合 · 请核对原文" : "当前为演示数据"}</span>
       </div>
       <div class="brand-row container">
         <a class="brand" href="/" aria-label="澜讯首页">
@@ -51,6 +53,7 @@ const today = new Intl.DateTimeFormat("zh-CN", {
           <a href="/?category=要闻">要闻</a>
           <a href="/?category=国际">国际</a>
           <a href="/?category=科技">科技</a>
+          <a href="/?category=游戏">游戏</a>
           <a href="/?category=财经">财经</a>
           <a href="/?category=文化">文化</a>
           <a href="/?category=生活">生活</a>
@@ -62,7 +65,7 @@ const today = new Intl.DateTimeFormat("zh-CN", {
     <footer class="site-footer">
       <div class="container footer-grid">
         <div><strong>澜讯</strong><p>聚合公开信息，保留原始来源。</p></div>
-        <div><p>内容版权归原作者及来源机构所有。</p><p>本站演示数据不构成事实报道或专业建议。</p></div>
+        <div><p>内容版权归原作者及来源机构所有。</p><p>{hasGeneratedNews ? "自动聚合内容未经人工逐条核验，请以原文为准。" : "本站演示数据不构成事实报道或专业建议。"}</p></div>
       </div>
     </footer>
   </body>

@@ -1,16 +1,17 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { hasGeneratedNews } from "../lib/news";
 ---
 <BaseLayout title="关于澜讯｜新闻来源与原则">
   <article class="article container about-page">
     <span class="section-kicker">关于本站</span>
     <h1>让公开信息更容易读懂</h1>
     <div class="article-body">
-      <p>澜讯是一个中文新闻聚合与脉络整理网站。网站计划由独立爬虫节点采集公开信息，再通过静态构建发布到 Cloudflare Pages。</p>
+      <p>澜讯是一个中文新闻聚合与脉络整理网站。网站由独立爬虫节点采集公开信息，再通过静态构建发布到 Cloudflare Workers。</p>
       <h2>我们的展示原则</h2>
       <ul><li>每条内容保留来源名称和原文链接。</li><li>明确显示发布时间，避免旧闻被误认为最新消息。</li><li>摘要与原文分开，不冒充原始报道。</li><li>采集失败时不伪造内容，也不显示虚假的更新状态。</li></ul>
       <h2>当前状态</h2>
-      <p>网站尚未接入真实爬虫数据。页面中的内容均明确标记为演示数据。</p>
+      <p>{hasGeneratedNews ? "网站正在进行 VPS 抓取数据的端到端测试。自动聚合内容未经人工逐条核验，请以每条信息链接的原始来源为准。" : "网站尚未接入真实爬虫数据。页面中的内容均明确标记为演示数据。"}</p>
     </div>
   </article>
 </BaseLayout>

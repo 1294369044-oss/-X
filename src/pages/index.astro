@@ -1,15 +1,21 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import NewsCard from "../components/NewsCard.astro";
-import { getNews } from "../lib/news";
+import { generatedAt, getNews, hasGeneratedNews } from "../lib/news";
 
 const news = await getNews();
 const featured = news.find(item => item.featured) ?? news[0];
 const latest = news;
-const categories = ["全部", "要闻", "国际", "科技", "财经", "文化", "生活"];
+const categories = ["全部", "要闻", "国际", "科技", "游戏", "财经", "文化", "生活"];
+const updatedAt = generatedAt
+  ? new Intl.DateTimeFormat("zh-CN", {
+      month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit",
+      timeZone: "Asia/Shanghai", hour12: false,
+    }).format(new Date(generatedAt))
+  : "尚未接入";
 ---
 <BaseLayout>
-  <section class="ticker"><div class="container"><strong>即时</strong><span>新闻数据接口尚未启用，目前展示安全的版面演示内容。</span></div></section>
+  <section class="ticker"><div class="container"><strong>即时</strong><span>{hasGeneratedNews ? `VPS 抓取测试已接入 · 更新时间 ${updatedAt} · 请点击原文核对` : "新闻数据接口尚未启用，目前展示安全的版面演示内容。"}</span></div></section>
 
   <div class="container page-shell">
     {featured && (
@@ -24,7 +30,7 @@ const categories = ["全部", "要闻", "国际", "科技", "财经", "文化", 
           <span class="section-kicker">编辑台</span>
           <h2>不追逐噪音，只整理重要信息</h2>
           <p>保留原文链接、明确发布时间，并将事实与摘要分开呈现。</p>
-          <dl><div><dt>数据状态</dt><dd>演示模式</dd></div><div><dt>计划更新</dt><dd>接入 VPS 后自动</dd></div></dl>
+          <dl><div><dt>数据状态</dt><dd>{hasGeneratedNews ? "VPS 抓取测试" : "演示模式"}</dd></div><div><dt>最近更新</dt><dd>{updatedAt}</dd></div></dl>
         </aside>
       </section>
     )}
