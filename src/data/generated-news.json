@@ -1,6 +1,319 @@
 {
-  "generatedAt": "2026-09-02T02:00:21.401Z",
+  "generatedAt": "2026-09-02T12:00:15.583Z",
   "items": [
+    {
+      "slug": "feed-a5b46678806fbcae",
+      "title": "三角洲S11赛季更新公告：短期赛季3X3难度下调、骇爪蝶蜂医增强",
+      "summary": "昨天三角洲官方进行了S11赛季前瞻直播：三角洲S11前瞻直播省流版本：老黑红皮、骇爪金皮、吴彦祖返场而在今天官方也发布了新的群星赛季更新公告更新时间：9月4日凌晨0:30~2:00，双模式排位赛休赛暂时关闭。9月4日2:00，烽火地带模式匹配及交易功能暂时",
+      "content": [
+        "昨天三角洲官方进行了S11赛季前瞻直播：三角洲S11前瞻直播省流版本：老黑红皮、骇爪金皮、吴彦祖返场而在今天官方也发布了新的群星赛季更新公告更新时间：9月4日凌晨0:30~2:00，双模式排位赛休赛暂时关闭。9月4日2:00，烽火地带模式匹配及交易功能暂时"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189643842",
+      "publishedAt": "2026-09-02T11:59:34.000Z"
+    },
+    {
+      "slug": "feed-ecd7486f322b9d55",
+      "title": "插播：9月2日，逃离鸭科夫最热门MOD投毒实锤证据",
+      "summary": "这个热度最高的mod，携带了假红信病毒代码mod的恶意代码主要位于SteamCFyinxiao.dll中通过反编译代码，静态分析可以确认这是病毒相关信息如下：恶意mod会查找steamui/chunk~*.js中和客服支持、链接相关的代码，并备份chunk",
+      "content": [
+        "这个热度最高的mod，携带了假红信病毒代码mod的恶意代码主要位于SteamCFyinxiao.dll中通过反编译代码，静态分析可以确认这是病毒相关信息如下：恶意mod会查找steamui/chunk~*.js中和客服支持、链接相关的代码，并备份chunk"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189605704",
+      "publishedAt": "2026-09-02T11:59:30.000Z"
+    },
+    {
+      "slug": "feed-029b186ebca87bca",
+      "title": "bytevirt家的VPS-512-KVM-Premium-JP，傍晚刚跑的NQ大家看看怎么样",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 大约一个月前收的25刀/年，bytevirt家的VPS小鸡，傍晚刚跑的NQ，南来的北往的帮忙看看怎么样?💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m147.",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 大约一个月前收的25刀/年，bytevirt家的VPS小鸡，傍晚刚跑的NQ，南来的北往的帮忙看看怎么样?💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m147."
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-907747-1",
+      "publishedAt": "2026-09-02T11:58:26.000Z"
+    },
+    {
+      "slug": "feed-d7c1ed973be876b1",
+      "title": "S11为短赛季大概率为62天，赛季任务难度降低，制式券丶干员调整",
+      "summary": "新赛季S11官方确认为短赛季，明确说明难度降低赛季任务难度降低但根据活动炫彩花小蝶活动时间推测，S11赛季大概率为62天，持续时间为9.4-11.4花小蝶 咱们本赛季暑期有米活动看介绍是换了种形式，可以将以前那种每周送的制式券兑换成代币然后去兑换其他物资",
+      "content": [
+        "新赛季S11官方确认为短赛季，明确说明难度降低赛季任务难度降低但根据活动炫彩花小蝶活动时间推测，S11赛季大概率为62天，持续时间为9.4-11.4花小蝶 咱们本赛季暑期有米活动看介绍是换了种形式，可以将以前那种每周送的制式券兑换成代币然后去兑换其他物资"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189659143",
+      "publishedAt": "2026-09-02T11:55:48.000Z"
+    },
+    {
+      "slug": "feed-2b969dde86c55432",
+      "title": "AaITR的家宽有货了",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 价格149比其他家的便宜很多，很想买一个，想问下用家宽翻墙和普通原生ip翻墙有啥区别吗？",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 价格149比其他家的便宜很多，很想买一个，想问下用家宽翻墙和普通原生ip翻墙有啥区别吗？"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-907742-1",
+      "publishedAt": "2026-09-02T11:52:46.000Z"
+    },
+    {
+      "slug": "feed-1bc8798c1d41473f",
+      "title": "《怪物猎人 荒野：凌越》【增幅动作】介绍视频公开（新动作）",
+      "summary": "【狩猎动作将实现进一步进化】今日，Capcom官方发布游戏《怪物猎人 荒野：凌越》【增幅动作】介绍视频。启动「增幅护腕」后，猎人的动作性能会在一定时间内得到强化，并可使用全新招式与派生。通过启动「增幅护腕」并同时施展强力攻击的新动作「增幅发动动作」，以及活",
+      "content": [
+        "【狩猎动作将实现进一步进化】今日，Capcom官方发布游戏《怪物猎人 荒野：凌越》【增幅动作】介绍视频。启动「增幅护腕」后，猎人的动作性能会在一定时间内得到强化，并可使用全新招式与派生。通过启动「增幅护腕」并同时施展强力攻击的新动作「增幅发动动作」，以及活"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189638348",
+      "publishedAt": "2026-09-02T11:52:10.000Z"
+    },
+    {
+      "slug": "feed-a83ee7da65631df1",
+      "title": "不懂就问纯净原生IP",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 怎么才算纯净看ip质量吗，咱这个是广播ip算纯净吗我看没风险💻基本信息🎬IP质量🌐网络质量📍回程路由NodeQuality链接",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 怎么才算纯净看ip质量吗，咱这个是广播ip算纯净吗我看没风险💻基本信息🎬IP质量🌐网络质量📍回程路由NodeQuality链接"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-907738-1",
+      "publishedAt": "2026-09-02T11:51:46.000Z"
+    },
+    {
+      "slug": "feed-ff1806f0f4114a6d",
+      "title": "CDPR：我们从未考虑过向已拥有《巫师3》的玩家收取重制费用",
+      "summary": "CDPR联合CEO Michał Nowakowski近日接受The Game Business采访时表示，公司从未考虑向已拥有《巫师3》的玩家收取重制版费用。他说，团队在推进新资料片《往昔之歌》开发时，曾讨论让这款游戏更现代化，相关改动逐步扩大，最终形成",
+      "content": [
+        "CDPR联合CEO Michał Nowakowski近日接受The Game Business采访时表示，公司从未考虑向已拥有《巫师3》的玩家收取重制版费用。他说，团队在推进新资料片《往昔之歌》开发时，曾讨论让这款游戏更现代化，相关改动逐步扩大，最终形成"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189614955",
+      "publishedAt": "2026-09-02T11:49:44.000Z"
+    },
+    {
+      "slug": "feed-df0b1d7dfa3c660d",
+      "title": "《怪物猎人荒野 凌越》公开“大剑”武器宣传片，将于2027年推出",
+      "summary": "9月2日，卡普空公开了《怪物猎人荒野 凌越》中的“大剑”武器宣传片，未来将会按顺序公开各武器种类的介绍视频。同时，官方也首次公开了新要素“增幅动作”，借助“增幅护腕”带来全新的动作，狩猎动作将实现进一步进化。超大型扩充内容《Monster Hunter W",
+      "content": [
+        "9月2日，卡普空公开了《怪物猎人荒野 凌越》中的“大剑”武器宣传片，未来将会按顺序公开各武器种类的介绍视频。同时，官方也首次公开了新要素“增幅动作”，借助“增幅护腕”带来全新的动作，狩猎动作将实现进一步进化。超大型扩充内容《Monster Hunter W"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189636500",
+      "publishedAt": "2026-09-02T11:47:48.000Z"
+    },
+    {
+      "slug": "feed-7d7536787373d195",
+      "title": "《GTA6》女主露西娅：黑色连体衣全身建模图！！",
+      "summary": "近期一组《GTA6》女主角露西娅黑色连体衣的全身建模图在网络流传，迅速引爆海内外游戏社区讨论。这套紧身黑色连体衣造型质感突出，完整展示出角色全身模型细节，服装褶皱、皮肤纹理、身上纹身都得到细致呈现，直观展现 R 星新一代角色建模的技术水准。从曝光画面来看，",
+      "content": [
+        "近期一组《GTA6》女主角露西娅黑色连体衣的全身建模图在网络流传，迅速引爆海内外游戏社区讨论。这套紧身黑色连体衣造型质感突出，完整展示出角色全身模型细节，服装褶皱、皮肤纹理、身上纹身都得到细致呈现，直观展现 R 星新一代角色建模的技术水准。从曝光画面来看，"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189566187",
+      "publishedAt": "2026-09-02T10:50:15.000Z"
+    },
+    {
+      "slug": "feed-19ebc7637fc08ed5",
+      "title": "9.1—9.2 凌晨《魔女的夜宴》等60多款galgame开启史低/新史低！",
+      "summary": "目录9.2凌晨新折扣9.2之前折扣区点击有惊喜—————————————————————9.2凌晨新折扣（持续更新中…）《魔女的夜宴》（五部曲捆绑包且支持补全，但《千恋万花》史低结束）《爱丽娅的明日盛典》《五色浮影绽放于花之海洋》《交汇协奏曲》《Trino",
+      "content": [
+        "目录9.2凌晨新折扣9.2之前折扣区点击有惊喜—————————————————————9.2凌晨新折扣（持续更新中…）《魔女的夜宴》（五部曲捆绑包且支持补全，但《千恋万花》史低结束）《爱丽娅的明日盛典》《五色浮影绽放于花之海洋》《交汇协奏曲》《Trino"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189595803",
+      "publishedAt": "2026-09-02T10:08:56.000Z"
+    },
+    {
+      "slug": "feed-6babe3bd4ca49a68",
+      "title": "Aiming to supercharge The Blood of Dawnwalker's early mods, Nexus Mods release their own \"streamlined\" open-source Unreal modding tools",
+      "summary": "The Blood of Dawnwalker , Rebel Wolves' vampire RPG with more than a touch of Witcher 3 running through its veins, is about to claw-slide down a wall into release street. Depending on where in the world you live, it'll either arrive late on September 2nd or first thing on September 3rd. Ahead of that, in a bid to accelerate modders' early attempts to put their own spin on the game, Nexus Mods have released some of their own open-source tools designed to cut some of the faff out of Unreal Engine m...",
+      "content": [
+        "The Blood of Dawnwalker , Rebel Wolves' vampire RPG with more than a touch of Witcher 3 running through its veins, is about to claw-slide down a wall into release street. Depending on where in the world you live, it'll either arrive late on September 2nd or first thing on September 3rd. Ahead of that, in a bid to accelerate modders' early attempts to put their own spin on the game, Nexus Mods have released some of their own open-source tools designed to cut some of the faff out of Unreal Engine m..."
+      ],
+      "section": "游戏娱乐",
+      "category": "Steam",
+      "source": "Steam 全球热销榜第 2 名 · Rock, Paper, Shotgun",
+      "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock,%20Paper,%20Shotgun/1842846814439998",
+      "publishedAt": "2026-09-02T10:02:28.000Z"
+    },
+    {
+      "slug": "feed-81367603aed5497d",
+      "title": "直到赛前..我都没想到当教练还得出COS啊???🥹 【bilibilionly同人扶持计划】",
+      "summary": "感谢茶姬的邀请 认真建设了一次自己小时候最喜欢最想出的COS 可惜这次大小姐感觉还能出的更好 其实有在计划做全套的末日机甲 不知道大家爱不爱看2333 这次如果视频效果很好 我就赶紧整出来! 🔥想火🔥 喜欢的大伙给个三连吧!!感谢!!",
+      "content": [
+        "感谢茶姬的邀请 认真建设了一次自己小时候最喜欢最想出的COS 可惜这次大小姐感觉还能出的更好 其实有在计划做全套的末日机甲 不知道大家爱不爱看2333 这次如果视频效果很好 我就赶紧整出来! 🔥想火🔥 喜欢的大伙给个三连吧!!感谢!!"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 恩祈儿 · 142,888 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV13QtJ67Eo1",
+      "publishedAt": "2026-09-02T09:07:52.000Z"
+    },
+    {
+      "slug": "feed-d946909dc899e1d0",
+      "title": "美国银行32岁副总裁在时代广场被随机捅死",
+      "summary": "B站当前热门视频，请打开原页面查看完整内容。",
+      "content": [
+        "B站当前热门视频，请打开原页面查看完整内容。"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 波士顿圆脸 · 339,635 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1jHtn6oEKJ",
+      "publishedAt": "2026-09-02T07:16:18.000Z"
+    },
+    {
+      "slug": "feed-724728d768d0dc64",
+      "title": "一见·“中国之治”的时代回响",
+      "summary": "从脱贫攻坚战中“决不能落下一个贫困地区、一个贫困群众”，到如今向着“推进中国式现代化、实现共同富裕，一个民族都不能少”的接续努力……世人看见的不仅是中国日新月异的发展，更是“发展为了人民、发展依靠人民”的坚实行动，从中获得启示与信心。",
+      "content": [
+        "从脱贫攻坚战中“决不能落下一个贫困地区、一个贫困群众”，到如今向着“推进中国式现代化、实现共同富裕，一个民族都不能少”的接续努力……世人看见的不仅是中国日新月异的发展，更是“发展为了人民、发展依靠人民”的坚实行动，从中获得启示与信心。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.sina.cn",
+      "sourceUrl": "https://news.sina.cn/2026-09-02/detail-iniqkzky4576149.d.html?vt=4",
+      "publishedAt": "2026-09-02T04:15:00.000Z",
+      "featured": true
+    },
+    {
+      "slug": "feed-2a00f305126008ef",
+      "title": "中国楼市改革向何处去？谁将受益，谁又将承压",
+      "summary": "【编者按】 近期，中国房地产市场迎来一轮重要的制度调整。从商品住房现房销售、提高预售门槛，到加强预售资金监管，再到住房贷款期限延长、完善房地产融资制度，这些变化意味着延续了30多年的部分楼市运行规则正在发生深刻调整。 这轮改革究竟意味着什么？谁会从中受益，谁又将面临新的压力？它能否真正恢复购房者信心，推动房地产市场走出长期调整？这些问题，仍有待实践回答。",
+      "content": [
+        "【编者按】 近期，中国房地产市场迎来一轮重要的制度调整。从商品住房现房销售、提高预售门槛，到加强预售资金监管，再到住房贷款期限延长、完善房地产融资制度，这些变化意味着延续了30多年的部分楼市运行规则正在发生深刻调整。 这轮改革究竟意味着什么？谁会从中受益，谁又将面临新的压力？它能否真正恢复购房者信心，推动房地产市场走出长期调整？这些问题，仍有待实践回答。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "szhgh.com",
+      "sourceUrl": "https://www.szhgh.com/Article/news/politics/2026-09-02/412820.html",
+      "publishedAt": "2026-09-02T04:05:00.000Z"
+    },
+    {
+      "slug": "feed-d2936d0ca882ab40",
+      "title": "中国驻新西兰使馆发声",
+      "summary": "9月2日，中国驻新西兰使馆发言人就美、新拟在库克群岛建立深水港答记者问。 问：美国和新西兰近期宣布计划在库克群岛前军事基地上建立一座深水港。使馆对此有何评论？ 答：我们注意到了相关报道，也注意到有关方面表示，美国、新西兰、库克群岛三方合作旨在为库克群岛、特别是 ...",
+      "content": [
+        "9月2日，中国驻新西兰使馆发言人就美、新拟在库克群岛建立深水港答记者问。 问：美国和新西兰近期宣布计划在库克群岛前军事基地上建立一座深水港。使馆对此有何评论？ 答：我们注意到了相关报道，也注意到有关方面表示，美国、新西兰、库克群岛三方合作旨在为库克群岛、特别是 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.sina.cn",
+      "sourceUrl": "https://news.sina.cn/gn/2026-09-02/detail-iniqkvce1375048.d.html?vt=4",
+      "publishedAt": "2026-09-02T03:45:00.000Z"
+    },
+    {
+      "slug": "feed-ddca1fdfa9859e5d",
+      "title": "中国国航：一航班在纽约加油时，加油车非正常移动导致飞机相关 ...",
+      "summary": "新京报讯 据中国国际航空消息，8月31日，国航CA982航班在纽约肯尼迪国际机场地面加油作业时，加油车非正常移动，导致飞机相关部件损伤，航班无法按计划执行。事件发生后，国航立即启动相应国际航班专项预案，全力做好旅客服务保障工作。 编辑 刘佳妮 ...",
+      "content": [
+        "新京报讯 据中国国际航空消息，8月31日，国航CA982航班在纽约肯尼迪国际机场地面加油作业时，加油车非正常移动，导致飞机相关部件损伤，航班无法按计划执行。事件发生后，国航立即启动相应国际航班专项预案，全力做好旅客服务保障工作。 编辑 刘佳妮 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "msn.cn",
+      "sourceUrl": "https://www.msn.cn/zh-cn/news/other/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E8%88%AA-%E4%B8%80%E8%88%AA%E7%8F%AD%E5%9C%A8%E7%BA%BD%E7%BA%A6%E5%8A%A0%E6%B2%B9%E6%97%B6-%E5%8A%A0%E6%B2%B9%E8%BD%A6%E9%9D%9E%E6%AD%A3%E5%B8%B8%E7%A7%BB%E5%8A%A8%E5%AF%BC%E8%87%B4%E9%A3%9E%E6%9C%BA%E7%9B%B8%E5%85%B3%E9%83%A8%E4%BB%B6%E6%8D%9F%E4%BC%A4/ar-AA2bpCRc",
+      "publishedAt": "2026-09-02T03:23:18.000Z"
+    },
+    {
+      "slug": "feed-f382a9d4d3e18e6e",
+      "title": "极限挑战——时光大桥",
+      "summary": "重游时光大桥，又想起当年桥上的一幕幕场景。",
+      "content": [
+        "重游时光大桥，又想起当年桥上的一幕幕场景。"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 王迅 · 268,077 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1BjtE6HExq",
+      "publishedAt": "2026-09-02T03:04:34.000Z"
+    },
+    {
+      "slug": "feed-cad9eed66bbb3f91",
+      "title": "奥克兰理工大学首届中国开放日招生见面会圆满收官，三城交流连接 ...",
+      "summary": "奥克兰理工大学首届中国开放日招生见面会圆满收官，三城交流连接中国学生与新西兰高校,新西兰,奥克兰理工大学,留学,学校 ...",
+      "content": [
+        "奥克兰理工大学首届中国开放日招生见面会圆满收官，三城交流连接中国学生与新西兰高校,新西兰,奥克兰理工大学,留学,学校 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "163.com",
+      "sourceUrl": "https://www.163.com/news/article/L5QI8A7T00019UD6.html",
+      "publishedAt": "2026-09-02T03:01:00.000Z"
+    },
+    {
+      "slug": "feed-35ceaf83828f8870",
+      "title": "《异环》灵可角色PV丨宇宙的频段",
+      "summary": "超自然都市开放世界RPG《异环》全新版本「雾中朔望星回」现已开启！立刻下载>>>https://www.biligame.com/detail/?id=111795 「宇宙像一个电台，每个生命都有独属于自己的电波频段……」 「……不论是人、异象、还是我的宠物小贞，都不例外。」 「哈？！臭小鬼！你说谁是宠物？！」",
+      "content": [
+        "超自然都市开放世界RPG《异环》全新版本「雾中朔望星回」现已开启！立刻下载>>>https://www.biligame.com/detail/?id=111795 「宇宙像一个电台，每个生命都有独属于自己的电波频段……」 「……不论是人、异象、还是我的宠物小贞，都不例外。」 「哈？！臭小鬼！你说谁是宠物？！」"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 异环 · 1,599,945 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1jVtt6LEjP",
+      "publishedAt": "2026-09-02T03:00:00.000Z"
+    },
+    {
+      "slug": "feed-21c622d0eee757b9",
+      "title": "《明日方舟》干员「结城理」技能展示PV",
+      "summary": "《明日方舟》干员「结城理」技能展示PV ———————————— 【明日方舟 × 女神异闻录３ Reload】SideStory「月行水上」限时活动即将开启 更多活动详情内容详见游戏内公告。",
+      "content": [
+        "《明日方舟》干员「结城理」技能展示PV ———————————— 【明日方舟 × 女神异闻录３ Reload】SideStory「月行水上」限时活动即将开启 更多活动详情内容详见游戏内公告。"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 明日方舟 · 1,283,853 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1RhtV6iEt3",
+      "publishedAt": "2026-09-02T03:00:00.000Z"
+    },
+    {
+      "slug": "feed-b69ba5857692ef6e",
+      "title": "中国工程院院士许健民：未来风云卫星将更精密、更智能、更协同",
+      "summary": "国际气象组织奖被誉为“气象界诺贝尔奖”，每年全球仅授予一位在气象、水文及地球物理科学领域作出卓越贡献的科学家。在许健民之前，仅有叶笃正、秦大河、曾庆存三位中国学者获此奖项。许健民在颁奖现场说：“这份荣誉不属于我个人，它属于几代中国气象卫星人。” ...",
+      "content": [
+        "国际气象组织奖被誉为“气象界诺贝尔奖”，每年全球仅授予一位在气象、水文及地球物理科学领域作出卓越贡献的科学家。在许健民之前，仅有叶笃正、秦大河、曾庆存三位中国学者获此奖项。许健民在颁奖现场说：“这份荣誉不属于我个人，它属于几代中国气象卫星人。” ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.sciencenet.cn",
+      "sourceUrl": "https://news.sciencenet.cn/htmlnews/2026/9/570719.shtm",
+      "publishedAt": "2026-09-02T02:19:00.000Z"
+    },
+    {
+      "slug": "feed-b8ec70c6d831a61b",
+      "title": "【暗区突围手游版本PV】硝烟无声，S19赛季现已上线！",
+      "summary": "「杂草会影响花园的美观，毒害周遭生灵，因此诞生了一批人——园丁。」 托兰德最精锐的部队\"园丁\"正在行动，他们的工作是清理过往事件的一些知情者。这一次，名单上多了一个名字。 出品：魔方工作室 创意指导：魔方艺术设计中心 & 暗区突围项目组 军武指导：塔格军研 CG制作：宇季 Yujipictures 音乐制作:HFJ黑风菌",
+      "content": [
+        "「杂草会影响花园的美观，毒害周遭生灵，因此诞生了一批人——园丁。」 托兰德最精锐的部队\"园丁\"正在行动，他们的工作是清理过往事件的一些知情者。这一次，名单上多了一个名字。 出品：魔方工作室 创意指导：魔方艺术设计中心 & 暗区突围项目组 军武指导：塔格军研 CG制作：宇季 Yujipictures 音乐制作:HFJ黑风菌"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 暗区突围 · 664,535 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1batE63ECg",
+      "publishedAt": "2026-09-02T02:08:18.000Z"
+    },
     {
       "slug": "feed-d7e580f4d7036a60",
       "title": "三角洲S11前瞻直播省流版本：老黑红皮、骇爪金皮、吴彦祖返场？",
@@ -119,6 +432,19 @@
       "publishedAt": "2026-09-02T01:48:43.000Z"
     },
     {
+      "slug": "feed-bf73daeb792529f8",
+      "title": "中国研究团队系统揭示吉隆泥石流灾害放大机制：高位冰岩崩+沿程增容",
+      "summary": "中新网北京9月2日电 (记者 孙自法)由中国科学院青藏高原研究所牵头的联合研究团队，最近在西藏吉隆“8·26”泥石流灾害成因及放大机制方面取得重要研究进展，他们综合研究发现，高位冰岩崩+沿程增容是造成此次泥石流灾害的主因。 相关成果论文，近日以“尼泊尔高位冰岩崩沿程增容形成西藏吉隆‘8·26’泥石流灾害”为题，在学术期刊《科学通报》发表。",
+      "content": [
+        "中新网北京9月2日电 (记者 孙自法)由中国科学院青藏高原研究所牵头的联合研究团队，最近在西藏吉隆“8·26”泥石流灾害成因及放大机制方面取得重要研究进展，他们综合研究发现，高位冰岩崩+沿程增容是造成此次泥石流灾害的主因。 相关成果论文，近日以“尼泊尔高位冰岩崩沿程增容形成西藏吉隆‘8·26’泥石流灾害”为题，在学术期刊《科学通报》发表。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "msn.com",
+      "sourceUrl": "https://www.msn.com/zh-cn/news/other/%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E5%9B%A2%E9%98%9F%E7%B3%BB%E7%BB%9F%E6%8F%AD%E7%A4%BA%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E6%94%BE%E5%A4%A7%E6%9C%BA%E5%88%B6-%E9%AB%98%E4%BD%8D%E5%86%B0%E5%B2%A9%E5%B4%A9-%E6%B2%BF%E7%A8%8B%E5%A2%9E%E5%AE%B9/ar-AA2bpkrG",
+      "publishedAt": "2026-09-02T01:43:27.000Z"
+    },
+    {
       "slug": "feed-58173dcd80c2e837",
       "title": "双人合作冒险！《双轮成行(WheelMates)》现已正式上线！",
       "summary": "大家好！今天对我们团队来说是个重要的日子。WheelMates 现已在 Steam 上线！带上你的二号玩家，一起踏上穿越 Bloom 教授府邸的双人合作冒险之旅。通过好友通行证，你的伙伴可免费加入！观看发行预告片如何使用好友通行证邀请朋友支持者礼包想要更多",
@@ -130,6 +456,45 @@
       "source": "小黑盒",
       "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189589658",
       "publishedAt": "2026-09-02T01:29:04.000Z"
+    },
+    {
+      "slug": "feed-5ada44f914de85dc",
+      "title": "服务进口扩容 全球共享中国发展新机遇",
+      "summary": "央视网消息：国际优质服务落地国内，也为消费提质、企业创新注入新动能。作为超大市场，中国正以互利共赢的姿态，与世界共享发展机遇。",
+      "content": [
+        "央视网消息：国际优质服务落地国内，也为消费提质、企业创新注入新动能。作为超大市场，中国正以互利共赢的姿态，与世界共享发展机遇。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "jingji.cctv.com",
+      "sourceUrl": "https://jingji.cctv.com/2026/09/02/ARTIFVRUPU6f2gGJgTILKIKp260902.shtml",
+      "publishedAt": "2026-09-02T01:11:00.000Z"
+    },
+    {
+      "slug": "feed-05c94a4934a9d43d",
+      "title": "光伏发电超越煤电成中国第一大电源，现存相关企业达137.43万家",
+      "summary": "据央视新闻，国家能源局最新数据显示，截至今年7月底，全国光伏发电装机达到12.86亿千瓦，首次超越煤电，光伏正式成为我国第一大电源。全国发电总装机中，光伏占比达31.5%。今年1—7月，全国光伏发电量突破8024亿千瓦时，同比增长15.5%。简单算一笔：全国每8度电，就有1度来自光伏。全球每10块光伏组件，就有8块“中国制造”。核心技术稳居全球第一梯队，下一 ...",
+      "content": [
+        "据央视新闻，国家能源局最新数据显示，截至今年7月底，全国光伏发电装机达到12.86亿千瓦，首次超越煤电，光伏正式成为我国第一大电源。全国发电总装机中，光伏占比达31.5%。今年1—7月，全国光伏发电量突破8024亿千瓦时，同比增长15.5%。简单算一笔：全国每8度电，就有1度来自光伏。全球每10块光伏组件，就有8块“中国制造”。核心技术稳居全球第一梯队，下一 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "msn.cn",
+      "sourceUrl": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E5%8F%AF%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90/%E5%85%89%E4%BC%8F%E5%8F%91%E7%94%B5%E8%B6%85%E8%B6%8A%E7%85%A4%E7%94%B5%E6%88%90%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%94%B5%E6%BA%90-%E7%8E%B0%E5%AD%98%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E8%BE%BE137-43%E4%B8%87%E5%AE%B6/ar-AA2bpnpe",
+      "publishedAt": "2026-09-02T01:09:06.000Z"
+    },
+    {
+      "slug": "feed-1ebcab92d0495395",
+      "title": "中国对尼泊尔第二批援助物资启运",
+      "summary": "日前中国和尼泊尔边境吉隆－热索瓦口岸发生严重泥石流灾害，造成重大人员伤亡、失联和财产损失。中方在紧急开展抢险自救的同时，第一时间向尼方伸出援手，支持尼方应急救灾。（完） ...",
+      "content": [
+        "日前中国和尼泊尔边境吉隆－热索瓦口岸发生严重泥石流灾害，造成重大人员伤亡、失联和财产损失。中方在紧急开展抢险自救的同时，第一时间向尼方伸出援手，支持尼方应急救灾。（完） ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "szhgh.com",
+      "sourceUrl": "https://www.szhgh.com/Article/news/politics/2026-09-02/412808.html",
+      "publishedAt": "2026-09-02T01:02:00.000Z"
     },
     {
       "slug": "feed-189521b26e22fb76",
@@ -158,6 +523,32 @@
       "publishedAt": "2026-09-02T00:17:09.000Z"
     },
     {
+      "slug": "feed-a1f07e0f144da4ed",
+      "title": "好评中国 | 潮起蔚蓝，向海图强——从金秋开海看辽宁海洋经济高 ...",
+      "summary": "文丨刘曦碧波翻涌，汽笛铿锵。9月1日，结束四个月休渔期的黄渤海海域正式迎来开海季，辽宁各地渔港内，一艘艘钢质渔船拔锚起航，开启秋汛捕捞作业。一年一度的开海，拉开秋季渔业生产的大幕。码头之上千帆出海，人们看见的不只是渔获满舱的烟火图景，更能从中感受到辽宁耕海牧渔 ...",
+      "content": [
+        "文丨刘曦碧波翻涌，汽笛铿锵。9月1日，结束四个月休渔期的黄渤海海域正式迎来开海季，辽宁各地渔港内，一艘艘钢质渔船拔锚起航，开启秋汛捕捞作业。一年一度的开海，拉开秋季渔业生产的大幕。码头之上千帆出海，人们看见的不只是渔获满舱的烟火图景，更能从中感受到辽宁耕海牧渔 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.sina.com.cn",
+      "sourceUrl": "https://news.sina.com.cn/zx/gj/2026-09-02/doc-iniqmmyu4638133.shtml",
+      "publishedAt": "2026-09-02T00:15:00.000Z"
+    },
+    {
+      "slug": "feed-06a6a357a9cf9b3d",
+      "title": "7300万销量IP《文明VII》35周年里程碑 全平台发售!",
+      "summary": "在《文明》系列迎来35周年纪念之际，2K与Firaxis Games正式宣布，备受期待的4X策略游戏《文明VII》已在全球范围内震撼发售。这一里程碑式的作品标志着该系列首次实现PC与主机平台的同步推出，玩家现可在PlayStation、Xbox、Nintendo Switch以及PC（Steam/Epic Games Store）上体验这款策略巨作。",
+      "content": [
+        "在《文明》系列迎来35周年纪念之际，2K与Firaxis Games正式宣布，备受期待的4X策略游戏《文明VII》已在全球范围内震撼发售。这一里程碑式的作品标志着该系列首次实现PC与主机平台的同步推出，玩家现可在PlayStation、Xbox、Nintendo Switch以及PC（Steam/Epic Games Store）上体验这款策略巨作。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "msn.cn",
+      "sourceUrl": "https://www.msn.cn/zh-cn/gaming/%E7%AD%96%E7%95%A5%E6%B8%B8%E6%88%8F/7300%E4%B8%87%E9%94%80%E9%87%8Fip-%E6%96%87%E6%98%8Evii-35%E5%91%A8%E5%B9%B4%E9%87%8C%E7%A8%8B%E7%A2%91-%E5%85%A8%E5%B9%B3%E5%8F%B0%E5%8F%91%E5%94%AE/ar-AA2boo4e",
+      "publishedAt": "2026-09-01T23:54:31.000Z"
+    },
+    {
       "slug": "feed-21a2e9f3edcb7fdc",
       "title": "The Blood of Dawnwalker - 1 day left 🌗",
       "summary": "All that remains… is for you to choose.No turning back now. We're in for quite a ride.☼ September 3rd, 2026. ☽",
@@ -169,6 +560,58 @@
       "source": "Steam 全球热销榜第 2 名 · Community Announcements",
       "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814438705",
       "publishedAt": "2026-09-01T22:30:33.000Z"
+    },
+    {
+      "slug": "feed-57fe9b33c3f9bd48",
+      "title": "初代 Switch 已可原生运行非官方版《GTA 5》，超频后可达 30 FPS",
+      "summary": "时隔 13 年，如今 Mod 制作者替 Rockstar 完成了这项工作。一个非官方的 《GTA V》 自制移植版现已登陆 Switch，并能够直接运行在该主机硬件上，帧率大约为 30 FPS。不过，玩家需要使用一台已经破解的 Switch，而且还必须进行超频，才能获得可玩的游戏体验。",
+      "content": [
+        "时隔 13 年，如今 Mod 制作者替 Rockstar 完成了这项工作。一个非官方的 《GTA V》 自制移植版现已登陆 Switch，并能够直接运行在该主机硬件上，帧率大约为 30 FPS。不过，玩家需要使用一台已经破解的 Switch，而且还必须进行超频，才能获得可玩的游戏体验。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "finance.sina.com.cn",
+      "sourceUrl": "https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqmwqu7572447.shtml",
+      "publishedAt": "2026-09-01T22:06:00.000Z"
+    },
+    {
+      "slug": "feed-7cf2c2c17232ffe2",
+      "title": "Xbox Game Pass 9月阵容调整：使命召唤系列回归与多款知名作品离库 ...",
+      "summary": "微软（Microsoft）近期公布了 Xbox Game Pass 2026 年 9 月的第一批新增游戏名单。本次更新不仅涵盖了独立游戏与卡牌构筑类作品，还包括了《使命召唤：黑色行动 冷战》（Call of Duty: Black Ops Cold War）等系列大作的加入。对于订阅用户而言，这标志着平台内容库在下半年的又一次常规轮替。 新增阵容的多样性与重点作品 本批次新增名单中，《使命召唤：黑 ...",
+      "content": [
+        "微软（Microsoft）近期公布了 Xbox Game Pass 2026 年 9 月的第一批新增游戏名单。本次更新不仅涵盖了独立游戏与卡牌构筑类作品，还包括了《使命召唤：黑色行动 冷战》（Call of Duty: Black Ops Cold War）等系列大作的加入。对于订阅用户而言，这标志着平台内容库在下半年的又一次常规轮替。 新增阵容的多样性与重点作品 本批次新增名单中，《使命召唤：黑 ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "sohu.com",
+      "sourceUrl": "https://www.sohu.com/a/1070716718_122598898",
+      "publishedAt": "2026-09-01T21:02:00.000Z"
+    },
+    {
+      "slug": "feed-abf2d3c36331ace9",
+      "title": "国产本格推理游戏《山河旅探》现已登陆主机平台",
+      "summary": "由奥秘之家开发、NiuGamer发行的《山河旅探》，现已登陆任天堂Switch、PlayStation、XBOX以及Windows平台，同步支持PlayStation远程游玩和XBOX Play Anywhere功能，并将首次更新日本语言支持。《山河旅探》是一款以清末民初为背景的国风横轴本格推理探案游戏。游戏在Steam上目前的评价为好评如潮，拥有96% 的好评率，全端销量近40万套。游戏在玩法上 ...",
+      "content": [
+        "由奥秘之家开发、NiuGamer发行的《山河旅探》，现已登陆任天堂Switch、PlayStation、XBOX以及Windows平台，同步支持PlayStation远程游玩和XBOX Play Anywhere功能，并将首次更新日本语言支持。《山河旅探》是一款以清末民初为背景的国风横轴本格推理探案游戏。游戏在Steam上目前的评价为好评如潮，拥有96% 的好评率，全端销量近40万套。游戏在玩法上 ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "news.qq.com",
+      "sourceUrl": "https://news.qq.com/rain/a/20260902A0B6MX00",
+      "publishedAt": "2026-09-01T20:24:00.000Z"
+    },
+    {
+      "slug": "feed-905456f5304b0c17",
+      "title": "Xbox Game Pass 2026年9月第一波阵容公布",
+      "summary": "Xbox Game Pass 9月首批阵容公布！《使命召唤：黑色行动冷战》等大作入库，另有《龟龟潜海记》《Speedrunners 2》等新游。9月15日《赛博朋克2077：往日之影》《死亡细胞》等将离库，速来体验！",
+      "content": [
+        "Xbox Game Pass 9月首批阵容公布！《使命召唤：黑色行动冷战》等大作入库，另有《龟龟潜海记》《Speedrunners 2》等新游。9月15日《赛博朋克2077：往日之影》《死亡细胞》等将离库，速来体验！"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "news.17173.com",
+      "sourceUrl": "https://news.17173.com/content/09022026/031045361.shtml",
+      "publishedAt": "2026-09-01T20:10:00.000Z"
     },
     {
       "slug": "feed-6658abb431308998",
@@ -184,6 +627,19 @@
       "publishedAt": "2026-09-01T19:38:02.000Z"
     },
     {
+      "slug": "feed-a5e8cbff73575912",
+      "title": "《使命召唤17》领衔! XGP九月新增7款游戏",
+      "summary": "近日，微软公布了Xbox Game Pass 2026年9月第一波游戏入库阵容，共计7款新作将在本月分批加入订阅服务。本月阵容亮点包括：《使命召唤》系列作品、最新《VR战士》以及《符文世界》系列新作。 完整名单及入库时间如下： • 《龟龟潜海记》（Shelldiver） – 9月1日（云游戏、主机、PC） 适用订阅层级：Game Pass ...",
+      "content": [
+        "近日，微软公布了Xbox Game Pass 2026年9月第一波游戏入库阵容，共计7款新作将在本月分批加入订阅服务。本月阵容亮点包括：《使命召唤》系列作品、最新《VR战士》以及《符文世界》系列新作。 完整名单及入库时间如下： • 《龟龟潜海记》（Shelldiver） – 9月1日（云游戏、主机、PC） 适用订阅层级：Game Pass ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "msn.cn",
+      "sourceUrl": "https://www.msn.cn/zh-cn/gaming/%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A417-%E9%A2%86%E8%A1%94-xgp%E4%B9%9D%E6%9C%88%E6%96%B0%E5%A2%9E7%E6%AC%BE%E6%B8%B8%E6%88%8F/ar-AA2bnqLP",
+      "publishedAt": "2026-09-01T19:22:06.000Z"
+    },
+    {
       "slug": "feed-ff625e82d72ab862",
       "title": "中国男篮亚运会名单：胡金秋王俊杰在列 赵继伟杨瀚森无缘",
       "summary": "北京时间9月2日消息，2026年亚运会官网公布了中国男篮的参赛12人名单，赵继伟和杨瀚森无缘。此前，中国男篮官方确认，为了征战NBA，杨瀚森将不再参加之后的世预赛。",
@@ -194,8 +650,7 @@
       "category": "国内要闻",
       "source": "sohu.com",
       "sourceUrl": "https://www.sohu.com/a/1070758409_461606",
-      "publishedAt": "2026-09-01T19:00:00.000Z",
-      "featured": true
+      "publishedAt": "2026-09-01T19:00:00.000Z"
     },
     {
       "slug": "feed-2ed117258b931135",
@@ -235,6 +690,19 @@
       "source": "sdxw.iqilu.com",
       "sourceUrl": "https://sdxw.iqilu.com/w/article/YS0yMS0xNzM3NzIwNA.html",
       "publishedAt": "2026-09-01T19:00:00.000Z"
+    },
+    {
+      "slug": "feed-366c41c4c0f46a26",
+      "title": "《007》发售3个月首次打折！为了邦女郎快冲一个",
+      "summary": "由《杀手》系列开发商IO Interactive打造的007新作《007 初露锋芒》迎来发售后的首次正式折扣。游戏于2026年5月26日推出，目前标准版开启20%优惠，Steam售价降至238.4元，PlayStation商店同样提供20%折扣。Steam优惠目前持续至9月15日，PS商店则持续至9月10日。 此次促销也正值游戏发售三个月之际。根据IO Interactive公布的信息，《007： ...",
+      "content": [
+        "由《杀手》系列开发商IO Interactive打造的007新作《007 初露锋芒》迎来发售后的首次正式折扣。游戏于2026年5月26日推出，目前标准版开启20%优惠，Steam售价降至238.4元，PlayStation商店同样提供20%折扣。Steam优惠目前持续至9月15日，PS商店则持续至9月10日。 此次促销也正值游戏发售三个月之际。根据IO Interactive公布的信息，《007： ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "gamersky.com",
+      "sourceUrl": "https://www.gamersky.com/news/202609/2201446.shtml",
+      "publishedAt": "2026-09-01T18:34:00.000Z"
     },
     {
       "slug": "feed-8a09ea41d01ce9b7",
@@ -315,6 +783,19 @@
       "publishedAt": "2026-09-01T17:00:00.000Z"
     },
     {
+      "slug": "feed-a5a09102388054a6",
+      "title": "桌上游戏游戏哪些人气高 高人气桌上游戏游戏排行榜前十",
+      "summary": "探寻桌游魅力巅峰！桌上游戏游戏哪些人气高？最新排行榜揭示，十大热门游戏让你大开眼界。无论是策略智斗的《狼人杀》还是欢乐无限的《卡坦岛》，这些游戏凭借独特的玩法和社交互动深受玩家喜爱。一起沉浸在指尖的乐趣中，看看哪一款能成为你的新欢？ 1 Milky Way Jigsaw Puzzles 《Milky Way Jigsaw Puzzles》是一款以宇宙为主题的拼图游戏。玩家可以在游戏中解开以恒星、星 ...",
+      "content": [
+        "探寻桌游魅力巅峰！桌上游戏游戏哪些人气高？最新排行榜揭示，十大热门游戏让你大开眼界。无论是策略智斗的《狼人杀》还是欢乐无限的《卡坦岛》，这些游戏凭借独特的玩法和社交互动深受玩家喜爱。一起沉浸在指尖的乐趣中，看看哪一款能成为你的新欢？ 1 Milky Way Jigsaw Puzzles 《Milky Way Jigsaw Puzzles》是一款以宇宙为主题的拼图游戏。玩家可以在游戏中解开以恒星、星 ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "game.zol.com.cn",
+      "sourceUrl": "https://game.zol.com.cn/1240/12405867.html",
+      "publishedAt": "2026-09-01T16:45:00.000Z"
+    },
+    {
       "slug": "feed-3d167e87b0fac656",
       "title": "Apex Legends™ EA Play* Weapon Charm",
       "summary": "Experience a world of thrill with EA Play. Join to get great player benefits and unlimited access to an unrivaled collection of EA’s fan-favorite franchises and top titles. Members can unlock rewards in the hottest titles each month, including Weapon Charms in Apex Legends. Dive into all the game-winning, world-creating, and galaxy-defining moments in The Play List or discover a new favorite with trials of select recent releases for up to 10 hours with no commitments. If you decide to buy, your ...",
@@ -326,6 +807,32 @@
       "source": "Steam 全球热销榜第 1 名 · Community Announcements",
       "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951314034",
       "publishedAt": "2026-09-01T16:32:10.000Z"
+    },
+    {
+      "slug": "feed-8bed9365352b6b21",
+      "title": "WARDOGS | Closed Beta 02 Announcement",
+      "summary": "Officially announcing CLOSED BETA #2 ahead of The FPS Games Show.Pre-Order now to guarantee access - with limited access being handed out in waves.This is a genuine scale test where we want players to jump in and break our systems - right after The FPS Games Show.// Why not an open beta?To validate the stability of our systems properly we will be increasing the number of Steam Playtest invitees in waves rather than opening the beta completely. This is to test areas of the game that only break at...",
+      "content": [
+        "Officially announcing CLOSED BETA #2 ahead of The FPS Games Show.Pre-Order now to guarantee access - with limited access being handed out in waves.This is a genuine scale test where we want players to jump in and break our systems - right after The FPS Games Show.// Why not an open beta?To validate the stability of our systems properly we will be increasing the number of Steam Playtest invitees in waves rather than opening the beta completely. This is to test areas of the game that only break at..."
+      ],
+      "section": "游戏娱乐",
+      "category": "Steam",
+      "source": "Steam 全球热销榜第 5 名 · Community Announcements",
+      "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313938",
+      "publishedAt": "2026-09-01T16:07:03.000Z"
+    },
+    {
+      "slug": "feed-c304e79d5e240f83",
+      "title": "《越过山丘》发售预告：10月14日登陆PC，Steam国区定价86元",
+      "summary": "《越过山丘（over the hill）》将于2026年10月14日登陆PC平台，PlayStation 5、Xbox Series X|S、以及Nintendo Switch 2版本预计2027年推出，游戏支持简体中文界面。游戏将带领玩家梦回越野黄金年代，探索广袤无垠天地。",
+      "content": [
+        "《越过山丘（over the hill）》将于2026年10月14日登陆PC平台，PlayStation 5、Xbox Series X|S、以及Nintendo Switch 2版本预计2027年推出，游戏支持简体中文界面。游戏将带领玩家梦回越野黄金年代，探索广袤无垠天地。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "news.qq.com",
+      "sourceUrl": "https://news.qq.com/rain/a/20260902A074OF00",
+      "publishedAt": "2026-09-01T15:41:00.000Z"
     },
     {
       "slug": "feed-46192f8ad524199b",
@@ -341,6 +848,19 @@
       "publishedAt": "2026-09-01T15:33:00.000Z"
     },
     {
+      "slug": "feed-03c8fe80bdb17c7e",
+      "title": "13 年前被喷爆的 XBOX 功能，怎么成了游戏光盘最后的救命稻草？",
+      "summary": "时隔 13 年，当微软再次重启「光盘转数字」时，功能本身并没有太多变化，权利关系却发生了根本倒转。在 2026 年这套全新的机制里，实体光盘不再是等待被监管的嫌疑对象，反而变成了裁决数字权益归属的唯一物理钥匙。",
+      "content": [
+        "时隔 13 年，当微软再次重启「光盘转数字」时，功能本身并没有太多变化，权利关系却发生了根本倒转。在 2026 年这套全新的机制里，实体光盘不再是等待被监管的嫌疑对象，反而变成了裁决数字权益归属的唯一物理钥匙。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "finance.sina.com.cn",
+      "sourceUrl": "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqmfsy1328813.shtml",
+      "publishedAt": "2026-09-01T15:15:00.000Z"
+    },
+    {
       "slug": "feed-b93a3a4ff190b3c0",
       "title": "微软推出《使命召唤：现代战争》系列预购返利活动 ｜#游戏资讯 ...",
       "summary": "微软（Microsoft）近期针对《使命召唤：现代战争》（Call of Duty: Modern Warfare）系列开启了一项面向Xbox及PC平台的预购激励政策。通过Xbox Series X/S主机或PC端的Xbox应用/商店预购游戏的玩家，可获得价值5美元/4英镑/5欧元的平台礼品券，用于后续在Xbox商店内的消费。 活动规则与参与门槛 此次促销并非针对所有玩家，其核心逻辑在于激励老用户 ...",
@@ -352,6 +872,32 @@
       "source": "sohu.com",
       "sourceUrl": "https://www.sohu.com/a/1070649215_122598898",
       "publishedAt": "2026-09-01T14:07:00.000Z"
+    },
+    {
+      "slug": "feed-423c88d61ffac59d",
+      "title": "炊哥生日加更一期爆蛋炒饭",
+      "summary": "暂无摘要，请前往原始来源查看完整内容。",
+      "content": [
+        "暂无摘要，请前往原始来源查看完整内容。"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 炊哥不加戏 · 723,437 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV11XtV6HEHc",
+      "publishedAt": "2026-09-01T13:15:57.000Z"
+    },
+    {
+      "slug": "feed-1ae933c366212e82",
+      "title": "连英语人都发不明白uygur这个词的音",
+      "summary": "感谢大家的喜欢~",
+      "content": [
+        "感谢大家的喜欢~"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 路西法Lusiferr · 782,667 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1Datu6JEEi",
+      "publishedAt": "2026-09-01T12:00:00.000Z"
     },
     {
       "slug": "feed-0b9f3635e0e20021",
@@ -378,19 +924,6 @@
       "source": "NodeSeek精选",
       "sourceUrl": "https://www.nodeseek.com/post-905743-1",
       "publishedAt": "2026-09-01T11:59:44.000Z"
-    },
-    {
-      "slug": "feed-7d7536787373d195",
-      "title": "《GTA6》女主露西娅：黑色连体衣全身建模图！！",
-      "summary": "近期一组《GTA6》女主角露西娅黑色连体衣的全身建模图在网络流传，迅速引爆海内外游戏社区讨论。这套紧身黑色连体衣造型质感突出，完整展示出角色全身模型细节，服装褶皱、皮肤纹理、身上纹身都得到细致呈现，直观展现 R 星新一代角色建模的技术水准。从曝光画面来看，",
-      "content": [
-        "近期一组《GTA6》女主角露西娅黑色连体衣的全身建模图在网络流传，迅速引爆海内外游戏社区讨论。这套紧身黑色连体衣造型质感突出，完整展示出角色全身模型细节，服装褶皱、皮肤纹理、身上纹身都得到细致呈现，直观展现 R 星新一代角色建模的技术水准。从曝光画面来看，"
-      ],
-      "section": "游戏娱乐",
-      "category": "游戏平台",
-      "source": "小黑盒",
-      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189566187",
-      "publishedAt": "2026-09-01T11:59:33.000Z"
     },
     {
       "slug": "feed-156b064fa522954f",
@@ -575,6 +1108,19 @@
       "publishedAt": "2026-09-01T10:30:29.000Z"
     },
     {
+      "slug": "feed-94ad853dbf504f4e",
+      "title": "“什么叫程心的威慑度是100%？”",
+      "summary": "最！程！幻！想！",
+      "content": [
+        "最！程！幻！想！"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 自动鬼畜中的WZ · 610,712 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1p5t366EuM",
+      "publishedAt": "2026-09-01T10:05:00.000Z"
+    },
+    {
       "slug": "feed-07452b987f3c21d3",
       "title": "把公司当成主题乐园",
       "summary": "B站当前热门视频，请打开原页面查看完整内容。",
@@ -625,19 +1171,6 @@
       "source": "小黑盒",
       "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=189565245",
       "publishedAt": "2026-09-01T08:24:26.000Z"
-    },
-    {
-      "slug": "feed-905456f5304b0c17",
-      "title": "Xbox Game Pass 2026年9月第一波阵容公布",
-      "summary": "Xbox Game Pass 9月首批阵容公布！《使命召唤：黑色行动冷战》等大作入库，另有《龟龟潜海记》《Speedrunners 2》等新游。9月15日《赛博朋克2077：往日之影》《死亡细胞》等将离库，速来体验！",
-      "content": [
-        "Xbox Game Pass 9月首批阵容公布！《使命召唤：黑色行动冷战》等大作入库，另有《龟龟潜海记》《Speedrunners 2》等新游。9月15日《赛博朋克2077：往日之影》《死亡细胞》等将离库，速来体验！"
-      ],
-      "section": "游戏娱乐",
-      "category": "游戏新闻",
-      "source": "news.17173.com",
-      "sourceUrl": "https://news.17173.com/content/09022026/031045361.shtml",
-      "publishedAt": "2026-09-01T06:11:00.000Z"
     },
     {
       "slug": "feed-bef8f2bd61f373b6",
@@ -986,7 +1519,7 @@
       ],
       "section": "游戏娱乐",
       "category": "B站热门",
-      "source": "哔哩哔哩热门 · 梨茗子 · 334,636 播放",
+      "source": "哔哩哔哩热门 · 梨茗子 · 976,071 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV1Este6wExx",
       "publishedAt": "2026-09-01T01:30:00.000Z"
     },
@@ -1977,6 +2510,19 @@
       "source": "news.zhibo8.com",
       "sourceUrl": "https://news.zhibo8.com/nba/2026-08-31/6a94cc3729b8fnative.htm",
       "publishedAt": "2026-08-31T01:39:00.000Z"
+    },
+    {
+      "slug": "feed-27d1f317fd156b31",
+      "title": "GangTailorUpgrade/undress-service",
+      "summary": "Coomer Tool",
+      "content": [
+        "Coomer Tool"
+      ],
+      "section": "科技网络",
+      "category": "GitHub开源",
+      "source": "GitHub · ★ 887 · Python",
+      "sourceUrl": "https://github.com/GangTailorUpgrade/undress-service",
+      "publishedAt": "2026-08-31T00:12:45.000Z"
     },
     {
       "slug": "feed-8a97c34e91d5842b",
@@ -4366,7 +4912,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 958 · Markdown",
+      "source": "GitHub · ★ 1,017 · Markdown",
       "sourceUrl": "https://github.com/cbrock84/headcount",
       "publishedAt": "2026-08-28T18:03:04.000Z"
     },
@@ -4418,7 +4964,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 2,145 · TypeScript",
+      "source": "GitHub · ★ 2,233 · TypeScript",
       "sourceUrl": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "publishedAt": "2026-08-28T12:57:24.000Z"
     },
@@ -4574,7 +5120,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 1,358 · Python",
+      "source": "GitHub · ★ 1,436 · Python",
       "sourceUrl": "https://github.com/Nanako0129/sepia",
       "publishedAt": "2026-08-28T05:56:49.000Z"
     },
@@ -4639,7 +5185,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 884 · Python",
+      "source": "GitHub · ★ 913 · Python",
       "sourceUrl": "https://github.com/jprx/darwin-vm",
       "publishedAt": "2026-08-27T22:24:31.000Z"
     },
@@ -4730,7 +5276,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 6,205 · Python",
+      "source": "GitHub · ★ 6,778 · Python",
       "sourceUrl": "https://github.com/sapientinc/PRAXIST",
       "publishedAt": "2026-08-27T14:20:58.000Z"
     },
@@ -4743,7 +5289,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 1,138 · Python",
+      "source": "GitHub · ★ 1,142 · Python",
       "sourceUrl": "https://github.com/damejan80/tokentab",
       "publishedAt": "2026-08-27T14:16:09.000Z"
     },
@@ -4769,7 +5315,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 1,551 · Rust",
+      "source": "GitHub · ★ 1,689 · Rust",
       "sourceUrl": "https://github.com/crmne/fastpotify",
       "publishedAt": "2026-08-27T12:46:32.000Z"
     },
@@ -4886,7 +5432,7 @@
       ],
       "section": "游戏娱乐",
       "category": "Steam",
-      "source": "Steam 全球热销榜第 5 名 · Community Announcements",
+      "source": "Steam 全球热销榜第 4 名 · Community Announcements",
       "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951298513",
       "publishedAt": "2026-08-27T01:07:42.000Z"
     },
@@ -4977,7 +5523,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 1,204 · TypeScript",
+      "source": "GitHub · ★ 1,227 · TypeScript",
       "sourceUrl": "https://github.com/wide-trace/open-higgsfield",
       "publishedAt": "2026-08-26T06:09:58.000Z"
     },
