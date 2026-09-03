@@ -2,6 +2,7 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getNews } from "../../lib/news";
 import type { NewsItem } from "../../data/news";
+import { sourceLevelLabels } from "../../lib/ai";
 
 export async function getStaticPaths() {
   const news = await getNews();
@@ -19,10 +20,10 @@ const published = new Intl.DateTimeFormat("zh-CN", {
   <article class="article container">
     <nav class="breadcrumb" aria-label="面包屑"><a href="/">首页</a><span>/</span><span>{item.section}</span><span>/</span><span>{item.category}</span></nav>
     <header>
-      <span class="section-kicker">{item.section} · {item.category}</span>
+      <span class="section-kicker">{item.section} · {item.category}{item.sourceLevel ? ` · 【${sourceLevelLabels[item.sourceLevel]}】` : ""}</span>
       <h1>{item.title}</h1>
       <p class="article-deck">{item.summary}</p>
-      <div class="article-meta"><span>来源：{item.source}</span><time datetime={item.publishedAt}>{published}</time></div>
+      <div class="article-meta"><span>来源：{item.source}</span><time datetime={item.publishedAt}>{published}</time>{typeof item.importance === "number" && <span>重要度：{item.importance}</span>}</div>
     </header>
     <div class="article-body">
       {item.content.map(paragraph => <p>{paragraph}</p>)}
@@ -31,6 +32,19 @@ const published = new Intl.DateTimeFormat("zh-CN", {
         <p>聚合页面只提供信息索引与简要整理，完整内容请以原始来源为准。</p>
         <a href={item.sourceUrl} target="_blank" rel="noopener noreferrer">前往 {item.source} ↗</a>
       </aside>
+      {item.relatedSources && item.relatedSources.length > 0 && (
+        <aside class="source-box related-source-box">
+          <strong>同一事件的其他来源</strong>
+          <ul>
+            {item.relatedSources.map(related => (
+              <li>
+                <span>【{sourceLevelLabels[related.sourceLevel]}】{related.source}</span>
+                <a href={related.sourceUrl} target="_blank" rel="noopener noreferrer">{related.title} ↗</a>
+              </li>
+            ))}
+          </ul>
+        </aside>
+      )}
     </div>
     <a class="back-link" href="/">← 返回新闻首页</a>
   </article>

@@ -1,0 +1,91 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import NewsCard from "../../components/NewsCard.astro";
+import { generatedAt, getNews } from "../../lib/news";
+import { aiCompanies, aiIntelligence, sourceLevelLabels } from "../../lib/ai";
+import type { SourceLevel } from "../../data/news";
+
+const news = await getNews();
+const items = aiIntelligence(news);
+const levels: SourceLevel[] = ["official", "reliable", "rumor", "community"];
+const updatedAt = Number.isFinite(Date.parse(generatedAt))
+  ? new Intl.DateTimeFormat("zh-CN", {
+      year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit",
+      timeZone: "Asia/Shanghai", hour12: false,
+    }).format(new Date(generatedAt))
+  : "尚未接入";
+---
+<BaseLayout title="AI 情报｜澜讯" description="聚合 AI 官方更新和高可信报道，区分来源等级并减少重复与标题噪音。">
+  <div class="container listing-page ai-page">
+    <header class="listing-heading ai-heading">
+      <span class="section-kicker">AI INTELLIGENCE</span>
+      <h1>AI 情报</h1>
+      <p>今日更新时间：{updatedAt}。同一事件优先保留官方来源，其他可靠报道收进相关来源，不把传闻与官方信息混为一谈。</p>
+    </header>
+
+    <nav class="ai-company-filters" aria-label="按公司筛选 AI 情报">
+      <button class="active" type="button" data-ai-company="全部">全部</button>
+      {aiCompanies.map(company => <button type="button" data-ai-company={company}>{company}</button>)}
+    </nav>
+
+    <div class="trust-legend" aria-label="来源等级说明">
+      {levels.map(level => <span class:list={["trust-badge", `trust-${level}`]}>【{sourceLevelLabels[level]}】</span>)}
+    </div>
+
+    {levels.map(level => {
+      const groupItems = items.filter(item => item.sourceLevel === level);
+      return (
+        <section class="ai-level-section" data-ai-level-section={level} aria-labelledby={`ai-${level}`}>
+          <div class="section-block-heading ai-level-heading">
+            <div>
+              <span class:list={["trust-badge", `trust-${level}`]}>【{sourceLevelLabels[level]}】</span>
+              <h2 id={`ai-${level}`}>{sourceLevelLabels[level]}情报</h2>
+            </div>
+            <span class="ai-count" data-ai-count>{groupItems.length} 条</span>
+          </div>
+          <div class="news-grid ai-level-grid">
+            {groupItems.map(item => <NewsCard item={item} />)}
+          </div>
+          <p class="empty-state ai-group-empty" data-ai-group-empty hidden={groupItems.length !== 0}>当前筛选下没有这一级别的内容。</p>
+        </section>
+      );
+    })}
+    <p class="empty-state" id="ai-all-empty" hidden>当前筛选条件下没有 AI 情报。</p>
+  </div>
+
+  <script>
+    const buttons = [...document.querySelectorAll<HTMLButtonElement>("[data-ai-company]")];
+    const cards = [...document.querySelectorAll<HTMLElement>(".ai-page .news-card")];
+    const sections = [...document.querySelectorAll<HTMLElement>("[data-ai-level-section]")];
+    const allEmpty = document.querySelector<HTMLElement>("#ai-all-empty");
+    let company = "全部";
+
+    function refreshAI() {
+      let total = 0;
+      cards.forEach(card => {
+        card.hidden = company !== "全部" && card.dataset.company !== company;
+        if (!card.hidden) total++;
+      });
+      sections.forEach(section => {
+        const visible = [...section.querySelectorAll<HTMLElement>(".news-card")].filter(card => !card.hidden).length;
+        const empty = section.querySelector<HTMLElement>("[data-ai-group-empty]");
+        const count = section.querySelector<HTMLElement>("[data-ai-count]");
+        if (empty) empty.hidden = visible !== 0;
+        if (count) count.textContent = `${visible} 条`;
+      });
+      buttons.forEach(button => button.classList.toggle("active", button.dataset.aiCompany === company));
+      if (allEmpty) allEmpty.hidden = total !== 0;
+    }
+
+    buttons.forEach(button => button.addEventListener("click", () => {
+      company = button.dataset.aiCompany ?? "全部";
+      const url = new URL(location.href);
+      company === "全部" ? url.searchParams.delete("company") : url.searchParams.set("company", company);
+      history.replaceState({}, "", url);
+      refreshAI();
+    }));
+    const requested = new URLSearchParams(location.search).get("company");
+    if (requested && buttons.some(button => button.dataset.aiCompany === requested)) company = requested;
+    refreshAI();
+  </script>
+</BaseLayout>

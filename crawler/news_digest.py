@@ -20,6 +20,8 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+from ai_intelligence import collect_ai_intelligence, format_source_stats
+
 
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = BASE_DIR / "output"
@@ -513,8 +515,8 @@ def card(item: dict) -> str:
     title = html.escape(item.get("title", ""))
     url = html.escape(item.get("url", ""), quote=True)
     source = html.escape(item.get("source", ""))
-    description = html.escape(item.get("description", ""))
-    published = html.escape(format_time(item.get("published", "")))
+    description = html.escape(item.get("summary") or item.get("description", ""))
+    published = html.escape(format_time(item.get("published_at") or item.get("published", "")))
     return (
         '<article class="card">'
         f'<a class="title" href="{url}" target="_blank" rel="noopener noreferrer">{title}</a>'
@@ -526,6 +528,7 @@ def card(item: dict) -> str:
 
 def render(data: dict) -> str:
     labels = [
+        ("ai", "🤖 AI 情报"),
         ("bilibili", "📺 B站当前热门"),
         ("steam", "🎮 Steam 热销游戏新闻"),
         ("xiaoheihe", "🕹️ 小黑盒游戏新闻"),
@@ -562,6 +565,17 @@ def collect_optional(label: str, collector, errors: list[str]) -> list[dict]:
 
 def main() -> None:
     errors = []
+    try:
+        ai, ai_stats, ai_errors = collect_ai_intelligence()
+        errors.extend(f"AI {error}" for error in ai_errors)
+    except Exception as error:
+        ai = []
+        ai_stats = [{
+            "source": "AI 情报总流程", "fetched": 0, "added": 0,
+            "duplicates": 0, "filtered": 0,
+            "error": f"{type(error).__name__}: {error}",
+        }]
+        errors.append(f"AI 情报总流程: {type(error).__name__}: {error}")
     github = collect_optional("GitHub", github_hot, errors)
     bilibili = collect_optional("Bilibili", bilibili_popular, errors)
     nodeseek = collect_optional("NodeSeek", nodeseek_curated, errors)
@@ -581,6 +595,8 @@ def main() -> None:
 
     data = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
+        "ai": ai,
+        "ai_stats": ai_stats,
         "github": github,
         "games": games,
         "china": china,
@@ -596,9 +612,12 @@ def main() -> None:
 
     print(f"完成：{OUTPUT_JSON}")
     print(
-        f"B站 {len(bilibili)} | Steam {len(steam)} | 小黑盒 {len(xiaoheihe)} | 抖音 {len(douyin)} | "
+        f"AI情报 {len(ai)} | B站 {len(bilibili)} | Steam {len(steam)} | 小黑盒 {len(xiaoheihe)} | 抖音 {len(douyin)} | "
         f"NodeSeek精选 {len(nodeseek)} | GitHub {len(github)} | 游戏 {len(games)} | 国内 {len(china)}"
     )
+    print("AI 情报来源统计：")
+    for line in format_source_stats(ai_stats):
+        print(" -", line)
     if errors:
         print("部分来源发生错误：")
         for error in errors:

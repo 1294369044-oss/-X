@@ -1,0 +1,28 @@
+---
+import NewsCard from "./NewsCard.astro";
+import type { NewsItem } from "../data/news";
+
+interface Props {
+  items: NewsItem[];
+  updatedAt: string;
+}
+
+const { items, updatedAt } = Astro.props;
+---
+<section class="ai-home" aria-labelledby="ai-home-title">
+  <div class="section-block-heading">
+    <div>
+      <span class="section-kicker">AI INTELLIGENCE</span>
+      <h2 id="ai-home-title"><a href="/ai/">AI 情报</a></h2>
+      <p>区分官方、可靠报道与传闻；首页只展示今天重要度达到 40 的内容。更新时间：{updatedAt}</p>
+    </div>
+    <a class="section-more" href="/ai/">进入 AI 情报 →</a>
+  </div>
+  {items.length ? (
+    <div class="news-grid ai-home-grid">
+      {items.map(item => <NewsCard item={item} />)}
+    </div>
+  ) : (
+    <p class="empty-state ai-empty-state">今天暂时没有达到首页门槛的 AI 情报，不为凑数展示低价值内容。</p>
+  )}
+</section>

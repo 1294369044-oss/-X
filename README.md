@@ -2,6 +2,8 @@
 
 中文静态新闻聚合前端，使用 Astro 构建，兼容 Cloudflare Pages。
 
+AI 情报栏目位于 `/ai/`，复用现有 JSON、静态构建和发布流程，不需要数据库或 AI API。
+
 ## 本地运行
 
 ```cmd

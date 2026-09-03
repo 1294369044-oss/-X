@@ -4,13 +4,17 @@ import generatedNews from "../data/generated-news.json";
 function isNewsItem(value: unknown): value is NewsItem {
   if (!value || typeof value !== "object") return false;
   const item = value as Record<string, unknown>;
-  return ["slug", "title", "summary", "section", "category", "source", "sourceUrl", "publishedAt"].every(
+  const requiredFieldsValid = ["slug", "title", "summary", "section", "category", "source", "sourceUrl", "publishedAt"].every(
     key => typeof item[key] === "string"
   ) && Array.isArray(item.content) && item.content.every(p => typeof p === "string");
+  if (!requiredFieldsValid) return false;
+  if (item.sourceLevel !== undefined && !["official", "reliable", "rumor", "community"].includes(String(item.sourceLevel))) return false;
+  if (item.importance !== undefined && (typeof item.importance !== "number" || item.importance < 0 || item.importance > 100)) return false;
+  return true;
 }
 
-const localGenerated = Array.isArray(generatedNews.items)
-  ? generatedNews.items.filter(isNewsItem)
+const localGenerated: NewsItem[] = Array.isArray(generatedNews.items)
+  ? (generatedNews.items as unknown[]).filter(isNewsItem)
   : [];
 
 export const hasGeneratedNews = localGenerated.length > 0;

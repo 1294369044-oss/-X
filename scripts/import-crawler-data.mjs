@@ -39,6 +39,7 @@ function cleanText(value, fallback = "暂无摘要，请前往原始来源查看
 }
 
 const legacyClassification = {
+  ai: { section: "科技网络", category: "AI与科技" },
   china: { section: "时事要闻", category: "国内要闻" },
   games: { section: "游戏娱乐", category: "游戏新闻" },
   github: { section: "科技网络", category: "GitHub开源" },
@@ -60,20 +61,47 @@ const legacyNameClassification = {
   生活: { section: "时事要闻", category: "社会文化" },
 };
 
-function convert(items, fallbackClassification, requireRecent) {
+const sourceLevels = new Set(["official", "reliable", "rumor", "community"]);
+
+function optionalIntelligenceFields(item) {
+  if (!sourceLevels.has(item.source_level)) return {};
+  const importance = Math.max(0, Math.min(100, Number(item.importance) || 0));
+  const collected = new Date(item.collected_at);
+  const relatedSources = (Array.isArray(item.related_sources) ? item.related_sources : []).flatMap(related => {
+    const url = originalUrl(related.url);
+    const published = new Date(related.published_at);
+    if (!url || url.protocol !== "https:" || !related.title || !sourceLevels.has(related.source_level)) return [];
+    return [{
+      title: cleanText(related.title, "相关来源"),
+      source: cleanText(related.source, "未知来源"),
+      sourceLevel: related.source_level,
+      sourceUrl: url.href,
+      ...(Number.isFinite(published.getTime()) ? { publishedAt: published.toISOString() } : {}),
+    }];
+  });
+  return {
+    sourceLevel: item.source_level,
+    company: cleanText(item.company, "其他"),
+    importance: Math.round(importance),
+    ...(Number.isFinite(collected.getTime()) ? { collectedAt: collected.toISOString() } : {}),
+    ...(relatedSources.length ? { relatedSources } : {}),
+  };
+}
+
+function convert(items, fallbackClassification, requireRecent, forceClassification = false) {
   return (Array.isArray(items) ? items : []).flatMap(item => {
     const url = originalUrl(item.url);
-    const published = new Date(item.published);
+    const published = new Date(item.published_at ?? item.published);
     if (!url || url.protocol !== "https:" || !item.title) return [];
     if (url.pathname === "/" && !url.search) return [];
     if (!Number.isFinite(published.getTime())) return [];
     if (requireRecent && published.getTime() < recentCutoff) return [];
 
-    const section = item.section || fallbackClassification.section;
-    const category = item.category || fallbackClassification.category;
+    const section = forceClassification ? fallbackClassification.section : item.section || fallbackClassification.section;
+    const category = forceClassification ? fallbackClassification.category : item.category || fallbackClassification.category;
     if (!section || !category) return [];
 
-    const summary = cleanText(item.description);
+    const summary = cleanText(item.summary ?? item.description);
     return [{
       slug: `feed-${createHash("sha256").update(url.href).digest("hex").slice(0, 16)}`,
       title: cleanText(item.title, "未命名信息"),
@@ -84,6 +112,7 @@ function convert(items, fallbackClassification, requireRecent) {
       source: sourceName(url, item.source),
       sourceUrl: url.href,
       publishedAt: published.toISOString(),
+      ...optionalIntelligenceFields(item),
     }];
   });
 }
@@ -108,10 +137,18 @@ function migrateExistingItem(item) {
     source: cleanText(value.source, "未知来源"),
     sourceUrl: value.sourceUrl,
     publishedAt: published.toISOString(),
+    ...(sourceLevels.has(value.sourceLevel) ? {
+      sourceLevel: value.sourceLevel,
+      company: cleanText(value.company, "其他"),
+      importance: Math.max(0, Math.min(100, Math.round(Number(value.importance) || 0))),
+      ...(Number.isFinite(new Date(value.collectedAt).getTime()) ? { collectedAt: new Date(value.collectedAt).toISOString() } : {}),
+      ...(Array.isArray(value.relatedSources) && value.relatedSources.length ? { relatedSources: value.relatedSources } : {}),
+    } : {}),
     ...(value.featured ? { featured: true } : {}),
   };
 }
 
+const ai = convert(raw.ai, legacyClassification.ai, true, true);
 const china = convert(raw.china, legacyClassification.china, true);
 const games = convert(raw.games, legacyClassification.games, true);
 const steam = convert(raw.steam, legacyClassification.steam, true);
@@ -120,7 +157,7 @@ const nodeseek = convert(raw.nodeseek, legacyClassification.nodeseek, true);
 const xiaoheihe = convert(raw.xiaoheihe, legacyClassification.xiaoheihe, true);
 const douyin = convert(raw.douyin, legacyClassification.douyin, true);
 const github = convert(raw.github, legacyClassification.github, false);
-const freshItems = [...china, ...games, ...steam, ...bilibili, ...nodeseek, ...xiaoheihe, ...douyin, ...github]
+const freshItems = [...ai, ...china, ...games, ...steam, ...bilibili, ...nodeseek, ...xiaoheihe, ...douyin, ...github]
   .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
 
 let previousItems = [];
@@ -151,7 +188,7 @@ const generatedAtValue = previousGeneratedAt && stableItems(previousItems) === s
   : generatedAt.toISOString();
 await writeFile(outputPath, `${JSON.stringify({ generatedAt: generatedAtValue, items }, null, 2)}\n`, "utf8");
 console.log(
-  `已生成 ${items.length} 条：要闻 ${china.length}，游戏资讯 ${games.length}，` +
+  `已生成 ${items.length} 条：AI情报 ${ai.length}，要闻 ${china.length}，游戏资讯 ${games.length}，` +
   `Steam ${steam.length}，B站 ${bilibili.length}，小黑盒 ${xiaoheihe.length}，抖音 ${douyin.length}，` +
   `NodeSeek精选 ${nodeseek.length}，科技 ${github.length}`
 );

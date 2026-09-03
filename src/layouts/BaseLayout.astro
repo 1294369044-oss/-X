@@ -60,6 +60,7 @@ const today = new Intl.DateTimeFormat("zh-CN", {
               <summary><span>{section.name}</span><span class="nav-chevron" aria-hidden="true">⌄</span></summary>
               <div class="nav-menu">
                 <a class="nav-overview" href={`/section/${section.slug}/`}>栏目总览</a>
+                {section.slug === "tech" && <a href="/ai/">AI 情报</a>}
                 {section.categories.map(category => <a href={categoryPath(category.name)}>{category.name}</a>)}
               </div>
             </details>

@@ -1,5 +1,6 @@
 ---
 import type { NewsItem } from "../data/news";
+import { sourceLevelLabels } from "../lib/ai";
 interface Props { item: NewsItem; compact?: boolean; }
 const { item, compact = false } = Astro.props;
 const time = new Intl.DateTimeFormat("zh-CN", {
@@ -7,9 +8,15 @@ const time = new Intl.DateTimeFormat("zh-CN", {
   timeZone: "Asia/Shanghai", hour12: false,
 }).format(new Date(item.publishedAt));
 ---
-<article class:list={["news-card", { compact }]} data-section={item.section} data-category={item.category} data-search={`${item.title} ${item.summary} ${item.source} ${item.section} ${item.category}`}>
-  <div class="card-meta"><span title={item.section}>{item.category}</span><time datetime={item.publishedAt}>{time}</time></div>
+<article class:list={["news-card", { compact }]} data-section={item.section} data-category={item.category} data-company={item.company} data-source-level={item.sourceLevel} data-search={`${item.title} ${item.summary} ${item.source} ${item.section} ${item.category} ${item.company ?? ""}`}>
+  <div class="card-meta">
+    <div class="card-meta-primary">
+      <span title={item.section}>{item.category}</span>
+      {item.sourceLevel && <strong class:list={["trust-badge", `trust-${item.sourceLevel}`]}>【{sourceLevelLabels[item.sourceLevel]}】</strong>}
+    </div>
+    <time datetime={item.publishedAt}>{time}</time>
+  </div>
   <h3><a href={`/news/${item.slug}/`}>{item.title}</a></h3>
   {!compact && <p>{item.summary}</p>}
-  <div class="card-source">来源：{item.source}</div>
+  <div class="card-source">来源：{item.source}{typeof item.importance === "number" ? ` · 重要度 ${item.importance}` : ""}</div>
 </article>

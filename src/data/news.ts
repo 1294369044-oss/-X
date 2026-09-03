@@ -1,4 +1,6 @@
 export type NewsSection = "时事要闻" | "科技网络" | "游戏娱乐";
+export type SourceLevel = "official" | "reliable" | "rumor" | "community";
+export type AICompany = "OpenAI" | "Claude" | "Gemini" | "DeepSeek" | "Qwen" | "xAI";
 export type NewsCategory =
   | "国内要闻" | "国际动态" | "财经产业" | "社会文化" | "网络热榜"
   | "AI与科技" | "GitHub开源" | "VPS与网络" | "开发软件"
@@ -16,6 +18,17 @@ export interface NewsItem {
   publishedAt: string;
   image?: string;
   featured?: boolean;
+  sourceLevel?: SourceLevel;
+  company?: AICompany;
+  importance?: number;
+  collectedAt?: string;
+  relatedSources?: Array<{
+    title: string;
+    source: string;
+    sourceLevel: SourceLevel;
+    sourceUrl: string;
+    publishedAt?: string;
+  }>;
 }
 
 export const demoNews: NewsItem[] = [

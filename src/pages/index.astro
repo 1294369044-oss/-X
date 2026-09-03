@@ -1,11 +1,14 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import AIHomeSection from "../components/AIHomeSection.astro";
 import SectionBlock from "../components/SectionBlock.astro";
 import { generatedAt, getNews, hasGeneratedNews } from "../lib/news";
+import { homepageAIIntelligence } from "../lib/ai";
 import { sectionDefinitions, legacyCategoryMap } from "../lib/taxonomy";
 
 const news = await getNews();
 const featured = news.find(item => item.featured) ?? news[0];
+const homepageAI = homepageAIIntelligence(news, generatedAt);
 const updatedAt = generatedAt
   ? new Intl.DateTimeFormat("zh-CN", {
       month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit",
@@ -33,6 +36,8 @@ const updatedAt = generatedAt
         </aside>
       </section>
     )}
+
+    <AIHomeSection items={homepageAI} updatedAt={updatedAt} />
 
     <section class="section-overview" aria-label="三大主栏目">
       {sectionDefinitions.map(definition => <SectionBlock definition={definition} items={news} />)}

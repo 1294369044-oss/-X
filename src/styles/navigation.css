@@ -26,6 +26,21 @@
 .all-news-callout{display:flex;align-items:center;justify-content:space-between;gap:24px;margin-top:62px;padding:28px 30px;background:#e8e2d7}
 .all-news-callout h2{font:700 30px var(--serif);margin:8px 0}
 .all-news-callout p{margin:0;color:var(--muted);font-size:14px}
+.ai-home{border-top:3px solid var(--navy);margin-top:54px;padding-top:26px}
+.ai-home .section-block-heading h2{font:700 clamp(32px,4vw,48px)/1.15 var(--serif);margin:8px 0 6px}
+.ai-home-grid{border-top-color:var(--navy)}
+.ai-empty-state{border:1px dashed var(--line);padding:36px}
+.ai-heading{max-width:850px}
+.ai-company-filters{display:flex;flex-wrap:wrap;gap:8px;padding:18px 0;border-top:1px solid var(--ink);border-bottom:1px solid var(--line)}
+.ai-company-filters button{border:1px solid var(--line);background:transparent;padding:9px 15px;cursor:pointer;white-space:nowrap}
+.ai-company-filters button:hover,.ai-company-filters button.active{border-color:var(--ink);background:var(--ink);color:#fff}
+.trust-legend{display:flex;flex-wrap:wrap;gap:8px;padding:18px 0;color:var(--muted)}
+.ai-level-section{margin-top:46px}
+.ai-level-heading{border-bottom:1px solid var(--ink);padding-bottom:14px;margin-bottom:0}
+.ai-level-heading h2{font:700 clamp(27px,4vw,38px)/1.2 var(--serif);margin:10px 0 0}
+.ai-count{color:var(--muted);font-size:13px}
+.ai-level-grid{border-top:0}
+.ai-group-empty{border:1px dashed var(--line);padding:32px}
 .listing-page{padding:54px 0 90px}
 .listing-heading{max-width:760px;margin-bottom:30px}
 .listing-heading h1{font:700 clamp(40px,6vw,70px)/1.2 var(--serif);margin:14px 0}
