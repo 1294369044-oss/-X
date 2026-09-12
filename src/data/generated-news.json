@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-11T12:00:18.130Z",
+  "generatedAt": "2026-09-12T02:00:19.234Z",
   "items": [
+    {
+      "slug": "feed-15a75aa3a700a519",
+      "title": "9.12｜Switch好价卡带",
+      "summary": "我是笼中雀sama，关注我，让你的钱包不再受伤！————💾实时新增————1.鬼武者｜🔑🇯🇵2312.火焰纹章万紫千红｜🇯🇵3433.节奏天国｜🇯🇵1384.健身环大冒险｜🇭🇰2535.任天堂全明星大乱斗｜🇭🇰1736.咚奇刚蕉力全开｜🇺🇳2457.星之卡",
+      "content": [
+        "我是笼中雀sama，关注我，让你的钱包不再受伤！————💾实时新增————1.鬼武者｜🔑🇯🇵2312.火焰纹章万紫千红｜🇯🇵3433.节奏天国｜🇯🇵1384.健身环大冒险｜🇭🇰2535.任天堂全明星大乱斗｜🇭🇰1736.咚奇刚蕉力全开｜🇺🇳2457.星之卡"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190471222",
+      "publishedAt": "2026-09-12T02:00:12.000Z"
+    },
     {
       "slug": "feed-bb1ef77a6448df9a",
       "title": "9.11｜Switch好价卡带",
@@ -12,7 +25,470 @@
       "category": "游戏平台",
       "source": "小黑盒",
       "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190393513",
-      "publishedAt": "2026-09-11T12:00:13.000Z"
+      "publishedAt": "2026-09-12T01:59:44.000Z"
+    },
+    {
+      "slug": "feed-c7cc34a377e899fd",
+      "title": "你们天天让 ai 画鹈鹕骑自行车，它怎么不专门优化这一点",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 打开原帖查看完整内容。",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 打开原帖查看完整内容。"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-924682-1",
+      "publishedAt": "2026-09-12T01:59:12.000Z"
+    },
+    {
+      "slug": "feed-f799b68b67a83691",
+      "title": "腾讯云被爆破了，能去找客服要补偿吗？",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 啥也没干，莫名其妙就被爆破了，ai给我准备了这五个问题00:37:35密码破解告警称尝试276次，但“未阻断-来源IP命中智能过白（威胁情报白名单），为降低误拦本次未阻断”。请核查：1.白名单是否误判、适用范围和未阻断原因；如误判请纠正威胁情报。2.关联上述告警，说明实际阻断/隔离情况及策略或版本限制。3.核查该来",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 啥也没干，莫名其妙就被爆破了，ai给我准备了这五个问题00:37:35密码破解告警称尝试276次，但“未阻断-来源IP命中智能过白（威胁情报白名单），为降低误拦本次未阻断”。请核查：1.白名单是否误判、适用范围和未阻断原因；如误判请纠正威胁情报。2.关联上述告警，说明实际阻断/隔离情况及策略或版本限制。3.核查该来"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-924680-1",
+      "publishedAt": "2026-09-12T01:55:57.000Z"
+    },
+    {
+      "slug": "feed-607ee2b72af66775",
+      "title": "[NQ]OnetechCloud LA 9929 1C1G",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 💻基本信息🎬IP质量🌐网络质量📍回程路由NodeQuality链接",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 💻基本信息🎬IP质量🌐网络质量📍回程路由NodeQuality链接"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-924679-1",
+      "publishedAt": "2026-09-12T01:55:42.000Z"
+    },
+    {
+      "slug": "feed-1311ad276cd98bfc",
+      "title": "一分钟高潮告诉你鬼武者必买",
+      "summary": "小黑盒游戏新闻，请打开原文查看完整内容。",
+      "content": [
+        "小黑盒游戏新闻，请打开原文查看完整内容。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190454379",
+      "publishedAt": "2026-09-12T01:55:31.000Z"
+    },
+    {
+      "slug": "feed-93727f3d50552260",
+      "title": "[一个空位]ChatGPT team business拼车 85元/月",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 📌【使用规则】本车位仅限个人正常使用。严禁破限、逆向、接口/API转售、sub2api、cpa等反代行为、批量异常调用、共享滥用，以及其他可能触发平台风控或影响Team安全的高风险行为。⚠️严禁私自拉人进team,发现立马踢，不退款🤝一经发现存在上述违规或异常使用情况，将立即强制下车，且不予退款。请各位车友互相",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 📌【使用规则】本车位仅限个人正常使用。严禁破限、逆向、接口/API转售、sub2api、cpa等反代行为、批量异常调用、共享滥用，以及其他可能触发平台风控或影响Team安全的高风险行为。⚠️严禁私自拉人进team,发现立马踢，不退款🤝一经发现存在上述违规或异常使用情况，将立即强制下车，且不予退款。请各位车友互相"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-924676-1",
+      "publishedAt": "2026-09-12T01:53:54.000Z"
+    },
+    {
+      "slug": "feed-537b46652d1cb222",
+      "title": "如果DD一台日本或者新加坡的VPS，是不是封禁概率就基本没有了？",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 在这台DD的系统上面跑claude和codex",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 在这台DD的系统上面跑claude和codex"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-924675-1",
+      "publishedAt": "2026-09-12T01:53:04.000Z"
+    },
+    {
+      "slug": "feed-baf5a06cfac98a55",
+      "title": "如何选择外币卡",
+      "summary": "本教程只展示我使用过的外币卡且仅适用于日亚买点卡或者任天堂eshop消费使用一、选择借记卡还是信用卡外币卡visa或者万事达实际上使用起来差别不是很大，但是不同类型的卡办理难度不同，如果你还是学生信用卡基本办不下来，这时候就推荐办理借记卡，如果你有工作就优",
+      "content": [
+        "本教程只展示我使用过的外币卡且仅适用于日亚买点卡或者任天堂eshop消费使用一、选择借记卡还是信用卡外币卡visa或者万事达实际上使用起来差别不是很大，但是不同类型的卡办理难度不同，如果你还是学生信用卡基本办不下来，这时候就推荐办理借记卡，如果你有工作就优"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190429726",
+      "publishedAt": "2026-09-12T01:50:00.000Z"
+    },
+    {
+      "slug": "feed-8cbd9cf671d3f640",
+      "title": "给女儿买 iPhone17 256G 继承她的 16promax512",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 唯一不爽的是她电池健康就88了，吃点亏就吃点亏吧",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 唯一不爽的是她电池健康就88了，吃点亏就吃点亏吧"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-924667-1",
+      "publishedAt": "2026-09-12T01:46:57.000Z"
+    },
+    {
+      "slug": "feed-065230a0b241dcd0",
+      "title": "[咨询] 有没有这样的拼车",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 有这样的车么？就是卖家线路机上提供一个nginx端口转发，提供多少G流量买家选，转发到哪有地方可以配，目的是让买家利用线路机去访问自己的服务器，有这种车的话是要怎么找？",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 有这样的车么？就是卖家线路机上提供一个nginx端口转发，提供多少G流量买家选，转发到哪有地方可以配，目的是让买家利用线路机去访问自己的服务器，有这种车的话是要怎么找？"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-924666-1",
+      "publishedAt": "2026-09-12T01:44:44.000Z"
+    },
+    {
+      "slug": "feed-9303bd228b1a0055",
+      "title": "GPT 现在是不是都不降智了？",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 我试了以前会降智的ip全部不降智了，甲骨文搬瓦工之类的全部不降智",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 我试了以前会降智的ip全部不降智了，甲骨文搬瓦工之类的全部不降智"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-924664-1",
+      "publishedAt": "2026-09-12T01:41:42.000Z"
+    },
+    {
+      "slug": "feed-c8a5b885e6d9126c",
+      "title": "PUBG EMEA Championship: Playoffs 1 Day 2 is LIVE!!",
+      "summary": "The PUBG EMEA Championship: Fall Playoffs are about to kick off tonight at 18:00 CEST! Over the course of three match days this weekend, we will whittle down 29 teams into 16 finalists! Who will make the cut? The PEC: Fall Playoffs have a unique qualification format. On Day 1, the top 8 teams in the 16-team lobby will qualify straight to the Finals. Teams who miss out will have a second chance on Day 2 with an easier lobby - but there will only be 5 qualification spots up for grabs. Finally, on ...",
+      "content": [
+        "The PUBG EMEA Championship: Fall Playoffs are about to kick off tonight at 18:00 CEST! Over the course of three match days this weekend, we will whittle down 29 teams into 16 finalists! Who will make the cut? The PEC: Fall Playoffs have a unique qualification format. On Day 1, the top 8 teams in the 16-team lobby will qualify straight to the Finals. Teams who miss out will have a second chance on Day 2 with an easier lobby - but there will only be 5 qualification spots up for grabs. Finally, on ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "Steam",
+      "source": "Steam 全球热销榜第 2 名 · Community Announcements",
+      "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262696801",
+      "publishedAt": "2026-09-12T01:39:15.000Z"
+    },
+    {
+      "slug": "feed-bebc7620646e036b",
+      "title": "【9.12】周末特惠来袭，百款佳作游戏史低！多款3A骨折价",
+      "summary": "大家好，我是慕屿辰！周末Steam又迎来了一波相当不错的折扣，不少大家熟悉的3A大作都直接来到了值得入手的价格。《识质存在》《寂静岭》系列等多款热门作品都有优惠，同时近期上线的一些新作表现也相当不错这次我又给大家集中整理了200+款Steam史低游戏清单，",
+      "content": [
+        "大家好，我是慕屿辰！周末Steam又迎来了一波相当不错的折扣，不少大家熟悉的3A大作都直接来到了值得入手的价格。《识质存在》《寂静岭》系列等多款热门作品都有优惠，同时近期上线的一些新作表现也相当不错这次我又给大家集中整理了200+款Steam史低游戏清单，"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190470252",
+      "publishedAt": "2026-09-12T01:28:05.000Z"
+    },
+    {
+      "slug": "feed-ddc2f6c388bf90f4",
+      "title": "steam近80+免费精品游戏大合集",
+      "summary": "8分以下的免费游戏基本不咋样，但是8分以上的还是有很多精品的。给大家找了一些8分以上的游戏，按照评分高低排序。感兴趣可以看一下",
+      "content": [
+        "8分以下的免费游戏基本不咋样，但是8分以上的还是有很多精品的。给大家找了一些8分以上的游戏，按照评分高低排序。感兴趣可以看一下"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190412025",
+      "publishedAt": "2026-09-12T00:54:03.000Z"
+    },
+    {
+      "slug": "feed-51ae77aae1638f19",
+      "title": "当你说什么就会「变成什么生物」？？！",
+      "summary": "模组：言出法随 难得找到一个比较有意思的生存题材！ 希望大家看的开心！",
+      "content": [
+        "模组：言出法随 难得找到一个比较有意思的生存题材！ 希望大家看的开心！"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 大炒面制造者Cen · 73,697 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1RiYx6JEEh",
+      "publishedAt": "2026-09-12T00:00:00.000Z"
+    },
+    {
+      "slug": "feed-365ae01c5e01bb22",
+      "title": "大量蟑螂出没！一夜之间房子被「双马尾吕布」占领！？！",
+      "summary": "三连总和过8w火速更新！！！！！ 夏天yB站交流群:1035044923 题材来源：BV1Drjr6VEjn",
+      "content": [
+        "三连总和过8w火速更新！！！！！ 夏天yB站交流群:1035044923 题材来源：BV1Drjr6VEjn"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 夏天y · 54,640 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1EaYU6HEuq",
+      "publishedAt": "2026-09-12T00:00:00.000Z"
+    },
+    {
+      "slug": "feed-2084a3d93fa9f28f",
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "content": [
+        "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "publishedAt": "2026-09-11T20:57:36.000Z",
+      "sourceLevel": "reliable",
+      "company": "OpenAI",
+      "importance": 48,
+      "collectedAt": "2026-09-12T02:00:08.954Z"
+    },
+    {
+      "slug": "feed-e37971180b75cd84",
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently. On […]",
+      "content": [
+        "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently. On […]"
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "publishedAt": "2026-09-11T18:41:49.000Z",
+      "sourceLevel": "reliable",
+      "company": "Claude",
+      "importance": 48,
+      "collectedAt": "2026-09-12T02:00:08.954Z"
+    },
+    {
+      "slug": "feed-a85d8c74c592725e",
+      "title": "中国网球大捷，2-0女双夺冠，2-1：孙心然剑指美网青少年女单冠军",
+      "summary": "北京时间9月12日消息，2026年美国美国网球公开赛出来好消息。轮椅女双决赛中，中国选手朱珍珍搭档上地结衣，以6-1/6-2战胜郭珞瑶/大谷桃子，夺得冠军。另外，在少年女单半决赛中，中国小将、头号种子孙心然以7-5/0-6/6-1战胜克拉克晋级决赛，距离冠军一步之遥。",
+      "content": [
+        "北京时间9月12日消息，2026年美国美国网球公开赛出来好消息。轮椅女双决赛中，中国选手朱珍珍搭档上地结衣，以6-1/6-2战胜郭珞瑶/大谷桃子，夺得冠军。另外，在少年女单半决赛中，中国小将、头号种子孙心然以7-5/0-6/6-1战胜克拉克晋级决赛，距离冠军一步之遥。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "msn.cn",
+      "sourceUrl": "https://www.msn.cn/zh-cn/news/other/%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%90%83%E5%A4%A7%E6%8D%B7-2-0%E5%A5%B3%E5%8F%8C%E5%A4%BA%E5%86%A0-2-1-%E5%AD%99%E5%BF%83%E7%84%B6%E5%89%91%E6%8C%87%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B/ar-AA2c3Cda",
+      "publishedAt": "2026-09-11T17:58:01.000Z",
+      "featured": true
+    },
+    {
+      "slug": "feed-d5985a70a6e1d7c0",
+      "title": "王国之心4确认由最终幻想7重制团队开发",
+      "summary": "IT时代网9月12日消息，据外媒报道，Square Enix游戏总监滨口直树在采访中确认，旗下Creative Studio 1工作室正在开发《王国之心4》，该工作室同时还在开发《最终幻想7启示录》，两款游戏均计划于2027年推出。 Creative Studio ...",
+      "content": [
+        "IT时代网9月12日消息，据外媒报道，Square Enix游戏总监滨口直树在采访中确认，旗下Creative Studio 1工作室正在开发《王国之心4》，该工作室同时还在开发《最终幻想7启示录》，两款游戏均计划于2027年推出。 Creative Studio ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "msn.cn",
+      "sourceUrl": "https://www.msn.cn/zh-cn/news/other/%E7%8E%8B%E5%9B%BD%E4%B9%8B%E5%BF%834%E7%A1%AE%E8%AE%A4%E7%94%B1%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B37%E9%87%8D%E5%88%B6%E5%9B%A2%E9%98%9F%E5%BC%80%E5%8F%91/ar-AA2c30tr",
+      "publishedAt": "2026-09-11T17:26:30.000Z"
+    },
+    {
+      "slug": "feed-16254e08498fa01c",
+      "title": "中国、米CIAを「山賊の論理」と非難 副長官の経済スパイ活動発言受け",
+      "summary": "【AFP＝時事】中国政府は11日、米中央情報局のマイケル・エリス副長官が米諜報（ちょうほう）機関が中国に対するスパイ活動を行っていると示唆したことについて、「山賊の論理（強者が法や倫理を無視し暴力や優位な立場を背景に理不尽な要求を正当化する論理）」だと強く非難した。",
+      "content": [
+        "【AFP＝時事】中国政府は11日、米中央情報局のマイケル・エリス副長官が米諜報（ちょうほう）機関が中国に対するスパイ活動を行っていると示唆したことについて、「山賊の論理（強者が法や倫理を無視し暴力や優位な立場を背景に理不尽な要求を正当化する論理）」だと強く非難した。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "msn.com",
+      "sourceUrl": "https://www.msn.com/ja-jp/%E5%85%A8%E8%88%AC/%E5%85%A8%E8%88%AC/%E4%B8%AD%E5%9B%BD-%E7%B1%B3cia%E3%82%92-%E5%B1%B1%E8%B3%8A%E3%81%AE%E8%AB%96%E7%90%86-%E3%81%A8%E9%9D%9E%E9%9B%A3-%E5%89%AF%E9%95%B7%E5%AE%98%E3%81%AE%E7%B5%8C%E6%B8%88%E3%82%B9%E3%83%91%E3%82%A4%E6%B4%BB%E5%8B%95%E7%99%BA%E8%A8%80%E5%8F%97%E3%81%91/ar-AA2c3C0y",
+      "publishedAt": "2026-09-11T17:19:00.000Z"
+    },
+    {
+      "slug": "feed-633948cb5ada7fee",
+      "title": "中国代表团参加粮农组织渔业委员会第37届会议",
+      "summary": "新华社罗马9月11日电 联合国粮食及农业组织（粮农组织）渔业委员会第37届会议9月7日至11日在意大利首都罗马召开，中国代表团参加此次会议。 9月8日，在意大利首都罗马，与会嘉宾参加“推动水产养殖创新，共促绿色可持续发展”边会。新华社记者 李京 摄 ...",
+      "content": [
+        "新华社罗马9月11日电 联合国粮食及农业组织（粮农组织）渔业委员会第37届会议9月7日至11日在意大利首都罗马召开，中国代表团参加此次会议。 9月8日，在意大利首都罗马，与会嘉宾参加“推动水产养殖创新，共促绿色可持续发展”边会。新华社记者 李京 摄 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.cn",
+      "sourceUrl": "https://www.news.cn/world/20260912/0d9cacd23e194f4ab70f71a7396fbc9a/c.html",
+      "publishedAt": "2026-09-11T16:59:00.000Z"
+    },
+    {
+      "slug": "feed-06f4f02e84b7545b",
+      "title": "Kimiに聞いたつもりが、答えていたのはClaudeだった――Anthropicが暴い ...",
+      "summary": "約30万件。 中国Moonshot AIのチャットボット「Kimi」が、5,380個の偽アカウントを経由してClaudeに転送していたリクエストの件数です。 Anthropicが9月10日に公開した脅威レポートで、この手 […] ...",
+      "content": [
+        "約30万件。 中国Moonshot AIのチャットボット「Kimi」が、5,380個の偽アカウントを経由してClaudeに転送していたリクエストの件数です。 Anthropicが9月10日に公開した脅威レポートで、この手 […] ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "hashout.jp",
+      "sourceUrl": "https://hashout.jp/ai/10508/",
+      "publishedAt": "2026-09-11T16:59:00.000Z"
+    },
+    {
+      "slug": "feed-006d658d7f3a97ec",
+      "title": "正告美方立即停止对中国包括中国企业的间谍活动",
+      "summary": "新华社北京9月11日电 商务部新闻发言人11日就美国中情局高官公开表示对中国开展间谍活动答记者问时表示，中方正告美方，立即停止对中国包括中国企业的间谍活动，停止一切损害中国主权、安全和发展利益的行为。中方有坚定的意志、丰富的手段，将依据《中华人民共和国反间谍法》等法律法规，坚决采取必要措施，依法严惩违法犯罪行为，坚定维护中国企业正当合法权益。",
+      "content": [
+        "新华社北京9月11日电 商务部新闻发言人11日就美国中情局高官公开表示对中国开展间谍活动答记者问时表示，中方正告美方，立即停止对中国包括中国企业的间谍活动，停止一切损害中国主权、安全和发展利益的行为。中方有坚定的意志、丰富的手段，将依据《中华人民共和国反间谍法》等法律法规，坚决采取必要措施，依法严惩违法犯罪行为，坚定维护中国企业正当合法权益。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "paper.people.com.cn",
+      "sourceUrl": "https://paper.people.com.cn/rmrbhwb/pc/content/202609/12/content_30180646.html",
+      "publishedAt": "2026-09-11T16:59:00.000Z"
+    },
+    {
+      "slug": "feed-f5ea742cf30e7a1b",
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. […]",
+      "content": [
+        "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. […]"
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "publishedAt": "2026-09-11T16:55:17.000Z",
+      "sourceLevel": "reliable",
+      "company": "Claude",
+      "importance": 98,
+      "collectedAt": "2026-09-12T02:00:08.954Z"
+    },
+    {
+      "slug": "feed-90014e4361a7b22f",
+      "title": "这几封跨洋书信，推动新中国通信学科迎来关键转向 | 张煦",
+      "summary": "中国科学家博物馆珍藏着数封20世纪50年代的书信，记录着通信工程专家张煦与苏联专家易果日夫的学术往来。它们真实留存了我国通信学科体系奠基的关键历程，也见证了张煦立足我国国情，探索勘定中国通信事业发展路径的远见与担当。 张煦致苏联专家易果日夫关于长途通信和电话电报专业交流的回复信 来源|中国科学家博物馆 ...",
+      "content": [
+        "中国科学家博物馆珍藏着数封20世纪50年代的书信，记录着通信工程专家张煦与苏联专家易果日夫的学术往来。它们真实留存了我国通信学科体系奠基的关键历程，也见证了张煦立足我国国情，探索勘定中国通信事业发展路径的远见与担当。 张煦致苏联专家易果日夫关于长途通信和电话电报专业交流的回复信 来源|中国科学家博物馆 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "msn.cn",
+      "sourceUrl": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E9%80%9A%E7%94%A8/%E8%BF%99%E5%87%A0%E5%B0%81%E8%B7%A8%E6%B4%8B%E4%B9%A6%E4%BF%A1-%E6%8E%A8%E5%8A%A8%E6%96%B0%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1%E5%AD%A6%E7%A7%91%E8%BF%8E%E6%9D%A5%E5%85%B3%E9%94%AE%E8%BD%AC%E5%90%91-%E5%BC%A0%E7%85%A6/ar-AA2c3J6R",
+      "publishedAt": "2026-09-11T16:47:18.000Z"
+    },
+    {
+      "slug": "feed-e9c45b99efa5a169",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "content": [
+        "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "publishedAt": "2026-09-11T16:46:25.000Z",
+      "sourceLevel": "reliable",
+      "company": "OpenAI",
+      "importance": 48,
+      "collectedAt": "2026-09-12T02:00:08.954Z"
+    },
+    {
+      "slug": "feed-bc4addd85a8396b1",
+      "title": "[篮球公园]20260911 中国男篮开启亚运征程",
+      "summary": "北京时间2026年9月11日《篮球公园》为您带来：亚运会中国男篮首战大胜哈萨克斯坦；中国女篮收获历练，坚定前行；中国初中篮球联赛全国总决赛落幕。",
+      "content": [
+        "北京时间2026年9月11日《篮球公园》为您带来：亚运会中国男篮首战大胜哈萨克斯坦；中国女篮收获历练，坚定前行；中国初中篮球联赛全国总决赛落幕。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "tv.cctv.com",
+      "sourceUrl": "https://tv.cctv.com/2026/09/11/VIDEdUeBUGMqsZjB6ao9QNvg260911.shtml",
+      "publishedAt": "2026-09-11T16:30:00.000Z"
+    },
+    {
+      "slug": "feed-a318136c8714dea6",
+      "title": "中国・長江存儲、NAND出荷量で世界3位に浮上 キオクシア逆転も売上 ...",
+      "summary": "調査会社Counterpoint Researchによると、価格上昇を受け、2026年4〜6月期の世界NANDフラッシュ市場の売上高は前期比70％増を記録した。1〜3月期も前四半期比90％増と高い伸びを示していた。",
+      "content": [
+        "調査会社Counterpoint Researchによると、価格上昇を受け、2026年4〜6月期の世界NANDフラッシュ市場の売上高は前期比70％増を記録した。1〜3月期も前四半期比90％増と高い伸びを示していた。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "36kr.jp",
+      "sourceUrl": "https://36kr.jp/501417/",
+      "publishedAt": "2026-09-11T16:30:00.000Z"
+    },
+    {
+      "slug": "feed-5ff73cadf477b4a6",
+      "title": "【时事纵横】专访吴嘉隆 倾销2.0来袭 台海若战争 影响超二战！",
+      "summary": "中国科技品倾销暴增！会晤前川普给习下马威！习式清洗，与斯大林有何异同？美驻台代表重磅言论：台海若爆发战争，影响将超二战！ 观众朋友好，欢迎来到《金石纵谈》。今天很高兴再次邀请资深政论家、宏观经济学家吴嘉隆先生来作客，吴嘉隆先生您好。",
+      "content": [
+        "中国科技品倾销暴增！会晤前川普给习下马威！习式清洗，与斯大林有何异同？美驻台代表重磅言论：台海若爆发战争，影响将超二战！ 观众朋友好，欢迎来到《金石纵谈》。今天很高兴再次邀请资深政论家、宏观经济学家吴嘉隆先生来作客，吴嘉隆先生您好。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "ntdtv.com",
+      "sourceUrl": "https://www.ntdtv.com/gb/2026/09/11/a104132133.html",
+      "publishedAt": "2026-09-11T16:14:00.000Z"
+    },
+    {
+      "slug": "feed-e96cd51f38bcf5e3",
+      "title": "How to build a Wardogs mortar",
+      "summary": "Racking up kills doesn't have to mean being a crack shot with a rifle; building a Wardogs mortar can cause absolute chaos from afar. Read the full story on PCGamesN: How to build a Wardogs mortar",
+      "content": [
+        "Racking up kills doesn't have to mean being a crack shot with a rifle; building a Wardogs mortar can cause absolute chaos from afar. Read the full story on PCGamesN: How to build a Wardogs mortar"
+      ],
+      "section": "游戏娱乐",
+      "category": "Steam",
+      "source": "Steam 全球热销榜第 1 名 · PCGamesN",
+      "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1843481262695823",
+      "publishedAt": "2026-09-11T16:09:17.000Z"
+    },
+    {
+      "slug": "feed-4aeb82da9975e2f5",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "content": [
+        "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "OpenAI 官方博客",
+      "sourceUrl": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "publishedAt": "2026-09-11T16:00:00.000Z",
+      "sourceLevel": "official",
+      "company": "OpenAI",
+      "importance": 60,
+      "collectedAt": "2026-09-12T02:00:08.954Z"
+    },
+    {
+      "slug": "feed-d553caff5e47c4bb",
+      "title": "经济观察丨中国方案赋能全球矿业绿色转型",
+      "summary": "中国矿业的绿色发展理念还在延伸。依托“全球岩溶动力系统资源环境效应”国际大科学计划，中国与多个国家开展岩溶区资源环境调查、碳循环和生态保护研究，逐步构建全球岩溶监测网络，探索资源开发与生态保护协调发展的路径，为岩溶区资源开发、生态保护和资源可持续利用提供参考。",
+      "content": [
+        "中国矿业的绿色发展理念还在延伸。依托“全球岩溶动力系统资源环境效应”国际大科学计划，中国与多个国家开展岩溶区资源环境调查、碳循环和生态保护研究，逐步构建全球岩溶监测网络，探索资源开发与生态保护协调发展的路径，为岩溶区资源开发、生态保护和资源可持续利用提供参考。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.cn",
+      "sourceUrl": "https://www.news.cn/fortune/20260911/5b191e675ddd446f861623abd6714386/c.html",
+      "publishedAt": "2026-09-11T15:06:00.000Z"
+    },
+    {
+      "slug": "feed-753a335d73d49a6d",
+      "title": "【9.11】20元买不了iPhone 18，但能买这150+款优质游戏！",
+      "summary": "① 折后价 ≤ ¥20② 已剔除原声带/DLC/捆绑包③ 质量过滤 = Steam 好评率 ≥80% 且评价数 ≥300评分为 Steam 玩家好评率 + OpenCritic 媒体均分 + Metacritic 均分",
+      "content": [
+        "① 折后价 ≤ ¥20② 已剔除原声带/DLC/捆绑包③ 质量过滤 = Steam 好评率 ≥80% 且评价数 ≥300评分为 Steam 玩家好评率 + OpenCritic 媒体均分 + Metacritic 均分"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190438750",
+      "publishedAt": "2026-09-11T14:55:54.000Z"
+    },
+    {
+      "slug": "feed-c2c717f643a54222",
+      "title": "中国古代饮食文化展亮相巴黎",
+      "summary": "新华社巴黎9月11日电（记者张百慧 孙毅）由法国巴黎中国文化中心与中国国家博物馆联合举办的“宴飨万年——数说中国古代饮食文化”展览10日在巴黎中国文化中心开幕。",
+      "content": [
+        "新华社巴黎9月11日电（记者张百慧 孙毅）由法国巴黎中国文化中心与中国国家博物馆联合举办的“宴飨万年——数说中国古代饮食文化”展览10日在巴黎中国文化中心开幕。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.cn",
+      "sourceUrl": "https://www.news.cn/world/20260911/64cff3e4bf4c40588f504b6dda128aad/c.html",
+      "publishedAt": "2026-09-11T14:39:00.000Z"
     },
     {
       "slug": "feed-1d1bbcee9e06d30e",
@@ -65,19 +541,6 @@
       "source": "NodeSeek精选",
       "sourceUrl": "https://www.nodeseek.com/post-924057-1",
       "publishedAt": "2026-09-11T11:55:10.000Z"
-    },
-    {
-      "slug": "feed-ddc2f6c388bf90f4",
-      "title": "steam近80+免费精品游戏大合集",
-      "summary": "8分以下的免费游戏基本不咋样，但是8分以上的还是有很多精品的。给大家找了一些8分以上的游戏，按照评分高低排序。感兴趣可以看一下",
-      "content": [
-        "8分以下的免费游戏基本不咋样，但是8分以上的还是有很多精品的。给大家找了一些8分以上的游戏，按照评分高低排序。感兴趣可以看一下"
-      ],
-      "section": "游戏娱乐",
-      "category": "游戏平台",
-      "source": "小黑盒",
-      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190412025",
-      "publishedAt": "2026-09-11T11:53:08.000Z"
     },
     {
       "slug": "feed-e3a97731ed826369",
@@ -197,6 +660,114 @@
       "publishedAt": "2026-09-11T11:15:42.000Z"
     },
     {
+      "slug": "feed-8f25e0b09e1db4cd",
+      "title": "校长来啦",
+      "summary": "暂无摘要，请前往原始来源查看完整内容。",
+      "content": [
+        "暂无摘要，请前往原始来源查看完整内容。"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 脱缰凯Kk · 1,313,412 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1odY76aEio",
+      "publishedAt": "2026-09-11T11:05:58.000Z"
+    },
+    {
+      "slug": "feed-a5cb61a2a403365d",
+      "title": "滨口直树确认《王国之心4》由FF7重制工作室开发",
+      "summary": "IT之家 9 月 12 日消息，据 Deadline 昨日发布的采访，Square Enix 游戏总监滨口直树确认，其中 Creative Studio 1 工作室正在开发《王国之心 4》。该工作室同时还在开发《最终幻想 7 启示录》。两款游戏均计划 2027 年推出。 Creative Studio 1 是 Square Enix 旗下开发工作室，曾负责《最终幻想 7 重制版》与《最终幻想 7 ...",
+      "content": [
+        "IT之家 9 月 12 日消息，据 Deadline 昨日发布的采访，Square Enix 游戏总监滨口直树确认，其中 Creative Studio 1 工作室正在开发《王国之心 4》。该工作室同时还在开发《最终幻想 7 启示录》。两款游戏均计划 2027 年推出。 Creative Studio 1 是 Square Enix 旗下开发工作室，曾负责《最终幻想 7 重制版》与《最终幻想 7 ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "tech.ifeng.com",
+      "sourceUrl": "https://tech.ifeng.com/c/8wLr3tYo5Hx",
+      "publishedAt": "2026-09-11T10:26:00.000Z"
+    },
+    {
+      "slug": "feed-670fc9ce8c4927da",
+      "title": "要打针还是亲亲？",
+      "summary": "空：生病亲了会传染 芙：我不怕 空：你要是生病了我还得照顾你 芙：好吧~那就让你马上好然后想亲多久亲多久~ 亲亲还是打针？空一开始因为害怕打针所以选择了亲亲，但很快，对芙芙的关心还是战胜了对打针的恐惧，于是他最终还是选择了打针。 不过最后芙宁娜看着空很疼还是亲上去缓解疼痛了 —————————— 前段时间一直在忙其他项目的制作，所以这个视频拖了比预想中更久，真的很抱歉让大家久等了！也请期待一下20号 Hoyofair 各位大佬的成片吧～ 借物表 模型：miHoYo/倾辞一绘 剧本/动画：叶玲秋雨",
+      "content": [
+        "空：生病亲了会传染 芙：我不怕 空：你要是生病了我还得照顾你 芙：好吧~那就让你马上好然后想亲多久亲多久~ 亲亲还是打针？空一开始因为害怕打针所以选择了亲亲，但很快，对芙芙的关心还是战胜了对打针的恐惧，于是他最终还是选择了打针。 不过最后芙宁娜看着空很疼还是亲上去缓解疼痛了 —————————— 前段时间一直在忙其他项目的制作，所以这个视频拖了比预想中更久，真的很抱歉让大家久等了！也请期待一下20号 Hoyofair 各位大佬的成片吧～ 借物表 模型：miHoYo/倾辞一绘 剧本/动画：叶玲秋雨"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 叶玲秋雨 · 527,633 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1fYYj68EiU",
+      "publishedAt": "2026-09-11T10:20:00.000Z"
+    },
+    {
+      "slug": "feed-038a0b7805723552",
+      "title": "SE《王国之心 4》确认由 FF7 重制工作室开发，最终幻想仍有可能改编 ...",
+      "summary": "在 2026 年科隆游戏展期间，《最终幻想 7 启示录》展示了第 4 章内容。滨口直树称，海温德号空艇带来了“其他开放世界游戏没有的感觉”。世界规模从《重制版》的线性结构、《重生》的开放世界扩展到星球级别，并加入垂直探索；而飞行陆行鸟和跳伞则提供了新的移动方式。",
+      "content": [
+        "在 2026 年科隆游戏展期间，《最终幻想 7 启示录》展示了第 4 章内容。滨口直树称，海温德号空艇带来了“其他开放世界游戏没有的感觉”。世界规模从《重制版》的线性结构、《重生》的开放世界扩展到星球级别，并加入垂直探索；而飞行陆行鸟和跳伞则提供了新的移动方式。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "finance.sina.com.cn",
+      "sourceUrl": "https://finance.sina.com.cn/tech/digi/2026-09-12/doc-inirpkcq6888112.shtml",
+      "publishedAt": "2026-09-11T10:17:00.000Z"
+    },
+    {
+      "slug": "feed-46fcf5bb7b99520f",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "content": [
+        "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "OpenAI 官方博客",
+      "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "publishedAt": "2026-09-11T10:00:00.000Z",
+      "sourceLevel": "official",
+      "company": "OpenAI",
+      "importance": 80,
+      "collectedAt": "2026-09-12T02:00:08.954Z"
+    },
+    {
+      "slug": "feed-6112041d07320836",
+      "title": "你会翻过山，看到万丈青天",
+      "summary": "愿我们都能，得偿所愿！",
+      "content": [
+        "愿我们都能，得偿所愿！"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 陈怀安_Aaa · 586,751 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV19JYL6nE34",
+      "publishedAt": "2026-09-11T10:00:00.000Z"
+    },
+    {
+      "slug": "feed-8f9a1400902a2842",
+      "title": "开 学 送 礼 现 状：",
+      "summary": "长按点赞获得全部礼物～",
+      "content": [
+        "长按点赞获得全部礼物～"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 进击的金厂长 · 434,328 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1T7YE6nE38",
+      "publishedAt": "2026-09-11T09:42:51.000Z"
+    },
+    {
+      "slug": "feed-39f45045ae396bee",
+      "title": "我真有那么像外国人吗…!?",
+      "summary": "求求大家别用英语给我发私信了……(嗯",
+      "content": [
+        "求求大家别用英语给我发私信了……(嗯"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 厄尔尼诺-ARCdraws · 617,260 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1aTYT64EQH",
+      "publishedAt": "2026-09-11T09:00:00.000Z"
+    },
+    {
       "slug": "feed-471dcc142e3940ef",
       "title": "快点快点再快点！高速变道会发生什么？",
       "summary": "真实情况下，我们并不会在公共道路上开到251km/h这个速度。这种极限能力，和我们每天开车的场景到底有什么关系？ 厂家为什么要把一台两吨多的SUV智界RX推到这里？",
@@ -223,6 +794,32 @@
       "publishedAt": "2026-09-11T08:46:49.000Z"
     },
     {
+      "slug": "feed-73c2459fee7d9e5b",
+      "title": "【9.11】新史低平史低！等等党大胜利！骨折速来！最低个位数！",
+      "summary": "大家好呀，这次给大家带来9.11号的steam折扣推荐~超多的新史低以及平史低！很多大厂游戏！评分都不差！爆肝近百款游戏~游戏鲜知道+小黑盒超史低！九格生死战神来之笔原子之心幽灵行者百英雄传新史低！平史低！整理不易，请求大家一键三连感谢大家支持~",
+      "content": [
+        "大家好呀，这次给大家带来9.11号的steam折扣推荐~超多的新史低以及平史低！很多大厂游戏！评分都不差！爆肝近百款游戏~游戏鲜知道+小黑盒超史低！九格生死战神来之笔原子之心幽灵行者百英雄传新史低！平史低！整理不易，请求大家一键三连感谢大家支持~"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190404986",
+      "publishedAt": "2026-09-11T08:12:29.000Z"
+    },
+    {
+      "slug": "feed-8a6db8e541779674",
+      "title": "解锁现实版“富豪主题公园” 探访欧洲老钱后花园摩纳哥",
+      "summary": "暂无摘要，请前往原始来源查看完整内容。",
+      "content": [
+        "暂无摘要，请前往原始来源查看完整内容。"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 终极小腾 · 849,730 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1c5YM6rETF",
+      "publishedAt": "2026-09-11T08:10:00.000Z"
+    },
+    {
       "slug": "feed-910652cc00c49474",
       "title": "麒麟9050 Pro性能解析：GPU提升很大！华为Mate XT 2 非凡大师 展翼三折叠",
       "summary": "随着这两天的把玩 以及我们尝试通过一台三折叠机型 来对新鲜出炉的麒麟9050 Pro进行性能分析的时候 我才逐渐意识到 这台Mate XT 2 没那么简单",
@@ -234,6 +831,19 @@
       "source": "哔哩哔哩热门 · 搞机所 · 216,947 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV15fYL69EKz",
       "publishedAt": "2026-09-11T07:20:37.000Z"
+    },
+    {
+      "slug": "feed-079356db78c73d10",
+      "title": "骑上坐骑，出发！《护核纪元》免费大型更新“地下骑手”将于9月21 ...",
+      "summary": "大家准备好跨上坐骑，向地底世界进发！热门沙盒冒险游戏《护核纪元》将于9月21日推出免费大型内容更新“地下骑手”，为玩家带来焕然一新的冒险体验。",
+      "content": [
+        "大家准备好跨上坐骑，向地底世界进发！热门沙盒冒险游戏《护核纪元》将于9月21日推出免费大型内容更新“地下骑手”，为玩家带来焕然一新的冒险体验。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "gamersky.com",
+      "sourceUrl": "https://www.gamersky.com/news/202609/2207707.shtml",
+      "publishedAt": "2026-09-11T07:10:00.000Z"
     },
     {
       "slug": "feed-01c978704cd78537",
@@ -249,6 +859,19 @@
       "publishedAt": "2026-09-11T06:55:46.000Z"
     },
     {
+      "slug": "feed-87c22775842a7f29",
+      "title": "《风火轮 : 无限狂飙》已发售：全新风火轮赛车游戏，‌Steam国区248元起",
+      "summary": "《风火轮：无限狂飙（Hot Wheels Infinite Rush）》是由Milestone开发、发行的一款全新风火轮赛车游戏，‌于2026年9月10日正式发售‌，登陆‌PlayStation 5、XBOX Series X|S、Nintendo Switch 2、以及PC平台，支持简体中文界面。 手机通道：哔哩哔哩冲出橙色赛道，跃入一个Hot Wheels大小的世界，探索四座岛屿，感受各自独.",
+      "content": [
+        "《风火轮：无限狂飙（Hot Wheels Infinite Rush）》是由Milestone开发、发行的一款全新风火轮赛车游戏，‌于2026年9月10日正式发售‌，登陆‌PlayStation 5、XBOX Series X|S、Nintendo Switch 2、以及PC平台，支持简体中文界面。 手机通道：哔哩哔哩冲出橙色赛道，跃入一个Hot Wheels大小的世界，探索四座岛屿，感受各自独."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "news.qq.com",
+      "sourceUrl": "https://news.qq.com/rain/a/20260911A07KDO00",
+      "publishedAt": "2026-09-11T05:36:00.000Z"
+    },
+    {
       "slug": "feed-73db56960adb85fe",
       "title": "自然资源部：中国能源资源保障能力持续提升",
       "summary": "从自然资源部获悉，自然资源部中国地质调查局最新发布的《全球矿业发展报告2026》显示，自我国实施新一轮找矿突破战略行动以来，战略性新兴矿产勘查实现跨越式发展，资源自主保障能力显著增强。《全球矿业发展报告2026》显示，中国新一轮找矿突破战略行动成效显著，矿产资源储量大幅增长，14种矿产储量居世界第一位，在油气勘探领域实现立体拓展，深层、深海领域成为新增长极。与此同时，矿产品生产与冶炼加工规模稳居全 ...",
@@ -259,8 +882,20 @@
       "category": "国内要闻",
       "source": "wap.cj.sina.cn",
       "sourceUrl": "https://wap.cj.sina.cn/pc/7x24/5088716",
-      "publishedAt": "2026-09-11T04:05:00.000Z",
-      "featured": true
+      "publishedAt": "2026-09-11T04:05:00.000Z"
+    },
+    {
+      "slug": "feed-029d90f313f715e2",
+      "title": "小 兵 阿 嘎",
+      "summary": "纯粉丝花了一个月时间制作的嘎片经典大作！",
+      "content": [
+        "纯粉丝花了一个月时间制作的嘎片经典大作！"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 推背兔の · 417,121 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1zuY46oE2V",
+      "publishedAt": "2026-09-11T04:00:00.000Z"
     },
     {
       "slug": "feed-4794a2a5ad9259ae",
@@ -367,6 +1002,19 @@
       "publishedAt": "2026-09-11T03:06:38.000Z"
     },
     {
+      "slug": "feed-16dda7c87807b46c",
+      "title": "《使命召唤：黑色行动2》PS4/PS5版引入专用服务器 提升对局稳定性",
+      "summary": "《使命召唤：黑色行动2》在PS4和PS5平台迎来新更新，为多人模式引入专用服务器，以提升对局稳定性和安全性。据官方更新公告，本次更新后，所有多人对局已100%迁移至专用服务器。 更新内容 多人模式： 新增专用多人服务器，提升对局稳定性与安全性所有多人对局已迁移至专用服务器改进好友加入支持问题修复： 修复多项自定义徽章相关问题修复多项用户界面问题修复多项多人热力图问题 《使命召唤：黑色行动2》最初于 ...",
+      "content": [
+        "《使命召唤：黑色行动2》在PS4和PS5平台迎来新更新，为多人模式引入专用服务器，以提升对局稳定性和安全性。据官方更新公告，本次更新后，所有多人对局已100%迁移至专用服务器。 更新内容 多人模式： 新增专用多人服务器，提升对局稳定性与安全性所有多人对局已迁移至专用服务器改进好友加入支持问题修复： 修复多项自定义徽章相关问题修复多项用户界面问题修复多项多人热力图问题 《使命召唤：黑色行动2》最初于 ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "msn.com",
+      "sourceUrl": "https://www.msn.com/zh-cn/gaming/%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4-%E9%BB%91%E8%89%B2%E8%A1%8C%E5%8A%A82-ps4-ps5%E7%89%88%E5%BC%95%E5%85%A5%E4%B8%93%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8-%E6%8F%90%E5%8D%87%E5%AF%B9%E5%B1%80%E7%A8%B3%E5%AE%9A%E6%80%A7/ar-AA2c1vve",
+      "publishedAt": "2026-09-11T02:56:57.000Z"
+    },
+    {
       "slug": "feed-a3e3881410298db3",
       "title": "《使命召唤：黑色行动2》PS4/PS5版引入专用服务器 提升对局稳定性",
       "summary": "《使命召唤：黑色行动2》在PS4和PS5平台迎来新更新，为多人模式引入专用服务器，以提升对局稳定性和安全性。据官方更新公告，本次更新后，所有多人对局已100%迁移至专用服务器。 更新内容 多人模式： 新增专用多人服务器，提升对局稳定性与安全性所有多人对局已迁移至专用服务器改进好友加入支持问题修复： 修复多项自定义徽章相关问题修复多项用户界面问题修复多项多人热力图问题 《使命召唤：黑色行动2》最初于 ...",
@@ -391,6 +1039,19 @@
       "source": "nanning.gov.cn",
       "sourceUrl": "https://www.nanning.gov.cn/ywzx/nnyw/2026nzwdt/t6721365.html",
       "publishedAt": "2026-09-11T02:21:00.000Z"
+    },
+    {
+      "slug": "feed-cd7b1f853dec1333",
+      "title": "Faizpi/bank-sampah",
+      "summary": "暂无简介",
+      "content": [
+        "暂无简介"
+      ],
+      "section": "科技网络",
+      "category": "GitHub开源",
+      "source": "GitHub · ★ 919 · PHP",
+      "sourceUrl": "https://github.com/Faizpi/bank-sampah",
+      "publishedAt": "2026-09-11T02:13:29.000Z"
     },
     {
       "slug": "feed-0784c27decd91bce",
@@ -706,7 +1367,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-6f0b3958a27d71b2",
@@ -749,7 +1410,7 @@
       "sourceLevel": "reliable",
       "company": "OpenAI",
       "importance": 48,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-43169485cbc70755",
@@ -766,7 +1427,7 @@
       "sourceLevel": "reliable",
       "company": "Claude",
       "importance": 78,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-b78a34c1e6f47618",
@@ -803,7 +1464,7 @@
       ],
       "section": "游戏娱乐",
       "category": "Steam",
-      "source": "Steam 全球热销榜第 4 名 · Community Announcements",
+      "source": "Steam 全球热销榜第 5 名 · Community Announcements",
       "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262693320",
       "publishedAt": "2026-09-10T20:16:11.000Z"
     },
@@ -839,7 +1500,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 80,
-      "collectedAt": "2026-09-11T12:00:08.631Z",
+      "collectedAt": "2026-09-12T02:00:08.954Z",
       "relatedSources": [
         {
           "title": "v3.12.0",
@@ -931,7 +1592,7 @@
       "sourceLevel": "reliable",
       "company": "Claude",
       "importance": 48,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-2afbd5c3decf37e6",
@@ -948,7 +1609,7 @@
       "sourceLevel": "official",
       "company": "Claude",
       "importance": 80,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-1de8428a4f6c9fd2",
@@ -975,19 +1636,6 @@
       "source": "msn.com",
       "sourceUrl": "https://www.msn.com/zh-cn/sports/%E9%80%9A%E7%94%A8/%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%85%AB%E5%BC%BA%E5%87%BA%E7%82%89-%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%9B%A2%E4%B8%A4%E8%83%9C%E5%9B%9B%E8%B4%9F%E9%81%AD%E9%87%8D%E5%88%9B-top16%E5%89%A9%E4%BA%94%E4%BA%BA/ar-AA2bYGGP",
       "publishedAt": "2026-09-10T17:23:05.000Z"
-    },
-    {
-      "slug": "feed-079356db78c73d10",
-      "title": "骑上坐骑，出发！《护核纪元》免费大型更新“地下骑手”将于9月21 ...",
-      "summary": "大家准备好跨上坐骑，向地底世界进发！热门沙盒冒险游戏《护核纪元》将于9月21日推出免费大型内容更新“地下骑手”，为玩家带来焕然一新的冒险体验。",
-      "content": [
-        "大家准备好跨上坐骑，向地底世界进发！热门沙盒冒险游戏《护核纪元》将于9月21日推出免费大型内容更新“地下骑手”，为玩家带来焕然一新的冒险体验。"
-      ],
-      "section": "游戏娱乐",
-      "category": "游戏新闻",
-      "source": "gamersky.com",
-      "sourceUrl": "https://www.gamersky.com/news/202609/2207707.shtml",
-      "publishedAt": "2026-09-10T17:10:00.000Z"
     },
     {
       "slug": "feed-3e74ecc1efc35fa3",
@@ -1121,7 +1769,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 60,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-ceadd21f5d3a2d65",
@@ -1138,7 +1786,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-78c2f18c3eeb64af",
@@ -1181,7 +1829,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 60,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-bb2056859a71c2a4",
@@ -1432,7 +2080,7 @@
       "sourceLevel": "reliable",
       "company": "OpenAI",
       "importance": 48,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-741e855a71363485",
@@ -1618,7 +2266,7 @@
       "sourceLevel": "official",
       "company": "DeepSeek",
       "importance": 80,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-9ed37c87a9feffcf",
@@ -1632,6 +2280,19 @@
       "source": "哔哩哔哩热门 · 时空go蛙 · 1,011,213 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV1sbbj6bEut",
       "publishedAt": "2026-09-10T08:00:00.000Z"
+    },
+    {
+      "slug": "feed-f22f7dd08d81d211",
+      "title": "Marvel Rivals Version 20260911 Patch Notes - Season 10 Arrives",
+      "summary": "Greetings, Rivals!After assassinating two deities back-to-back, the mysterious God Butcher has finally revealed his true face.This update begins on September 11th, 2026, at 09 : 00 : 00 (UTC), with estimated maintenance lasting 2 hours. All-New ContentNew VillainGorr the God Butcher brings his unholy crusade to Marvel Rivals! New Stories- New Serial - Butcher's Blasphemy - New Gorr the God Butcher Lore - All Gods Will Die - New Loki Lore - Journey into Mystery Scarlet Witch ReworkWanda is weavin...",
+      "content": [
+        "Greetings, Rivals!After assassinating two deities back-to-back, the mysterious God Butcher has finally revealed his true face.This update begins on September 11th, 2026, at 09 : 00 : 00 (UTC), with estimated maintenance lasting 2 hours. All-New ContentNew VillainGorr the God Butcher brings his unholy crusade to Marvel Rivals! New Stories- New Serial - Butcher's Blasphemy - New Gorr the God Butcher Lore - All Gods Will Die - New Loki Lore - Journey into Mystery Scarlet Witch ReworkWanda is weavin..."
+      ],
+      "section": "游戏娱乐",
+      "category": "Steam",
+      "source": "Steam 全球热销榜第 3 名 · Community Announcements",
+      "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262691410",
+      "publishedAt": "2026-09-10T07:33:37.000Z"
     },
     {
       "slug": "feed-257075dda5238869",
@@ -1661,7 +2322,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 90,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-3802aa15c4b6ae22",
@@ -1678,7 +2339,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 60,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-1633d06867acb627",
@@ -2175,6 +2836,23 @@
       "publishedAt": "2026-09-10T00:11:38.000Z"
     },
     {
+      "slug": "feed-b8a75fb67d817922",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "content": [
+        "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "OpenAI 官方博客",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "sourceLevel": "official",
+      "company": "OpenAI",
+      "importance": 80,
+      "collectedAt": "2026-09-12T02:00:08.954Z"
+    },
+    {
       "slug": "feed-b32e9b8471353987",
       "title": "Introducing the Agents API",
       "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
@@ -2192,23 +2870,6 @@
       "collectedAt": "2026-09-11T12:00:08.631Z"
     },
     {
-      "slug": "feed-b8a75fb67d817922",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "content": [
-        "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
-      ],
-      "section": "科技网络",
-      "category": "AI与科技",
-      "source": "OpenAI 官方博客",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "sourceLevel": "official",
-      "company": "OpenAI",
-      "importance": 80,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
-    },
-    {
       "slug": "feed-bf893d2f962c3e54",
       "title": "Counter-Strike 2 Update",
       "summary": "\\CacheFixed various gaps in map.Fixed a wallbang spot on B site.Added a missing competitive CT spawn point.Added additional T spawn points.\\Reworked CSPlayerCamera:Renamed it to CustomPlayerCamera.Added GetPlayer, GetMode, SetMode, and SetFollowConfig.Deprecated IsEnabled, SetEnabled, and SetIsControllingAngles.Added an 'observable' property to custom_hud_layout that controls whether an observer sees the UI as the spectated player sees it. Defaults to false.Fixed several bugs related to stale cu...",
@@ -2217,7 +2878,7 @@
       ],
       "section": "游戏娱乐",
       "category": "Steam",
-      "source": "Steam 全球热销榜第 3 名 · Community Announcements",
+      "source": "Steam 全球热销榜第 4 名 · Community Announcements",
       "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690556",
       "publishedAt": "2026-09-09T22:51:08.000Z"
     },
@@ -2249,7 +2910,7 @@
       "sourceLevel": "reliable",
       "company": "OpenAI",
       "importance": 48,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-565b3343d67ab2d1",
@@ -2625,7 +3286,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-82b8bf7db8ec7233",
@@ -2642,7 +3303,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-5a0b321fc9a1a041",
@@ -3336,6 +3997,19 @@
       "publishedAt": "2026-09-09T03:07:36.000Z"
     },
     {
+      "slug": "feed-bab5224f49d5fa25",
+      "title": "「小白」鸿蒙7正式版来了：好用不只是一点点？",
+      "summary": "关注微信公众号：小白测评 每晚发车不见不散",
+      "content": [
+        "关注微信公众号：小白测评 每晚发车不见不散"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 小白测评 · 636,416 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1A2bV6nESZ",
+      "publishedAt": "2026-09-09T02:41:08.000Z"
+    },
+    {
       "slug": "feed-4233173ed55cff57",
       "title": "中国蓝观察丨含“新”量极高 民营经济创新发展大会何以花落浙江？",
       "summary": "9月8日至10日，2026民营经济创新发展大会在浙江温州举行。活动以“创新聚势·赋能未来”为主题，是一场国家级盛会，由全国工商联与浙江省人民政府联合主办，云集全国头部民企掌门人、专家学者、科研机构及金融机构代表等600余位重量级嘉宾，活动开办3年来，今年也是首 ...",
@@ -3850,6 +4524,19 @@
       "collectedAt": "2026-09-09T12:00:09.366Z"
     },
     {
+      "slug": "feed-0ab11f3b2e260b4f",
+      "title": "Vincentwei1021/anything2explainer",
+      "summary": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+      "content": [
+        "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion."
+      ],
+      "section": "科技网络",
+      "category": "GitHub开源",
+      "source": "GitHub · ★ 941 · TypeScript",
+      "sourceUrl": "https://github.com/Vincentwei1021/anything2explainer",
+      "publishedAt": "2026-09-08T17:19:54.000Z"
+    },
+    {
       "slug": "feed-20f807422b4e5571",
       "title": "Bodycam PATCH NOTES · V0.8 #3",
       "summary": "PATCH NOTES #3 Hi everyone,Earlier today, we identified a way for a session host to remote crash other players’ games by spawning hundreds of entities. We have banned the players identified as abusing it and released a patch addressing the issue in this latest update. Why didn’t we communicate immediately? We wanted to establish the facts before making a public statement. We contacted the players involved, investigated the reports, and reviewed our network code to understand how the exploit was ...",
@@ -3998,7 +4685,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 80,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-c608051ae8dce2b5",
@@ -4058,7 +4745,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-c4cddb952dd5f63f",
@@ -4069,7 +4756,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 1,199 · Python",
+      "source": "GitHub · ★ 1,353 · Python",
       "sourceUrl": "https://github.com/Edge0-AI/Edge0",
       "publishedAt": "2026-09-08T13:41:47.000Z"
     },
@@ -4259,7 +4946,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 1,752 · Lean",
+      "source": "GitHub · ★ 1,778 · Lean",
       "sourceUrl": "https://github.com/openai/NavierStokesAndEuler",
       "publishedAt": "2026-09-08T10:53:38.000Z"
     },
@@ -5107,7 +5794,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 1,632 · 未标注语言",
+      "source": "GitHub · ★ 1,785 · 未标注语言",
       "sourceUrl": "https://github.com/sdli1995/dlssg_for_sm86",
       "publishedAt": "2026-09-07T16:16:48.000Z"
     },
@@ -5965,7 +6652,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 1,409 · Python",
+      "source": "GitHub · ★ 1,445 · Python",
       "sourceUrl": "https://github.com/EverettFish/holo-card-studio",
       "publishedAt": "2026-09-07T00:41:18.000Z"
     },
@@ -7311,7 +7998,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 1,311 · HTML",
+      "source": "GitHub · ★ 1,478 · HTML",
       "sourceUrl": "https://github.com/yang0/handraw-style",
       "publishedAt": "2026-09-05T21:57:22.000Z"
     },
@@ -7501,7 +8188,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 958 · Python",
+      "source": "GitHub · ★ 984 · Python",
       "sourceUrl": "https://github.com/donvito/codex-astra-luna-orchestrator",
       "publishedAt": "2026-09-05T16:03:06.000Z"
     },
@@ -7527,7 +8214,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 1,426 · Swift",
+      "source": "GitHub · ★ 1,471 · Swift",
       "sourceUrl": "https://github.com/vinzdg/codenotch",
       "publishedAt": "2026-09-05T14:55:35.000Z"
     },
@@ -8181,7 +8868,7 @@
       ],
       "section": "科技网络",
       "category": "GitHub开源",
-      "source": "GitHub · ★ 3,176 · TypeScript",
+      "source": "GitHub · ★ 3,213 · TypeScript",
       "sourceUrl": "https://github.com/ashemag/human-atlas",
       "publishedAt": "2026-09-05T00:24:43.000Z"
     },
@@ -8295,7 +8982,7 @@
       "sourceLevel": "official",
       "company": "Claude",
       "importance": 80,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-3310052217d5f469",
@@ -9792,7 +10479,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 80,
-      "collectedAt": "2026-09-11T12:00:08.631Z",
+      "collectedAt": "2026-09-12T02:00:08.954Z",
       "relatedSources": [
         {
           "title": "v3.7.0",
@@ -10307,7 +10994,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 90,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-3058df3b96e49870",
@@ -11823,7 +12510,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-11T12:00:08.631Z",
+      "collectedAt": "2026-09-12T02:00:08.954Z",
       "relatedSources": [
         {
           "title": "Proactive cyber defense for governments and enterprises",
@@ -11849,7 +12536,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 90,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-16174673e5def518",
@@ -12311,7 +12998,7 @@
       "sourceLevel": "official",
       "company": "Qwen",
       "importance": 80,
-      "collectedAt": "2026-09-11T12:00:08.631Z",
+      "collectedAt": "2026-09-12T02:00:08.954Z",
       "relatedSources": [
         {
           "title": "Qwen/Qwen3.8-Flash-Next-FP8 模型更新",
@@ -12908,7 +13595,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-905456f5304b0c17",
@@ -13055,7 +13742,7 @@
       "sourceLevel": "official",
       "company": "Claude",
       "importance": 80,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-20b040f8e58f31e9",
@@ -13072,7 +13759,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 90,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-b0cbef382238cdd5",
@@ -13210,7 +13897,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-46192f8ad524199b",
@@ -13586,7 +14273,7 @@
       "sourceLevel": "official",
       "company": "DeepSeek",
       "importance": 80,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-b91a7a6b4644007d",
@@ -14010,7 +14697,7 @@
       "sourceLevel": "official",
       "company": "Claude",
       "importance": 90,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-4287dd2586f40b99",
@@ -14027,7 +14714,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 80,
-      "collectedAt": "2026-09-11T12:00:08.631Z",
+      "collectedAt": "2026-09-12T02:00:08.954Z",
       "relatedSources": [
         {
           "title": "v2.22.0",
@@ -15144,7 +15831,7 @@
       "sourceLevel": "official",
       "company": "Claude",
       "importance": 80,
-      "collectedAt": "2026-09-11T12:00:08.631Z"
+      "collectedAt": "2026-09-12T02:00:08.954Z"
     },
     {
       "slug": "feed-8a97c34e91d5842b",
