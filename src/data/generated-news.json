@@ -1,6 +1,601 @@
 {
-  "generatedAt": "2026-09-16T12:00:19.163Z",
+  "generatedAt": "2026-09-17T02:00:18.959Z",
   "items": [
+    {
+      "slug": "feed-0ebf8c92be12a3f2",
+      "title": "9.17｜Switch好价卡带",
+      "summary": "我是笼中雀sama，关注我，让你的钱包不再受伤！————💾实时新增————1.咚奇刚蕉力全开｜🇺🇳2282.幻想生活i｜🇯🇵1403.喷射战士3｜🇺🇳1694.空之轨迹2｜🇭🇰3053.耀西的手工世界｜🇯🇵1724.轨道双子星｜🇯🇵1985.终天教团｜🇭🇰",
+      "content": [
+        "我是笼中雀sama，关注我，让你的钱包不再受伤！————💾实时新增————1.咚奇刚蕉力全开｜🇺🇳2282.幻想生活i｜🇯🇵1403.喷射战士3｜🇺🇳1694.空之轨迹2｜🇭🇰3053.耀西的手工世界｜🇯🇵1724.轨道双子星｜🇯🇵1985.终天教团｜🇭🇰"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190823678",
+      "publishedAt": "2026-09-17T01:59:55.000Z"
+    },
+    {
+      "slug": "feed-5635435e644d62a2",
+      "title": "【开源】做了个桌面配音APP —— yovoice，支持音色复刻和情绪调节，效果还不错",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 最近做了一个本地配音桌面应用yovoice，支持macOS和Windows。每次想给视频配个音，要么得忍受云端API的延迟和计费，要么折腾一堆Python环境和奇奇怪怪的WebUI。就想搞一个装上就能用、界面顺眼的客户端：贴上文案、挑个音色、顺便调下语气情绪，啪的一下就能出音频。目前支持：音色复刻：导入或录制参考音",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 最近做了一个本地配音桌面应用yovoice，支持macOS和Windows。每次想给视频配个音，要么得忍受云端API的延迟和计费，要么折腾一堆Python环境和奇奇怪怪的WebUI。就想搞一个装上就能用、界面顺眼的客户端：贴上文案、挑个音色、顺便调下语气情绪，啪的一下就能出音频。目前支持：音色复刻：导入或录制参考音"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-933030-1",
+      "publishedAt": "2026-09-17T01:56:41.000Z"
+    },
+    {
+      "slug": "feed-8b92402801c8ebee",
+      "title": "用GPT给我换了个头像，感觉还行",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 打开原帖查看完整内容。",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 打开原帖查看完整内容。"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-933027-1",
+      "publishedAt": "2026-09-17T01:54:16.000Z"
+    },
+    {
+      "slug": "feed-6f0fe8986fe42c53",
+      "title": "esim.gg 开通后要24小时才能接收短信？",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 为什么新号码无法发送或接收短信？首次连接网络后，完成全部服务所需的技术更新通常需要24小时。在此期间，新号码可能无法发送或接收短信。请勿因此在最初24小时内发送邮件；只有超过24小时仍无法使用短信时，再提交咨询。我昨天下午开通的发现啥都接不了官方平台上点测试短信倒是能收到",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 为什么新号码无法发送或接收短信？首次连接网络后，完成全部服务所需的技术更新通常需要24小时。在此期间，新号码可能无法发送或接收短信。请勿因此在最初24小时内发送邮件；只有超过24小时仍无法使用短信时，再提交咨询。我昨天下午开通的发现啥都接不了官方平台上点测试短信倒是能收到"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-933026-1",
+      "publishedAt": "2026-09-17T01:54:16.000Z"
+    },
+    {
+      "slug": "feed-3e008713db107169",
+      "title": "仅剩一天！Epic喜加四，Steam喜加N，育碧喜加一，极限入库！",
+      "summary": "省流：Epic喜加四，Steam喜加N，育碧喜加一！还有十款免费精品游戏！喜加一别错过！入库永久保留，查缺补漏！建议收藏！有些游戏未到领取时间，可以收藏CY防忘记！！我也把限时领取时间和部分传送门贴在了下面！这里求个赞！支持下俺！话不多说，我们直接领取！—",
+      "content": [
+        "省流：Epic喜加四，Steam喜加N，育碧喜加一！还有十款免费精品游戏！喜加一别错过！入库永久保留，查缺补漏！建议收藏！有些游戏未到领取时间，可以收藏CY防忘记！！我也把限时领取时间和部分传送门贴在了下面！这里求个赞！支持下俺！话不多说，我们直接领取！—"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190811446",
+      "publishedAt": "2026-09-17T01:54:01.000Z"
+    },
+    {
+      "slug": "feed-f8dbebeba4a819c9",
+      "title": "总价50收一台zouter首发jp，不限ip cpu",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 rt，真难收",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 rt，真难收"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-933024-1",
+      "publishedAt": "2026-09-17T01:52:49.000Z"
+    },
+    {
+      "slug": "feed-7db46bca1d7b2d1b",
+      "title": "[出租] 𝕧.𝕡𝕤-Tokyo EPYC Friendship Gen 2-€299.95/年",
+      "summary": "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 2C/2G/20G500M/750Groot交付，580R/季建议官方中介交易，中介费AA(因为NQ测试跑了几次一直出现Insertfailed错误，浪费了70G流量，还是无法上传测试结果，所以没有贴NQ链接，可以参考其他同学的NQ)",
+      "content": [
+        "来自 NodeSeek 最新公开帖子中的相关内容精选，不是官方热榜。 2C/2G/20G500M/750Groot交付，580R/季建议官方中介交易，中介费AA(因为NQ测试跑了几次一直出现Insertfailed错误，浪费了70G流量，还是无法上传测试结果，所以没有贴NQ链接，可以参考其他同学的NQ)"
+      ],
+      "section": "科技网络",
+      "category": "VPS与网络",
+      "source": "NodeSeek精选",
+      "sourceUrl": "https://www.nodeseek.com/post-933019-1",
+      "publishedAt": "2026-09-17T01:50:59.000Z"
+    },
+    {
+      "slug": "feed-aa58dd6df6161bfb",
+      "title": "Release & Launch Sale!",
+      "summary": "Trails in the Sky 2nd Chapter has officially launched on Steam!Join Estelle as she journeys to find Joshua and defeat Ouroboros as a bracer in the Liberl Kingdom.- Continue your 1st Chapter journey- Overpower your enemies with even more combat options- Dive into an intricately woven narrative- Enjoy expansive side contentStart your journey today for 10% off! To celebrate the game's launch on Steam, we're holding a special launch sale! The standard edition game, Season Pass, and Digital Deluxe Ed...",
+      "content": [
+        "Trails in the Sky 2nd Chapter has officially launched on Steam!Join Estelle as she journeys to find Joshua and defeat Ouroboros as a bracer in the Liberl Kingdom.- Continue your 1st Chapter journey- Overpower your enemies with even more combat options- Dive into an intricately woven narrative- Enjoy expansive side contentStart your journey today for 10% off! To celebrate the game's launch on Steam, we're holding a special launch sale! The standard edition game, Season Pass, and Digital Deluxe Ed..."
+      ],
+      "section": "游戏娱乐",
+      "category": "Steam",
+      "source": "Steam 全球热销榜第 3 名 · Community Announcements",
+      "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010490611",
+      "publishedAt": "2026-09-17T01:38:53.000Z"
+    },
+    {
+      "slug": "feed-ebc0d9fc4dfb980d",
+      "title": "（9.17)秋促抢跑！Steam发大力130款佳作迎来折扣，最低3元！",
+      "summary": "帮大家整理了130款史低，新史低，热门折扣游戏精品佳作！关注我带你第一时间了解游戏折扣！今日新游推荐这是一款Steam真人互动影游。扮演大学生误入 SOS 酒吧，邂逅多位性格迥异的少女，在抉择中提升好感，体验融合轻科幻与悬疑的多分支恋爱故事。目前有Demo",
+      "content": [
+        "帮大家整理了130款史低，新史低，热门折扣游戏精品佳作！关注我带你第一时间了解游戏折扣！今日新游推荐这是一款Steam真人互动影游。扮演大学生误入 SOS 酒吧，邂逅多位性格迥异的少女，在抉择中提升好感，体验融合轻科幻与悬疑的多分支恋爱故事。目前有Demo"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190737434",
+      "publishedAt": "2026-09-17T01:38:47.000Z"
+    },
+    {
+      "slug": "feed-49e6dce91397f69e",
+      "title": "国服《暗黑破坏神4》再次限时免费领取，领取时限一个月！",
+      "summary": "领取地址：传送门只包含基础版，不包含《憎恨之躯》《憎恨之王》扩展内容。领取时间：北京时间 2026 年 9 月 16 日至 10 月 16 日，一旦领取永久游玩。需国服战网帐号和网易通行证绑定，一个身份证只能领取一次，不管你有多少帐号。《憎恨之王》扩展内容",
+      "content": [
+        "领取地址：传送门只包含基础版，不包含《憎恨之躯》《憎恨之王》扩展内容。领取时间：北京时间 2026 年 9 月 16 日至 10 月 16 日，一旦领取永久游玩。需国服战网帐号和网易通行证绑定，一个身份证只能领取一次，不管你有多少帐号。《憎恨之王》扩展内容"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190753830",
+      "publishedAt": "2026-09-17T01:36:36.000Z"
+    },
+    {
+      "slug": "feed-7a9f4c12d449cf00",
+      "title": "用了这么长时间DeepSeek，第一次卡的这么极限",
+      "summary": "第一次见余额能卡到＜0.01，而我交给大肥鱼的任务又恰好完成了✅。真是美妙的一天啊[cube_喜欢][cube_喜欢][cube_喜欢][cube_喜欢]。应该不是肥鱼故意卡到我的余额只剩不到0.01才结束任务的吧😡😡😡，别让我抓到她又吃白饭🍚了。 另外放几张原初鲸鱼娘和头顶不锈钢盆鲸鱼娘的三视图，需要的盒友可以自取。",
+      "content": [
+        "第一次见余额能卡到＜0.01，而我交给大肥鱼的任务又恰好完成了✅。真是美妙的一天啊[cube_喜欢][cube_喜欢][cube_喜欢][cube_喜欢]。应该不是肥鱼故意卡到我的余额只剩不到0.01才结束任务的吧😡😡😡，别让我抓到她又吃白饭🍚了。 另外放几张原初鲸鱼娘和头顶不锈钢盆鲸鱼娘的三视图，需要的盒友可以自取。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190799025",
+      "publishedAt": "2026-09-17T01:25:50.000Z"
+    },
+    {
+      "slug": "feed-59210469a64b53a2",
+      "title": "《战争雷霆》「长空奥德赛」版本更新日志",
+      "summary": "欢迎来到「长空奥德赛」版本！本次大型更新带来了丰富多样的全新载具，涵盖希腊阵营的战机与装甲载具、CA-27 战斗机、印度阿琼 Mk 1 主战坦克，以及印度尼西亚Harimau 主战坦克。此外，以马岛原生地貌为背景的全新陆战地图达尔文丘正式加入游戏。除新载具",
+      "content": [
+        "欢迎来到「长空奥德赛」版本！本次大型更新带来了丰富多样的全新载具，涵盖希腊阵营的战机与装甲载具、CA-27 战斗机、印度阿琼 Mk 1 主战坦克，以及印度尼西亚Harimau 主战坦克。此外，以马岛原生地貌为背景的全新陆战地图达尔文丘正式加入游戏。除新载具"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190786202",
+      "publishedAt": "2026-09-17T01:08:06.000Z"
+    },
+    {
+      "slug": "feed-40da866892d05d86",
+      "title": "v2.24.0",
+      "summary": "2.24.0 (2026-09-16) Features Add credential APIs resource to gaos. ( d301255 ) Add RetrievalCallStep and RetrievalResultStep to interactions schema and SDKs. ( 9052efd ) Implement environments files upload and download across Python and TypeScript SDKs ( fc0834d ) Wire credential APIs resource to sdk. ( bf0d457 ) Bug Fixes Do not run functions once the automatic function calling budget is spent ( 2580638 ) Documentation Update GenAI SDK README files to use gemini-flash-latest ( 1feb999 ) Update Python Gen AI SDK README for Gemini 3.8 Flash ( b88fded )",
+      "content": [
+        "2.24.0 (2026-09-16) Features Add credential APIs resource to gaos. ( d301255 ) Add RetrievalCallStep and RetrievalResultStep to interactions schema and SDKs. ( 9052efd ) Implement environments files upload and download across Python and TypeScript SDKs ( fc0834d ) Wire credential APIs resource to sdk. ( bf0d457 ) Bug Fixes Do not run functions once the automatic function calling budget is spent ( 2580638 ) Documentation Update GenAI SDK README files to use gemini-flash-latest ( 1feb999 ) Update Python Gen AI SDK README for Gemini 3.8 Flash ( b88fded )"
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "Gemini GitHub Releases",
+      "sourceUrl": "https://github.com/googleapis/python-genai/releases/tag/v2.24.0",
+      "publishedAt": "2026-09-16T22:11:13.000Z",
+      "sourceLevel": "official",
+      "company": "Gemini",
+      "importance": 80,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-0b10385b1288a700",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "content": [
+        "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "publishedAt": "2026-09-16T21:07:24.000Z",
+      "sourceLevel": "reliable",
+      "company": "OpenAI",
+      "importance": 48,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-cb281fd96f2ff97e",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you […]",
+      "content": [
+        "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you […]"
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "publishedAt": "2026-09-16T20:10:47.000Z",
+      "sourceLevel": "reliable",
+      "company": "Gemini",
+      "importance": 78,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-a125f165335cfbaf",
+      "title": "Dota2游戏性更新：7.41f",
+      "summary": "数据来源：Dota2官网游戏性更新：7.41f物品改动凝魂之露魔法恢复加成从+0.8减少至+0.6狂战斧砍伐的冷却时间从4秒减少至3秒代达罗斯之殇图纸价格从900金增加至1000金。总价从5100金增加至5200金魔龙枪图纸售价从450金增加至550金。总",
+      "content": [
+        "数据来源：Dota2官网游戏性更新：7.41f物品改动凝魂之露魔法恢复加成从+0.8减少至+0.6狂战斧砍伐的冷却时间从4秒减少至3秒代达罗斯之殇图纸价格从900金增加至1000金。总价从5100金增加至5200金魔龙枪图纸售价从450金增加至550金。总"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏平台",
+      "source": "小黑盒",
+      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190752916",
+      "publishedAt": "2026-09-16T20:04:30.000Z"
+    },
+    {
+      "slug": "feed-b2a65340d9115453",
+      "title": "中国红基会汤计人道传播基金累计向53名记者发放资助金300余万元",
+      "summary": "中新网北京9月17日电 (记者 张素)记者16日从中国红十字基金会获悉，截至目前，中国红十字基金会汤计人道传播基金累计向53名记者发放资助金共300余万元人民币。 中国红十字基金会汤计人道传播基金于2017年设立，旨在救助因采写新闻报道等因公负伤致残或陷入困境的记者、媒体从业人员及其直系亲属，鼓励社会力量关注和改善新闻从业人员群体生存现状。 9月16日，中国红十字基金会汤计人道传播基金第五批记者资 ...",
+      "content": [
+        "中新网北京9月17日电 (记者 张素)记者16日从中国红十字基金会获悉，截至目前，中国红十字基金会汤计人道传播基金累计向53名记者发放资助金共300余万元人民币。 中国红十字基金会汤计人道传播基金于2017年设立，旨在救助因采写新闻报道等因公负伤致残或陷入困境的记者、媒体从业人员及其直系亲属，鼓励社会力量关注和改善新闻从业人员群体生存现状。 9月16日，中国红十字基金会汤计人道传播基金第五批记者资 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "chinanews.com",
+      "sourceUrl": "https://www.chinanews.com/sh/2026/09-17/10698015.shtml",
+      "publishedAt": "2026-09-16T19:00:00.000Z",
+      "featured": true
+    },
+    {
+      "slug": "feed-9484c374067f56e2",
+      "title": "世赛倒计时｜影像志②：中国凭什么从零到领跑",
+      "summary": "2011年伦敦，中国首次走上第41届世赛赛场。当时我们参加了6个项目的比赛，拿下了焊接项目银牌和5个优胜奖。21岁的裴先峰夺得焊接项目银牌，成为史上首位登上世赛领奖台的中国人。我国在51个代表队中总平均分排名第二，仅次于韩国。",
+      "content": [
+        "2011年伦敦，中国首次走上第41届世赛赛场。当时我们参加了6个项目的比赛，拿下了焊接项目银牌和5个优胜奖。21岁的裴先峰夺得焊接项目银牌，成为史上首位登上世赛领奖台的中国人。我国在51个代表队中总平均分排名第二，仅次于韩国。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "thepaper.cn",
+      "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_34065978",
+      "publishedAt": "2026-09-16T19:00:00.000Z"
+    },
+    {
+      "slug": "feed-fd19eda3c3cbb893",
+      "title": "中国古代饮食文化展亮相巴黎",
+      "summary": "9月10日，在法国巴黎中国文化中心，一名男子在中国古代饮食文化展上参观。 由法国巴黎中国文化中心与中国国家博物馆联合举办的“宴飨万年——数说中国古代饮食文化”展览9月10日在巴黎中国文化中心开幕。展览展出30余件（组）古代饮食器具仿制品，从食材、器具、技艺、礼仪、审美等角度展现中国古代饮食文化的演变。 9月10日，在法国巴黎中国文化中心，一名女子在中国古代饮食文化展上参观。 由法国巴黎中国文化中心 ...",
+      "content": [
+        "9月10日，在法国巴黎中国文化中心，一名男子在中国古代饮食文化展上参观。 由法国巴黎中国文化中心与中国国家博物馆联合举办的“宴飨万年——数说中国古代饮食文化”展览9月10日在巴黎中国文化中心开幕。展览展出30余件（组）古代饮食器具仿制品，从食材、器具、技艺、礼仪、审美等角度展现中国古代饮食文化的演变。 9月10日，在法国巴黎中国文化中心，一名女子在中国古代饮食文化展上参观。 由法国巴黎中国文化中心 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "ylrb.com",
+      "sourceUrl": "https://www.ylrb.com/2/2xw/wh/1006680.shtml",
+      "publishedAt": "2026-09-16T19:00:00.000Z"
+    },
+    {
+      "slug": "feed-b229c2cba9991e07",
+      "title": "Google will now let any AI agent run your smart home",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on […]",
+      "content": [
+        "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on […]"
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "publishedAt": "2026-09-16T18:41:15.000Z",
+      "sourceLevel": "reliable",
+      "company": "Claude",
+      "importance": 48,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-8b8150fa493a8bba",
+      "title": "8月の訪日外国人観光客30万人減 韓国など14の国と地域からは過去 ...",
+      "summary": "先月、日本を訪れた外国人観光客は309万8900人で、前の年の同じ月と比べて30万人余り減りました。 中国からの旅行客が6割近く減ったことが一因です。 韓国やマレーシアなど14の国と地域からは、8月として過去最多を更新しました。 （2026年9月17日放送分より） ...",
+      "content": [
+        "先月、日本を訪れた外国人観光客は309万8900人で、前の年の同じ月と比べて30万人余り減りました。 中国からの旅行客が6割近く減ったことが一因です。 韓国やマレーシアなど14の国と地域からは、8月として過去最多を更新しました。 （2026年9月17日放送分より） ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "msn.com",
+      "sourceUrl": "https://www.msn.com/ja-jp/news/other/8%E6%9C%88%E3%81%AE%E8%A8%AA%E6%97%A5%E5%A4%96%E5%9B%BD%E4%BA%BA%E8%A6%B3%E5%85%89%E5%AE%A230%E4%B8%87%E4%BA%BA%E6%B8%9B-%E9%9F%93%E5%9B%BD%E3%81%AA%E3%81%A914%E3%81%AE%E5%9B%BD%E3%81%A8%E5%9C%B0%E5%9F%9F%E3%81%8B%E3%82%89%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80%E5%A4%9A%E3%82%82%E4%B8%AD%E5%9B%BD%E3%81%AF6%E5%89%B2%E6%B8%9B/ar-AA2coktB",
+      "publishedAt": "2026-09-16T18:23:36.000Z"
+    },
+    {
+      "slug": "feed-2df7ebfc39c8c162",
+      "title": "全国入秋进程图出炉 秋天脚步已过黄河 京津冀等地跑步入秋",
+      "summary": "近日，北方多地天高云淡、凉意渐浓，秋天的脚步也在加快南下。中国天气网推出全国入秋进程图和常年大城市入秋时间表，看看秋天的版图有多大，你家离秋天还有多远。中国天气网提醒，北方大部已经入秋，昼夜温差较大，公众需及时关注气温变化，早晚时段出行注意添衣保暖，谨防换季高发病。",
+      "content": [
+        "近日，北方多地天高云淡、凉意渐浓，秋天的脚步也在加快南下。中国天气网推出全国入秋进程图和常年大城市入秋时间表，看看秋天的版图有多大，你家离秋天还有多远。中国天气网提醒，北方大部已经入秋，昼夜温差较大，公众需及时关注气温变化，早晚时段出行注意添衣保暖，谨防换季高发病。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "msn.cn",
+      "sourceUrl": "https://www.msn.cn/zh-cn/weather/%E6%B0%94%E8%B1%A1%E5%AD%A6/%E5%85%A8%E5%9B%BD%E5%85%A5%E7%A7%8B%E8%BF%9B%E7%A8%8B%E5%9B%BE%E5%87%BA%E7%82%89-%E7%A7%8B%E5%A4%A9%E8%84%9A%E6%AD%A5%E5%B7%B2%E8%BF%87%E9%BB%84%E6%B2%B3-%E4%BA%AC%E6%B4%A5%E5%86%80%E7%AD%89%E5%9C%B0%E8%B7%91%E6%AD%A5%E5%85%A5%E7%A7%8B/ar-AA2co7vB",
+      "publishedAt": "2026-09-16T18:21:11.000Z"
+    },
+    {
+      "slug": "feed-9fe4a932746fd139",
+      "title": "使命召唤21：黑色行动6 开发商 Treyarch 表示已“准备好创作新作 ...",
+      "summary": "使命召唤21：黑色行动6 开发商 Treyarch 表示，在告别为期两年的 使命召唤21：黑色行动6 系列游戏之际，他们已经“准备好创作一些全新的内容”。 Treyarch 连续主导了两款 使命召唤21：黑色行动6 游戏的开发：2024 年的 使命召唤21：黑色行动6 6 和 2025 年的 使命召唤21：黑色行动6 7。随着 使命召唤21：黑色行动6 7 Season 6 将于 9 月 17 日 ...",
+      "content": [
+        "使命召唤21：黑色行动6 开发商 Treyarch 表示，在告别为期两年的 使命召唤21：黑色行动6 系列游戏之际，他们已经“准备好创作一些全新的内容”。 Treyarch 连续主导了两款 使命召唤21：黑色行动6 游戏的开发：2024 年的 使命召唤21：黑色行动6 6 和 2025 年的 使命召唤21：黑色行动6 7。随着 使命召唤21：黑色行动6 7 Season 6 将于 9 月 17 日 ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "news.17173.com",
+      "sourceUrl": "https://news.17173.com/content/09172026/011340138.shtml",
+      "publishedAt": "2026-09-16T18:14:00.000Z"
+    },
+    {
+      "slug": "feed-4ae62a635ffa47ef",
+      "title": "米・ベッセント財務長官 「中国とAIリスクについて話し合う用意が ...",
+      "summary": "アメリカのベッセント財務長官は、今週末に予定される中国の何立峰副首相との会談の中で、AI＝人工知能のリスクについて話し合う用意があると表明しました。 アメリカのベッセント財務長官は16日、JNNの取材に対して声明を公表しました。 その中では、「アメリカはAI分野のリーダー」だと強調したうえで、今週末に予定している中国の何立峰副首相との会談の中で「AIの共通リスクを回避するため、話し合う用意がある」 ...",
+      "content": [
+        "アメリカのベッセント財務長官は、今週末に予定される中国の何立峰副首相との会談の中で、AI＝人工知能のリスクについて話し合う用意があると表明しました。 アメリカのベッセント財務長官は16日、JNNの取材に対して声明を公表しました。 その中では、「アメリカはAI分野のリーダー」だと強調したうえで、今週末に予定している中国の何立峰副首相との会談の中で「AIの共通リスクを回避するため、話し合う用意がある」 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "msn.com",
+      "sourceUrl": "https://www.msn.com/ja-jp/news/other/%E7%B1%B3-%E3%83%99%E3%83%83%E3%82%BB%E3%83%B3%E3%83%88%E8%B2%A1%E5%8B%99%E9%95%B7%E5%AE%98-%E4%B8%AD%E5%9B%BD%E3%81%A8ai%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A9%B1%E3%81%97%E5%90%88%E3%81%86%E7%94%A8%E6%84%8F%E3%81%8C%E3%81%82%E3%82%8B-%E9%80%B1%E6%9C%AB%E3%81%AB%E4%BD%95%E7%AB%8B%E5%B3%B0%E5%89%AF%E9%A6%96%E7%9B%B8%E3%81%A8%E4%BC%9A%E8%AB%87%E3%81%B8/ar-AA2cmLTM",
+      "publishedAt": "2026-09-16T18:03:27.000Z"
+    },
+    {
+      "slug": "feed-a10bdb16e606fbc0",
+      "title": "天津漫展手机事件",
+      "summary": "暂无摘要，请前往原始来源查看完整内容。",
+      "content": [
+        "暂无摘要，请前往原始来源查看完整内容。"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 一颗小兔娘 · 585,761 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1YaeN6xEWR",
+      "publishedAt": "2026-09-16T17:50:11.000Z"
+    },
+    {
+      "slug": "feed-d558176ebfec126b",
+      "title": "中国国际经济交流中心：坚决肃清毕井泉流毒",
+      "summary": "中国国际经济交流中心（ 简称国经中心 ） 消息，9 月 16 日，国经中心党委召开扩大会议， 深刻汲取国经中心原理事长毕井泉严重违纪违法案件教训，坚决肃清毕井泉流毒，切实以全面从严治党新成效推动中心事业健康发展。 院副秘书长、国经中心党委书记马援主持会议。国经中心党委委员、中层干部参加会议。",
+      "content": [
+        "中国国际经济交流中心（ 简称国经中心 ） 消息，9 月 16 日，国经中心党委召开扩大会议， 深刻汲取国经中心原理事长毕井泉严重违纪违法案件教训，坚决肃清毕井泉流毒，切实以全面从严治党新成效推动中心事业健康发展。 院副秘书长、国经中心党委书记马援主持会议。国经中心党委委员、中层干部参加会议。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.sina.com.cn",
+      "sourceUrl": "https://news.sina.com.cn/c/2026-09-17/doc-inisaawt3615913.shtml",
+      "publishedAt": "2026-09-16T17:28:00.000Z"
+    },
+    {
+      "slug": "feed-f3899afd4d6a0a2d",
+      "title": "Our framework for reporting model misalignment",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "content": [
+        "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "OpenAI 官方博客",
+      "sourceUrl": "https://openai.com/index/model-misalignment-reporting-framework",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "sourceLevel": "official",
+      "company": "OpenAI",
+      "importance": 60,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-3f0c679ced8d8862",
+      "title": "Your AI agents can now control your Google Home devices",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "content": [
+        "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "sourceLevel": "reliable",
+      "company": "OpenAI",
+      "importance": 48,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-8e0377c120252e8e",
+      "title": "中国ファーウェイ創業者の「国外逃亡説」は“ネットの与太話”な ...",
+      "summary": "中国を代表するハイテク企業・ファーウェイの創業者一家が国外逃亡したかもしれない--。この衝撃的なニュースを、台湾の複数の大手メディアが「エビデンスはない」と付記しつつ相次いで報じた。中国で何が起きているのか。ジャーナリストの杉本りうこ氏が解説する。",
+      "content": [
+        "中国を代表するハイテク企業・ファーウェイの創業者一家が国外逃亡したかもしれない--。この衝撃的なニュースを、台湾の複数の大手メディアが「エビデンスはない」と付記しつつ相次いで報じた。中国で何が起きているのか。ジャーナリストの杉本りうこ氏が解説する。"
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.livedoor.com",
+      "sourceUrl": "https://news.livedoor.com/article/detail/32345268/",
+      "publishedAt": "2026-09-16T17:00:00.000Z"
+    },
+    {
+      "slug": "feed-853148e5ce9d2e61",
+      "title": "马达加斯加总理到访十八洞村 点赞中国精准扶贫",
+      "summary": "9月16日，马达加斯加总理拉乔纳里松·马米蒂亚纳走进武陵山脉腹地的湘西土家族苗族自治州花垣县十八洞村，探寻中国精准扶贫的“密码”。在十八洞村精准扶贫主题陈列馆内，他驻足细看、认真聆听，随后与村干部、村民面对面亲切交流。拉乔纳里松表示，希望将中国精准扶贫的成功经验借鉴推广到马达加斯加。（记者：张玉洁、戴斌；视频：李元昊） ...",
+      "content": [
+        "9月16日，马达加斯加总理拉乔纳里松·马米蒂亚纳走进武陵山脉腹地的湘西土家族苗族自治州花垣县十八洞村，探寻中国精准扶贫的“密码”。在十八洞村精准扶贫主题陈列馆内，他驻足细看、认真聆听，随后与村干部、村民面对面亲切交流。拉乔纳里松表示，希望将中国精准扶贫的成功经验借鉴推广到马达加斯加。（记者：张玉洁、戴斌；视频：李元昊） ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "news.cn",
+      "sourceUrl": "https://www.news.cn/world/20260917/74135263b16f4df4bbd62fc6142e0ac3/c.html",
+      "publishedAt": "2026-09-16T17:00:00.000Z"
+    },
+    {
+      "slug": "feed-e96fcfbbf5337e17",
+      "title": "金採掘の世界描く王道ミステリー「佐渡絢爛」 武川佑が薦める文庫 ...",
+      "summary": "『佐渡絢爛（けんらん）』 赤神諒著 徳間文庫 １０７８円 『虎と十字架 南部藩虎騒動』 平谷美樹（ひらやよしき）著 実業之日本社文庫 １２１０円 『隆家（りゅうけ）北方食目録 美味なる禁忌と共犯の始まり』 みつきあこ著 角川文庫 ...",
+      "content": [
+        "『佐渡絢爛（けんらん）』 赤神諒著 徳間文庫 １０７８円 『虎と十字架 南部藩虎騒動』 平谷美樹（ひらやよしき）著 実業之日本社文庫 １２１０円 『隆家（りゅうけ）北方食目録 美味なる禁忌と共犯の始まり』 みつきあこ著 角川文庫 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "book.asahi.com",
+      "sourceUrl": "https://book.asahi.com/article/16886084",
+      "publishedAt": "2026-09-16T17:00:00.000Z"
+    },
+    {
+      "slug": "feed-f263acffb5f7bdd7",
+      "title": "舍得在“看不见的地方”下功夫",
+      "summary": "宁夏西吉，曾被联合国认定为“最不适宜人类生存的地区”之一，如今耕耘出“文学之乡”。人口不足50万，却有1600余人长期从事文学创作、涌现出300多名农民作家。 看西吉，可贵的不仅仅在于走出多少作家，更在于文学已融入日常、扎根泥土，成为这片土地上的“大众作物”。近300个村子，村村都有文化书屋；全县校园文学社20多家，创办校刊20多种；各类民间文学社团、乡村“文学雅集”、文学创作基地破土而出……农民 ...",
+      "content": [
+        "宁夏西吉，曾被联合国认定为“最不适宜人类生存的地区”之一，如今耕耘出“文学之乡”。人口不足50万，却有1600余人长期从事文学创作、涌现出300多名农民作家。 看西吉，可贵的不仅仅在于走出多少作家，更在于文学已融入日常、扎根泥土，成为这片土地上的“大众作物”。近300个村子，村村都有文化书屋；全县校园文学社20多家，创办校刊20多种；各类民间文学社团、乡村“文学雅集”、文学创作基地破土而出……农民 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "paper.people.com.cn",
+      "sourceUrl": "https://paper.people.com.cn/rmrb/pc/content/202609/17/content_30181544.html",
+      "publishedAt": "2026-09-16T17:00:00.000Z"
+    },
+    {
+      "slug": "feed-6532aafbf9129115",
+      "title": "「持続可能な食事」を実践するアスリートほどwell-beingと身体能力が ...",
+      "summary": "環境にやさしい持続可能性の高い食事スタイルが、アスリートの身体能力関連指標やwell-beingの高さと関連しているとする研究結果が報告された。交絡因子を調整後、持続可能性の高い食事スタイルがそれらの有意な予測因子だったという。中国からの報 ...",
+      "content": [
+        "環境にやさしい持続可能性の高い食事スタイルが、アスリートの身体能力関連指標やwell-beingの高さと関連しているとする研究結果が報告された。交絡因子を調整後、持続可能性の高い食事スタイルがそれらの有意な予測因子だったという。中国からの報 ..."
+      ],
+      "section": "时事要闻",
+      "category": "国内要闻",
+      "source": "sndj-web.jp",
+      "sourceUrl": "https://sndj-web.jp/news/004112.php",
+      "publishedAt": "2026-09-16T17:00:00.000Z"
+    },
+    {
+      "slug": "feed-6e2c10698576e8b7",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "content": [
+        "Anthropic is initially releasing these features to Pro and Max plan subscribers."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "publishedAt": "2026-09-16T16:30:00.000Z",
+      "sourceLevel": "reliable",
+      "company": "Claude",
+      "importance": 48,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-b0366f9850a9d166",
+      "title": "Helping older adults use AI in everyday life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "content": [
+        "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "OpenAI 官方博客",
+      "sourceUrl": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "sourceLevel": "official",
+      "company": "OpenAI",
+      "importance": 60,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-f1145eca1cbd10af",
+      "title": "A brief history of AI executives calling for regulation",
+      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X […]",
+      "content": [
+        "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X […]"
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "publishedAt": "2026-09-16T15:27:45.000Z",
+      "sourceLevel": "reliable",
+      "company": "OpenAI",
+      "importance": 48,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-720bed5a556c3b47",
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "content": [
+        "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-16T15:00:00.000Z",
+      "sourceLevel": "reliable",
+      "company": "OpenAI",
+      "importance": 48,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-441323ca6cb15cf4",
+      "title": "Step into The Grounds",
+      "summary": "Explore a social football playground where the streets meet the stadium. From Kickabouts and 1v1s to teaming up with friends in Clubs, connect with renowned football mentors, improve your abilities, and express yourself on and off the pitch. https://store.steampowered.com/app/4080220/EA_SPORTS_FC_27/",
+      "content": [
+        "Explore a social football playground where the streets meet the stadium. From Kickabouts and 1v1s to teaming up with friends in Clubs, connect with renowned football mentors, improve your abilities, and express yourself on and off the pitch. https://store.steampowered.com/app/4080220/EA_SPORTS_FC_27/"
+      ],
+      "section": "游戏娱乐",
+      "category": "Steam",
+      "source": "Steam 全球热销榜第 5 名 · Community Announcements",
+      "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489350",
+      "publishedAt": "2026-09-16T14:56:40.000Z"
+    },
+    {
+      "slug": "feed-7f73f40ae99d6225",
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all […]",
+      "content": [
+        "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all […]"
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "publishedAt": "2026-09-16T14:24:02.000Z",
+      "sourceLevel": "reliable",
+      "company": "Claude",
+      "importance": 48,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-441a57e524a81a09",
+      "title": "iPhone18 Pro性能分析：五年来最强的芯片升级！",
+      "summary": "是的，我们实测下来，A20 Pro真的很强，甚至可以说是A15以来苹果芯片最给力的一代！iPhone 18 Pro系列的散热更是堪比安卓游戏手机！到底有多强？为什么这么强？今天我们就来深度分析一下……",
+      "content": [
+        "是的，我们实测下来，A20 Pro真的很强，甚至可以说是A15以来苹果芯片最给力的一代！iPhone 18 Pro系列的散热更是堪比安卓游戏手机！到底有多强？为什么这么强？今天我们就来深度分析一下……"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 极客湾Geekerwan · 950,495 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1oZeA6fERD",
+      "publishedAt": "2026-09-16T13:13:10.000Z"
+    },
+    {
+      "slug": "feed-6ac27c68838b29ee",
+      "title": "Reimagining advertising with AI",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "content": [
+        "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "OpenAI 官方博客",
+      "sourceUrl": "https://openai.com/index/reimagining-advertising-with-ai",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "sourceLevel": "official",
+      "company": "OpenAI",
+      "importance": 60,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-3c5fd72a963cadb5",
+      "title": "微软将取消 Game Pass 首日加入机制？传出潜在变动消息后，Xbox 表示 ...",
+      "summary": "Xbox Game Pass首日加入机制或将取消？微软回应“无可奉告”，传言明年春季起大改，含广告版12.99美元/月，无广告版涨至19.99美元/月，云游戏与家庭方案额外付费。",
+      "content": [
+        "Xbox Game Pass首日加入机制或将取消？微软回应“无可奉告”，传言明年春季起大改，含广告版12.99美元/月，无广告版涨至19.99美元/月，云游戏与家庭方案额外付费。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "news.17173.com",
+      "sourceUrl": "https://news.17173.com/content/09162026/190804617.shtml",
+      "publishedAt": "2026-09-16T12:09:00.000Z"
+    },
     {
       "slug": "feed-fe7ffdbb0dba1ddd",
       "title": "上线5天大赚近6个亿，对话战狗CEO：感谢腾讯当年狠狠地逼我们",
@@ -13,6 +608,49 @@
       "source": "小黑盒",
       "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190791851",
       "publishedAt": "2026-09-16T12:00:10.000Z"
+    },
+    {
+      "slug": "feed-4410122683c56925",
+      "title": "How to connect AI usage to business value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "content": [
+        "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "OpenAI 官方博客",
+      "sourceUrl": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "sourceLevel": "official",
+      "company": "OpenAI",
+      "importance": 60,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-acc6bdffa6578eae",
+      "title": "折叠还是直板？iPhone 18 Pro&Duo深度视频",
+      "summary": "面对折叠屏手机，我们始终绕不开同一个问题“为什么不直接买一台好的直板机？”那 iPhone Duo，到底有没有它不可替代的地方？欢迎收看影视飓风 2026 年 iPhone 评测。哦对了，这次我们依旧准备了 100 台新 iPhone 送给大家，记得去动态参与抽奖！",
+      "content": [
+        "面对折叠屏手机，我们始终绕不开同一个问题“为什么不直接买一台好的直板机？”那 iPhone Duo，到底有没有它不可替代的地方？欢迎收看影视飓风 2026 年 iPhone 评测。哦对了，这次我们依旧准备了 100 台新 iPhone 送给大家，记得去动态参与抽奖！"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 影视飓风 · 2,112,794 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1cSec6tEux",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
+      "slug": "feed-1e6cbd8039090256",
+      "title": "【何同学】很大胆。iPhone 18 Pro首发体验",
+      "summary": "B站当前热门视频，请打开原页面查看完整内容。",
+      "content": [
+        "B站当前热门视频，请打开原页面查看完整内容。"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 老师好我叫何同学 · 715,459 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV12peP6kEnK",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
     },
     {
       "slug": "feed-ba0f0024138b76bf",
@@ -175,19 +813,6 @@
       "publishedAt": "2026-09-16T11:45:57.000Z"
     },
     {
-      "slug": "feed-49e6dce91397f69e",
-      "title": "国服《暗黑破坏神4》再次限时免费领取，领取时限一个月！",
-      "summary": "领取地址：传送门只包含基础版，不包含《憎恨之躯》《憎恨之王》扩展内容。领取时间：北京时间 2026 年 9 月 16 日至 10 月 16 日，一旦领取永久游玩。需国服战网帐号和网易通行证绑定，一个身份证只能领取一次，不管你有多少帐号。《憎恨之王》扩展内容",
-      "content": [
-        "领取地址：传送门只包含基础版，不包含《憎恨之躯》《憎恨之王》扩展内容。领取时间：北京时间 2026 年 9 月 16 日至 10 月 16 日，一旦领取永久游玩。需国服战网帐号和网易通行证绑定，一个身份证只能领取一次，不管你有多少帐号。《憎恨之王》扩展内容"
-      ],
-      "section": "游戏娱乐",
-      "category": "游戏平台",
-      "source": "小黑盒",
-      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190753830",
-      "publishedAt": "2026-09-16T11:45:37.000Z"
-    },
-    {
       "slug": "feed-6826c3b38811ec85",
       "title": "【9/16】今日骨折游戏大全，全部一折及以下（按评分）",
       "summary": "早买早享受，晚买享折扣。又有几款游戏骨折了，各位感兴趣的喝油可以挑一挑。接下来给大家提供简洁的游戏清单：喜欢的喝油可以点个赞充个电哦，谢谢啦[cube_电牛][cube_电牛]",
@@ -199,6 +824,32 @@
       "source": "小黑盒",
       "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190779977",
       "publishedAt": "2026-09-16T11:34:50.000Z"
+    },
+    {
+      "slug": "feed-9fd83c1dbe52028e",
+      "title": "多人联机角斗肉鸽新作《链兽角斗》10月16日发售，首日加入Game Pass ...",
+      "summary": "在竞争激烈的游戏市场中，Featherweight Games宣布其新作《链兽角斗》（Chained Beasts）将于北京时间2026年10月16日凌晨1:00正式发售。该游戏将登陆多个平台，包括Steam、PlayStation 5、Nintendo Switch，并在Xbox及Windows PC首发加入Game Pass，进一步提升了其市场吸引力。 游戏玩法与特色 《链兽角斗》是一款支持1 ...",
+      "content": [
+        "在竞争激烈的游戏市场中，Featherweight Games宣布其新作《链兽角斗》（Chained Beasts）将于北京时间2026年10月16日凌晨1:00正式发售。该游戏将登陆多个平台，包括Steam、PlayStation 5、Nintendo Switch，并在Xbox及Windows PC首发加入Game Pass，进一步提升了其市场吸引力。 游戏玩法与特色 《链兽角斗》是一款支持1 ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "sohu.com",
+      "sourceUrl": "https://www.sohu.com/a/1076904784_122598898",
+      "publishedAt": "2026-09-16T11:06:00.000Z"
+    },
+    {
+      "slug": "feed-9080c6d9ed9d01c4",
+      "title": "三年之期已到，恭迎世一上归位！【第9集】",
+      "summary": "AI生成视频，非真实事件，台词和动作基于短剧模仿设计，并非针对选手，各位选手仅作为演员出场，请勿上纲上线。",
+      "content": [
+        "AI生成视频，非真实事件，台词和动作基于短剧模仿设计，并非针对选手，各位选手仅作为演员出场，请勿上纲上线。"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 九夜听风 · 753,022 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1h4ec6VEs3",
+      "publishedAt": "2026-09-16T11:00:47.000Z"
     },
     {
       "slug": "feed-6ec150a4b0693f07",
@@ -227,6 +878,23 @@
       "publishedAt": "2026-09-16T10:03:57.000Z"
     },
     {
+      "slug": "feed-7d2872733a614740",
+      "title": "How workers are unlocking new ways of working",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "content": [
+        "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "OpenAI 官方博客",
+      "sourceUrl": "https://openai.com/index/unlocking-new-ways-of-working",
+      "publishedAt": "2026-09-16T09:00:00.000Z",
+      "sourceLevel": "official",
+      "company": "OpenAI",
+      "importance": 60,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
       "slug": "feed-e296d389176149db",
       "title": "DOTA2更新7.41F：Ti热门英雄全部削弱！",
       "summary": "没仔细看，但是Ti热门英雄基本全削弱了，还有卡尔幽灵漫步魔晶只能打人了[cube_笑cry]削弱了火女 卡尔 土猫 大树 赏金 影魔 孽主 小狗……v社员工累坏了，继续休假去吧",
@@ -238,6 +906,32 @@
       "source": "小黑盒",
       "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190755047",
       "publishedAt": "2026-09-16T08:51:37.000Z"
+    },
+    {
+      "slug": "feed-8b4405f20c59968f",
+      "title": "5.0L大V8，如今是否还能打？",
+      "summary": "能打一点点",
+      "content": [
+        "能打一点点"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 难评H2S · 419,350 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1mLew6zEPe",
+      "publishedAt": "2026-09-16T08:47:59.000Z"
+    },
+    {
+      "slug": "feed-551d1a6b98a13b81",
+      "title": "《符文世界：龙之荒野》正式版现已推出，系列游戏首次登陆主机平台",
+      "summary": "Jagex: The RuneScape Company 宣布，开放世界生存建造游戏《符文世界：龙之荒野》（RuneScape: Dragonwilds）现已正式登陆PC、PlayStation 5、Nintendo Switch 2 和 Xbox Series X|S 平台。《符文世界：龙之荒野》是《RuneScape》系列 25 年来首次登陆主机平台的作品。游戏在为期 18 个月的 Steam ...",
+      "content": [
+        "Jagex: The RuneScape Company 宣布，开放世界生存建造游戏《符文世界：龙之荒野》（RuneScape: Dragonwilds）现已正式登陆PC、PlayStation 5、Nintendo Switch 2 和 Xbox Series X|S 平台。《符文世界：龙之荒野》是《RuneScape》系列 25 年来首次登陆主机平台的作品。游戏在为期 18 个月的 Steam ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "gamersky.com",
+      "sourceUrl": "https://www.gamersky.com/news/202609/2210630.shtml",
+      "publishedAt": "2026-09-16T07:25:00.000Z"
     },
     {
       "slug": "feed-48f635f6b062744b",
@@ -261,9 +955,48 @@
       ],
       "section": "游戏娱乐",
       "category": "B站热门",
-      "source": "哔哩哔哩热门 · 小潮院长 · 683,043 播放",
+      "source": "哔哩哔哩热门 · 小潮院长 · 2,250,463 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV1t6ex66EKs",
       "publishedAt": "2026-09-16T05:58:20.000Z"
+    },
+    {
+      "slug": "feed-a5aa8cd79f254aa4",
+      "title": "各省的刻板印象这一块",
+      "summary": "暂无摘要，请前往原始来源查看完整内容。",
+      "content": [
+        "暂无摘要，请前往原始来源查看完整内容。"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 不凉少年派 · 1,509,123 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1PneF6bELe",
+      "publishedAt": "2026-09-16T05:51:58.000Z"
+    },
+    {
+      "slug": "feed-b44de1fc2b494e54",
+      "title": "EA《双人成行》10月15日登陆任天堂 Switch 2",
+      "summary": "IT之家 9 月 16 日消息，艺电与 Hazelight 工作室确认《双人成行》将于 2026 年 10 月 15 日登陆任天堂 Switch 2 平台。该版本新增免费好友通行证功能，支持跨平台联机。已拥有 Nintendo Switch 版《双人成行》的玩家可免费升级至 Switch 2 ...",
+      "content": [
+        "IT之家 9 月 16 日消息，艺电与 Hazelight 工作室确认《双人成行》将于 2026 年 10 月 15 日登陆任天堂 Switch 2 平台。该版本新增免费好友通行证功能，支持跨平台联机。已拥有 Nintendo Switch 版《双人成行》的玩家可免费升级至 Switch 2 ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "news.qq.com",
+      "sourceUrl": "https://news.qq.com/rain/a/20260916A03P3T00",
+      "publishedAt": "2026-09-16T05:01:00.000Z"
+    },
+    {
+      "slug": "feed-f49a48ac62e3b31c",
+      "title": "SIE前高管一语成谶，XGP或取消首发入库",
+      "summary": "兜兜转转一圈后，微软还是对XGP动刀了。一直以来，Xbox Game Pass（下文将简称为XGP）的“首发即入库”政策在游戏业界都饱受争议，现任Xbox负责人阿莎·夏尔马似乎决定了要改变这个现状。",
+      "content": [
+        "兜兜转转一圈后，微软还是对XGP动刀了。一直以来，Xbox Game Pass（下文将简称为XGP）的“首发即入库”政策在游戏业界都饱受争议，现任Xbox负责人阿莎·夏尔马似乎决定了要改变这个现状。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "msn.cn",
+      "sourceUrl": "https://www.msn.cn/zh-cn/news/other/sie%E5%89%8D%E9%AB%98%E7%AE%A1%E4%B8%80%E8%AF%AD%E6%88%90%E8%B0%B6-xgp%E6%88%96%E5%8F%96%E6%B6%88%E9%A6%96%E5%8F%91%E5%85%A5%E5%BA%93/ar-AA2ckKYG",
+      "publishedAt": "2026-09-16T04:43:00.000Z"
     },
     {
       "slug": "feed-6664268ac1c9ce48",
@@ -277,6 +1010,19 @@
       "source": "donews.com",
       "sourceUrl": "https://www.donews.com/news/detail/8/6712065.html",
       "publishedAt": "2026-09-16T04:31:00.000Z"
+    },
+    {
+      "slug": "feed-94a4377f3a21ef8f",
+      "title": "《符文世界：龙之荒野》正式上线主机平台，系列首次跨足家用游戏 ...",
+      "summary": "开放世界生存建造游戏《符文世界：龙之荒野》（RuneScape: Dragonwilds）已正式发布，并首次登陆PC、PlayStation 5、Nintendo Switch 2和Xbox Series X|S平台。这一里程碑标志着《RuneScape》系列自推出以来的25年中，首次进入主机市场。 在为期18个月的Steam抢先体验阶段，《符文世界：龙之荒野》销量超过150万份，吸引了大量玩家探 ...",
+      "content": [
+        "开放世界生存建造游戏《符文世界：龙之荒野》（RuneScape: Dragonwilds）已正式发布，并首次登陆PC、PlayStation 5、Nintendo Switch 2和Xbox Series X|S平台。这一里程碑标志着《RuneScape》系列自推出以来的25年中，首次进入主机市场。 在为期18个月的Steam抢先体验阶段，《符文世界：龙之荒野》销量超过150万份，吸引了大量玩家探 ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "sohu.com",
+      "sourceUrl": "https://www.sohu.com/a/1076772894_122598898",
+      "publishedAt": "2026-09-16T04:13:00.000Z"
     },
     {
       "slug": "feed-cb0dffe3322fd929",
@@ -302,8 +1048,7 @@
       "category": "国内要闻",
       "source": "cctd.com.cn",
       "sourceUrl": "https://www.cctd.com.cn/show-176-257156-1.html",
-      "publishedAt": "2026-09-16T03:57:00.000Z",
-      "featured": true
+      "publishedAt": "2026-09-16T03:57:00.000Z"
     },
     {
       "slug": "feed-28316e364c208254",
@@ -358,6 +1103,19 @@
       "publishedAt": "2026-09-16T03:03:00.000Z"
     },
     {
+      "slug": "feed-307a463dedd4707a",
+      "title": "《鸣潮》动画短片 | 寻心",
+      "summary": "月高高，月遥遥。 谁把人间偷瞧。 灯火摇，岁月好。 心事谁知晓。 中文CV 心：菊花花 玉珏（奶奶）：林美玉 玉玥（孙女）：胡影佳 日文CV 心：能登麻美子 玉珏（奶奶）：下田岑易 玉玥（孙女）：高岸美里亚 英文CV 心：Suzie Yeung 玉珏（奶奶）：Haruka Abe 玉玥（孙女）：Hanako Footman 韩文CV 心：소연 玉珏（奶奶）：장희라 玉玥（孙女）：김수영",
+      "content": [
+        "月高高，月遥遥。 谁把人间偷瞧。 灯火摇，岁月好。 心事谁知晓。 中文CV 心：菊花花 玉珏（奶奶）：林美玉 玉玥（孙女）：胡影佳 日文CV 心：能登麻美子 玉珏（奶奶）：下田岑易 玉玥（孙女）：高岸美里亚 英文CV 心：Suzie Yeung 玉珏（奶奶）：Haruka Abe 玉玥（孙女）：Hanako Footman 韩文CV 心：소연 玉珏（奶奶）：장희라 玉玥（孙女）：김수영"
+      ],
+      "section": "游戏娱乐",
+      "category": "B站热门",
+      "source": "哔哩哔哩热门 · 鸣潮 · 2,578,341 播放",
+      "sourceUrl": "https://www.bilibili.com/video/BV1WAec6fE5N",
+      "publishedAt": "2026-09-16T03:00:00.000Z"
+    },
+    {
       "slug": "feed-5d1b6dbc854d809b",
       "title": "潘功胜《求是》撰文：深刻认识中国金融结构变迁，提升金融服务 ...",
       "summary": "金融是国民经济的血脉。血脉是否畅通，不仅在于总量，更在于结构。习近平总书记指出，合理健康的金融结构是金融持续健康发展并有效为实体经济服务的前提。近年来，我国经济运行总体平稳、向新向优，高质量发展不断取得新成效，金融结构也在这一进程中发生深刻变化。同时要看到，随着经济增长动能的新旧转换和产业结构转型的深入推进，优化金融结构、提升金融服务质效面临新的更高要求。做好当前和今后一个时期的经济金融工作，需要 ...",
@@ -368,19 +1126,6 @@
       "category": "国内要闻",
       "source": "thepaper.cn",
       "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_34079446",
-      "publishedAt": "2026-09-16T03:00:00.000Z"
-    },
-    {
-      "slug": "feed-307a463dedd4707a",
-      "title": "《鸣潮》动画短片 | 寻心",
-      "summary": "月高高，月遥遥。 谁把人间偷瞧。 灯火摇，岁月好。 心事谁知晓。 中文CV 心：菊花花 玉珏（奶奶）：林美玉 玉玥（孙女）：胡影佳 日文CV 心：能登麻美子 玉珏（奶奶）：下田岑易 玉玥（孙女）：高岸美里亚 英文CV 心：Suzie Yeung 玉珏（奶奶）：Haruka Abe 玉玥（孙女）：Hanako Footman 韩文CV 心：소연 玉珏（奶奶）：장희라 玉玥（孙女）：김수영",
-      "content": [
-        "月高高，月遥遥。 谁把人间偷瞧。 灯火摇，岁月好。 心事谁知晓。 中文CV 心：菊花花 玉珏（奶奶）：林美玉 玉玥（孙女）：胡影佳 日文CV 心：能登麻美子 玉珏（奶奶）：下田岑易 玉玥（孙女）：高岸美里亚 英文CV 心：Suzie Yeung 玉珏（奶奶）：Haruka Abe 玉玥（孙女）：Hanako Footman 韩文CV 心：소연 玉珏（奶奶）：장희라 玉玥（孙女）：김수영"
-      ],
-      "section": "游戏娱乐",
-      "category": "B站热门",
-      "source": "哔哩哔哩热门 · 鸣潮 · 1,862,315 播放",
-      "sourceUrl": "https://www.bilibili.com/video/BV1WAec6fE5N",
       "publishedAt": "2026-09-16T03:00:00.000Z"
     },
     {
@@ -431,7 +1176,7 @@
       ],
       "section": "游戏娱乐",
       "category": "B站热门",
-      "source": "哔哩哔哩热门 · 星球研究所 · 483,477 播放",
+      "source": "哔哩哔哩热门 · 星球研究所 · 2,196,499 播放",
       "sourceUrl": "https://www.bilibili.com/video/BV1fYes6xEmq",
       "publishedAt": "2026-09-16T02:32:51.000Z"
     },
@@ -501,19 +1246,6 @@
       "publishedAt": "2026-09-16T02:00:00.000Z"
     },
     {
-      "slug": "feed-a125f165335cfbaf",
-      "title": "Dota2游戏性更新：7.41f",
-      "summary": "数据来源：Dota2官网游戏性更新：7.41f物品改动凝魂之露魔法恢复加成从+0.8减少至+0.6狂战斧砍伐的冷却时间从4秒减少至3秒代达罗斯之殇图纸价格从900金增加至1000金。总价从5100金增加至5200金魔龙枪图纸售价从450金增加至550金。总",
-      "content": [
-        "数据来源：Dota2官网游戏性更新：7.41f物品改动凝魂之露魔法恢复加成从+0.8减少至+0.6狂战斧砍伐的冷却时间从4秒减少至3秒代达罗斯之殇图纸价格从900金增加至1000金。总价从5100金增加至5200金魔龙枪图纸售价从450金增加至550金。总"
-      ],
-      "section": "游戏娱乐",
-      "category": "游戏平台",
-      "source": "小黑盒",
-      "sourceUrl": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=190752916",
-      "publishedAt": "2026-09-16T01:59:24.000Z"
-    },
-    {
       "slug": "feed-b5e2e0f27967c14d",
       "title": "笑笑谈Wayward被重罚：不是一个档次的，DYS二路8年依旧是顶尖",
       "summary": "LPL精彩资讯依旧在火热进行中，没想到的是，在IG和TES冒泡赛大战之前，Theshy竟然又被带节奏了，人气高，确实没有办法，总是会被提到。这不，这次带节奏的竟然是Wayward，关键是他才被处罚不久啊，这是真的屡教不改吗？还是故意的，就是不想继续直播生涯",
@@ -551,6 +1283,19 @@
       "source": "NodeSeek精选",
       "sourceUrl": "https://www.nodeseek.com/post-931113-1",
       "publishedAt": "2026-09-16T01:53:46.000Z"
+    },
+    {
+      "slug": "feed-13ec9364e2e44ce2",
+      "title": "《战狗》发售 5 天卖出 200 万份，开发商 BULKHEAD 却自称“既不透明也 ...",
+      "summary": "IT之家 9 月 16 日消息，《战狗》给 BULKHEAD 带来了巨大成功，不到一周内卖出 200 万份。然而，CEO 乔 · 布拉默在接受 The Game Business 采访时，公开了一套颇具争议的游戏开发理念。 《战狗》通过一段名为《10 个不要购买的理由》的视频公布抢先体验发布日期。开发团队在视频中列出了 10 ...",
+      "content": [
+        "IT之家 9 月 16 日消息，《战狗》给 BULKHEAD 带来了巨大成功，不到一周内卖出 200 万份。然而，CEO 乔 · 布拉默在接受 The Game Business 采访时，公开了一套颇具争议的游戏开发理念。 《战狗》通过一段名为《10 个不要购买的理由》的视频公布抢先体验发布日期。开发团队在视频中列出了 10 ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "msn.com",
+      "sourceUrl": "https://www.msn.com/zh-cn/gaming/%E9%80%9A%E7%94%A8/%E6%88%98%E7%8B%97-%E5%8F%91%E5%94%AE-5-%E5%A4%A9%E5%8D%96%E5%87%BA-200-%E4%B8%87%E4%BB%BD-%E5%BC%80%E5%8F%91%E5%95%86-bulkhead-%E5%8D%B4%E8%87%AA%E7%A7%B0-%E6%97%A2%E4%B8%8D%E9%80%8F%E6%98%8E%E4%B9%9F%E4%B8%8D%E8%AF%9A%E5%AE%9E/ar-AA2ckpCm",
+      "publishedAt": "2026-09-16T01:53:20.000Z"
     },
     {
       "slug": "feed-56feb903b36cba61",
@@ -735,6 +1480,19 @@
       "publishedAt": "2026-09-16T00:18:26.000Z"
     },
     {
+      "slug": "feed-1ef56fcbfa163ba5",
+      "title": "多人联机角斗肉鸽新作《链兽角斗》将于10月16日登陆PC及主机",
+      "summary": "首发加入Game Pass ...",
+      "content": [
+        "首发加入Game Pass ..."
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "msn.cn",
+      "sourceUrl": "https://www.msn.cn/zh-cn/gaming/%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83%E7%9A%84%E6%B8%B8%E6%88%8F/%E5%A4%9A%E4%BA%BA%E8%81%94%E6%9C%BA%E8%A7%92%E6%96%97%E8%82%89%E9%B8%BD%E6%96%B0%E4%BD%9C-%E9%93%BE%E5%85%BD%E8%A7%92%E6%96%97-%E5%B0%86%E4%BA%8E10%E6%9C%8816%E6%97%A5%E7%99%BB%E9%99%86pc%E5%8F%8A%E4%B8%BB%E6%9C%BA/ar-AA2cmyOo",
+      "publishedAt": "2026-09-15T23:25:48.000Z"
+    },
+    {
       "slug": "feed-49602f6fde1edb05",
       "title": "中国规范涉企行政执法专项行动 为企业挽回近310亿人民币",
       "summary": "（北京综合讯）中国去年开始推进一项涉及企业的规范行政执法专项行动，截至目前，共纠正9万多件有突出问题的案件，为企业挽回经济损失近310亿元（人民币，58亿8200万新元）。 据《新京报》报道，中国司法部法治调研局局长任勇星期三（9月16日）在发布会上指出，司法部牵头开展这一行动至今，全国涉及企业的行政检查频次大幅下降，检查的精准度、有效性明显提升。",
@@ -748,19 +1506,6 @@
       "publishedAt": "2026-09-15T22:30:00.000Z"
     },
     {
-      "slug": "feed-3c5fd72a963cadb5",
-      "title": "微软将取消 Game Pass 首日加入机制？传出潜在变动消息后，Xbox 表示 ...",
-      "summary": "Xbox Game Pass首日加入机制或将取消？微软回应“无可奉告”，传言明年春季起大改，含广告版12.99美元/月，无广告版涨至19.99美元/月，云游戏与家庭方案额外付费。",
-      "content": [
-        "Xbox Game Pass首日加入机制或将取消？微软回应“无可奉告”，传言明年春季起大改，含广告版12.99美元/月，无广告版涨至19.99美元/月，云游戏与家庭方案额外付费。"
-      ],
-      "section": "游戏娱乐",
-      "category": "游戏新闻",
-      "source": "news.17173.com",
-      "sourceUrl": "https://news.17173.com/content/09162026/190804617.shtml",
-      "publishedAt": "2026-09-15T22:08:00.000Z"
-    },
-    {
       "slug": "feed-f4349606fba16ad0",
       "title": "2 MILLION COPIES SOLD",
       "summary": "2 MILLION COPIES SOLD.Thank you all. Beyond humbled.We made a game we wanted to play with friends.Watching you play it with yours has been the best.Huge launch weekend. Thanks to everyone who played.Here's a snapshot of the numbers:",
@@ -772,19 +1517,6 @@
       "source": "Steam 全球热销榜第 1 名 · Community Announcements",
       "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705755",
       "publishedAt": "2026-09-15T21:44:58.000Z"
-    },
-    {
-      "slug": "feed-9fd83c1dbe52028e",
-      "title": "多人联机角斗肉鸽新作《链兽角斗》10月16日发售，首日加入Game Pass ...",
-      "summary": "在竞争激烈的游戏市场中，Featherweight Games宣布其新作《链兽角斗》（Chained Beasts）将于北京时间2026年10月16日凌晨1:00正式发售。该游戏将登陆多个平台，包括Steam、PlayStation 5、Nintendo Switch，并在Xbox及Windows PC首发加入Game Pass，进一步提升了其市场吸引力。 游戏玩法与特色 《链兽角斗》是一款支持1 ...",
-      "content": [
-        "在竞争激烈的游戏市场中，Featherweight Games宣布其新作《链兽角斗》（Chained Beasts）将于北京时间2026年10月16日凌晨1:00正式发售。该游戏将登陆多个平台，包括Steam、PlayStation 5、Nintendo Switch，并在Xbox及Windows PC首发加入Game Pass，进一步提升了其市场吸引力。 游戏玩法与特色 《链兽角斗》是一款支持1 ..."
-      ],
-      "section": "游戏娱乐",
-      "category": "游戏新闻",
-      "source": "sohu.com",
-      "sourceUrl": "https://www.sohu.com/a/1076904784_122598898",
-      "publishedAt": "2026-09-15T21:06:00.000Z"
     },
     {
       "slug": "feed-15b4350032237535",
@@ -801,7 +1533,7 @@
       "sourceLevel": "reliable",
       "company": "OpenAI",
       "importance": 48,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-f7d593d49a6092f5",
@@ -857,7 +1589,7 @@
       "sourceLevel": "reliable",
       "company": "OpenAI",
       "importance": 48,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-586d32ce4ba8d095",
@@ -965,7 +1697,20 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 90,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-9cbf25d4d09ff3c8",
+      "title": "双人成行登陆 Switch 2,39.99 美元 , 老玩家升级却分地区",
+      "summary": "《双人成行》是一款双人合作动作冒险游戏，玩家扮演被魔法变成玩偶的科迪与小梅，在奇幻世界中协作闯关。该作曾获得 TGA 2021 年度游戏、DICE 年度游戏等超过 90 个奖项 。",
+      "content": [
+        "《双人成行》是一款双人合作动作冒险游戏，玩家扮演被魔法变成玩偶的科迪与小梅，在奇幻世界中协作闯关。该作曾获得 TGA 2021 年度游戏、DICE 年度游戏等超过 90 个奖项 。"
+      ],
+      "section": "游戏娱乐",
+      "category": "游戏新闻",
+      "source": "myzaker.com",
+      "sourceUrl": "https://www.myzaker.com/article/6aa9fbaa8e9f0938bf7395b2",
+      "publishedAt": "2026-09-15T17:00:00.000Z"
     },
     {
       "slug": "feed-0dd99ae2845c8dc7",
@@ -1060,7 +1805,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-6fff55fdf7cb614f",
@@ -1077,7 +1822,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-50f1fa34d3c31e12",
@@ -1094,7 +1839,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-b9257ae895cdc1f3",
@@ -1124,7 +1869,7 @@
       "sourceLevel": "reliable",
       "company": "OpenAI",
       "importance": 48,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-9398e73a74dee850",
@@ -1135,7 +1880,7 @@
       ],
       "section": "游戏娱乐",
       "category": "Steam",
-      "source": "Steam 全球热销榜第 3 名 · Community Announcements",
+      "source": "Steam 全球热销榜第 4 名 · Community Announcements",
       "sourceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704926",
       "publishedAt": "2026-09-15T15:28:24.000Z"
     },
@@ -1154,7 +1899,7 @@
       "sourceLevel": "official",
       "company": "Claude",
       "importance": 80,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-b21c5e1ffc812be8",
@@ -1171,7 +1916,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-2b82b6d196ef5d3f",
@@ -2024,7 +2769,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 80,
-      "collectedAt": "2026-09-16T12:00:08.684Z",
+      "collectedAt": "2026-09-17T02:00:08.790Z",
       "relatedSources": [
         {
           "title": "v3.14.1",
@@ -2132,7 +2877,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-61058834c1e5981d",
@@ -2370,7 +3115,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-abc5a03db0c9b641",
@@ -2486,7 +3231,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 60,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-758b5b845d9fee4a",
@@ -3218,7 +3963,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 60,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-da05e40f3624352e",
@@ -5905,7 +6650,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 80,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-6112041d07320836",
@@ -6572,7 +7317,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-6f0b3958a27d71b2",
@@ -6718,7 +7463,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 80,
-      "collectedAt": "2026-09-16T12:00:08.684Z",
+      "collectedAt": "2026-09-17T02:00:08.790Z",
       "relatedSources": [
         {
           "title": "v3.12.0",
@@ -6853,7 +7598,7 @@
       "sourceLevel": "official",
       "company": "Claude",
       "importance": 80,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-1de8428a4f6c9fd2",
@@ -7012,23 +7757,6 @@
       "publishedAt": "2026-09-10T16:28:00.000Z"
     },
     {
-      "slug": "feed-39842fa0b34b37cb",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "content": [
-        "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
-      ],
-      "section": "科技网络",
-      "category": "AI与科技",
-      "source": "OpenAI 官方博客",
-      "sourceUrl": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
-      "sourceLevel": "official",
-      "company": "OpenAI",
-      "importance": 60,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
-    },
-    {
       "slug": "feed-ceadd21f5d3a2d65",
       "title": "3 ways to prep for your next big race with Search",
       "summary": "暂无摘要，请前往原始来源查看完整内容。",
@@ -7042,6 +7770,23 @@
       "publishedAt": "2026-09-10T16:00:00.000Z",
       "sourceLevel": "official",
       "company": "Gemini",
+      "importance": 60,
+      "collectedAt": "2026-09-17T02:00:08.790Z"
+    },
+    {
+      "slug": "feed-39842fa0b34b37cb",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "content": [
+        "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+      ],
+      "section": "科技网络",
+      "category": "AI与科技",
+      "source": "OpenAI 官方博客",
+      "sourceUrl": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "sourceLevel": "official",
+      "company": "OpenAI",
       "importance": 60,
       "collectedAt": "2026-09-16T12:00:08.684Z"
     },
@@ -7549,7 +8294,7 @@
       "sourceLevel": "official",
       "company": "DeepSeek",
       "importance": 80,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-9ed37c87a9feffcf",
@@ -8582,7 +9327,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-82b8bf7db8ec7233",
@@ -10020,7 +10765,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 80,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-c608051ae8dce2b5",
@@ -10106,7 +10851,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 60,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-c4cddb952dd5f63f",
@@ -14408,7 +15153,7 @@
       "sourceLevel": "official",
       "company": "Claude",
       "importance": 80,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-3310052217d5f469",
@@ -15905,7 +16650,7 @@
       "sourceLevel": "official",
       "company": "OpenAI",
       "importance": 80,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-d7c7db6c2e14e56c",
@@ -16411,7 +17156,7 @@
       "sourceLevel": "official",
       "company": "Gemini",
       "importance": 90,
-      "collectedAt": "2026-09-16T12:00:08.684Z"
+      "collectedAt": "2026-09-17T02:00:08.790Z"
     },
     {
       "slug": "feed-3058df3b96e49870",
